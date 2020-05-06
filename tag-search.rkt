@@ -2,19 +2,22 @@
 
 (require (for-syntax syntax/parse) racket/function)
 
+(define (trim str)
+  (first (regexp-match #px"\\S.*\\S|\\S|$" str)))
+
 (struct entry (title tags)
   #:transparent)
 
 (define (build-the-list str)
-  (define (split-remove-empty pat str)
+  [define (clean-split pat str)
     (filter
      (λ(s) (not (equal? "" s)))
-     (regexp-split pat str)))
+     (map trim (regexp-split pat str)))]
   [define split
-    (map (curry split-remove-empty #rx"\n+")
-         (split-remove-empty #rx"~+" str))]
+    (map (curry clean-split #rx"\n+")
+         (clean-split #rx"~+" str))]
   (map (match-lambda
-         [(cons title tags) (entry title tags)])
+         [(cons title tags) (entry title (list->set tags))])
        split))
 
 (define (f-and a b) (and a b))
@@ -49,3 +52,8 @@
 
 
 (define st (set "1" "2" "3"))
+
+
+(define the-list
+  (build-the-list
+   "~game1\ntag1\ntag2\ntag3~game2\ntag3\ntag4"))
