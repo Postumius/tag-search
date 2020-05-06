@@ -29,10 +29,7 @@
   (filter (compose (tag?->pred tag/pred) entry-tags) ls))
 
 
-
 (define st (set "1" "2" "3"))
 
-
 (define the-list
-  (build-the-list
-   "~game1\ntag1\ntag2\ntag3~game2\ntag3\ntag4"))
+  (build-the-list))
