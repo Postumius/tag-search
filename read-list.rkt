@@ -5,15 +5,20 @@
 (define path-to-list "the-list.txt")
 
 (define (read-string filename)
-  [define file (open-input-file filename)]
+  [define in (open-input-file filename)]
   [define (file->string)
-    [define line (read-line file)]
+    [define line (read-line in)]
     (if (eof-object? line)
         ""
         (string-append line "\n" (file->string)))]
   [define str (file->string)]
-  (close-input-port file)
+  (close-input-port in)
   str)
+
+(define (write-string str filename)
+  [define out (open-output-file filename #:exists 'truncate)]
+  (display str out)
+  (close-output-port out))
 
 (define (trim str)
   (first (regexp-match #px"\\S.*\\S|\\S|$" str)))
@@ -22,7 +27,7 @@
   #:transparent)
 
 (define (build-the-list)
-  [define str path-to-list]
+  [define str (read-string path-to-list)]
   [define (clean-split pat str)
     (filter
      (λ(s) (not (equal? "" s)))
@@ -34,12 +39,25 @@
          [(cons title tags) (entry title (list->set tags))])
        split))
 
-(define (format-tags i tags)
-  (match tags
-    ['() "\n"]
-    [(cons t '()) (string-append t "\n")]
-    [(cons t ts)
+(define (format-tags tags)
+  (define (inner i ls)
+    (match ls
+      ['() "\n\n"]
+      [(cons t '()) (string-append t "\n\n")]
+      [(cons t ts)
+       (string-append
+        t (if (zero? (modulo (- i 2) 3)) ",\n      " ", ")
+        (inner (add1 i) ts))]))
+  (inner 0 (sort (set->list tags) string<?)))
+
+(define (format-the-list ls)
+  (foldl
+   (λ(ent str)
      (string-append
-      t (if (zero? (modulo (- i 2) 3)) ",\n" ", ")
-      (format-tags (add1 i) ts))]))
+      "title: " (entry-title ent)
+      "\ntags: " (format-tags (entry-tags ent))
+      str))
+   ""
+   (sort ls (λ(e1 e2)
+              (string<? (entry-title e1) (entry-title e2))))))
 

@@ -28,8 +28,15 @@
 (define (tag-search ls tag/pred)
   (filter (compose (tag?->pred tag/pred) entry-tags) ls))
 
+(define all-tags
+  (compose
+   (curryr sort string<?)
+   set->list
+   (curry foldr (λ(ent st)
+                  (set-union st (entry-tags ent)))
+          (set))))
 
-(define st (set "1" "2" "3"))
+;(define st (set "1" "2" "3"))
 
 (define the-list
   (build-the-list))

@@ -1,6 +1,11495 @@
-~game1
-tag1
-tag2
-~game2
-tag2
-tag3
+﻿~ABZU
+Relaxing
+Atmospheric
+Underwater
+Exploration
+Great Soundtrack
+Adventure
+Singleplayer
+Casual
+Indie
+Colorful
+Fantasy
+Family Friendly
+Short
+Story Rich
+Open World
+Simulation
+Beautiful
+Third Person
+Walking Simulator
+Controller
+~Age of Wonders II: The Wizard's Throne
+Strategy
+RPG
+Fantasy
+Turn-Based Strategy
+Turn-Based
+4X
+Classic
+~Age of Wonders III
+Strategy
+Turn-Based Strategy
+Fantasy
+RPG
+4X
+Turn-Based
+Multiplayer
+Singleplayer
+Tactical
+Masterpiece
+Hex Grid
+Co-op
+Adventure
+Grand Strategy
+Great Soundtrack
+Classic
+Atmospheric
+Moddable
+Action
+Female Protagonist
+~A Hat in Time
+Cute
+3D Platformer
+Collectathon
+Great Soundtrack
+Female Protagonist
+Adventure
+Indie
+Platformer
+Funny
+Exploration
+Colorful
+Third Person
+Singleplayer
+Open World
+Comedy
+Moddable
+Co-op
+Family Friendly
+Kickstarter
+Action
+~AI War
+Strategy
+RTS
+Space
+Indie
+Sci-fi
+Co-op
+4X
+Grand Strategy
+Difficult
+Tactical
+Great Soundtrack
+Singleplayer
+Multiplayer
+Tower Defense
+Simulation
+2D
+Replay Value
+Real-Time with Pause
+Cult Classic
+Classic
+~AI War 2
+Strategy
+Indie
+Simulation
+Space
+RTS
+Sci-fi
+Grand Strategy
+4X
+Real-Time with Pause
+Singleplayer
+Replay Value
+Moddable
+Great Soundtrack
+Difficult
+Tactical
+Early Access
+Co-op
+Multiplayer
+~Alan Wake
+Action
+Horror
+Adventure
+Third Person
+Story Rich
+Thriller
+Atmospheric
+Singleplayer
+Psychological Horror
+Great Soundtrack
+Mystery
+Episodic
+Third-Person Shooter
+Dark
+Supernatural
+Masterpiece
+Cinematic
+Narration
+Survival Horror
+Shooter
+~Alien: Isolation
+Horror
+Survival Horror
+Sci-fi
+Atmospheric
+Aliens
+Stealth
+First-Person
+Space
+Survival
+Female Protagonist
+Singleplayer
+Action
+Difficult
+Adventure
+Great Soundtrack
+FPS
+Psychological Horror
+Masterpiece
+Gore
+Shooter
+~American Truck Simulator
+Automobile Sim
+Simulation
+Driving
+Open World
+America
+Realistic
+Multiplayer
+Singleplayer
+Relaxing
+Moddable
+First-Person
+Exploration
+Economy
+Atmospheric
+Adventure
+Casual
+Indie
+Family Friendly
+Management
+Third Person
+~Among the Sleep
+Horror
+Indie
+Adventure
+Atmospheric
+First-Person
+Singleplayer
+Walking Simulator
+Survival Horror
+Masterpiece
+Dark
+Action
+Puzzle
+Short
+Psychological Horror
+Exploration
+Cute
+Story Rich
+Survival
+Stealth
+VR
+~Antihero
+Strategy
+Indie
+Board Game
+Turn-Based
+Multiplayer
+Asynchronous Multiplayer
+Local Multiplayer
+Crime
+Turn-Based Strategy
+Singleplayer
+~Apotheon
+Action
+Mythology
+Adventure
+Indie
+Platformer
+Metroidvania
+2D
+RPG
+Side Scroller
+Historical
+Singleplayer
+Stylized
+Great Soundtrack
+Atmospheric
+Difficult
+Masterpiece
+Multiplayer
+~Arcanum: Of Steamworks and Magick Obscura
+RPG
+Steampunk
+Story Rich
+Isometric
+Classic
+Fantasy
+Atmospheric
+Singleplayer
+Open World
+Magic
+CRPG
+Cult Classic
+Character Customization
+Great Soundtrack
+Choices Matter
+Turn-Based Combat
+Adventure
+Real-Time with Pause
+Turn-Based
+Female Protagonist
+~Arma 2
+Simulation
+Military
+Action
+Multiplayer
+Tactical
+Realistic
+FPS
+Open World
+Strategy
+Shooter
+War
+First-Person
+Co-op
+Moddable
+Singleplayer
+Sandbox
+Third Person
+Zombies
+Third-Person Shooter
+TrackIR
+~Arma 3
+Action
+Multiplayer
+Military
+Simulation
+Shooter
+First-Person
+Realistic
+Open World
+Tactical
+FPS
+Co-op
+War
+Strategy
+Sandbox
+Moddable
+Combat
+Online Co-Op
+Team-Based
+Singleplayer
+Third-Person Shooter
+~Armello
+Board Game
+Tabletop
+Turn-Based Strategy
+Multiplayer
+Strategy
+Card Game
+Fantasy
+Indie
+Adventure
+RPG
+Dark Fantasy
+Hex Grid
+Turn-Based
+Great Soundtrack
+Tactical RPG
+Cute
+Singleplayer
+Multiple Endings
+Kickstarter
+Grand Strategy
+~Artifact Adventure
+RPG
+Indie
+Retro
+RPGMaker
+2D
+Turn-Based
+JRPG
+Pixel Graphics
+Fantasy
+Singleplayer
+Medieval
+1980s
+Nonlinear
+Multiple Endings
+Character Customization
+Class-Based
+Choices Matter
+Open World
+Experimental
+Silent Protagonist
+~Assassin's Creed 2
+Action
+Open World
+Parkour
+Adventure
+Stealth
+Assassin
+Third Person
+Historical
+Story Rich
+Singleplayer
+Great Soundtrack
+Atmospheric
+Conspiracy
+Action-Adventure
+Masterpiece
+Classic
+Multiplayer
+Controller
+Alternate History
+Sandbox
+~Assassin's Creed Odyssey
+Open World
+RPG
+Assassin
+Action
+Singleplayer
+Adventure
+Historical
+Stealth
+Story Rich
+Female Protagonist
+Third Person
+Parkour
+Sexual Content
+Choices Matter
+Violent
+Atmospheric
+Multiplayer
+Nudity
+Great Soundtrack
+Gore
+~A Valley Without Wind
+Platformer
+Action
+Indie
+Adventure
+Procedural Generation
+Experimental
+Open World
+Multiplayer
+Metroidvania
+Co-op
+2D
+Roguevania
+Action Roguelike
+Roguelite
+Magic
+Singleplayer
+Loot
+Exploration
+Sci-fi
+Fantasy
+~Awesomenauts
+MOBA
+Multiplayer
+2D
+Platformer
+Action
+Indie
+Local Co-Op
+Co-op
+Great Soundtrack
+Strategy
+Free to Play
+Controller
+Local Multiplayer
+Sci-fi
+Online Co-Op
+Competitive
+Space
+Side Scroller
+Cartoon
+Funny
+~Aztez
+Action
+Indie
+Strategy
+Beat 'em up
+2D Fighter
+Character Action Game
+Fighting
+~Baldur's Gate
+RPG
+Fantasy
+Classic
+Dungeons & Dragons
+Isometric
+Party-Based RPG
+Real-Time with Pause
+Singleplayer
+Strategy
+CRPG
+Story Rich
+Character Customization
+Co-op
+Adventure
+Multiplayer
+Masterpiece
+Online Co-Op
+Magic
+Remake
+Atmospheric
+~Baldur's Gate II
+RPG
+Classic
+Fantasy
+Isometric
+Party-Based RPG
+Dungeons & Dragons
+Real-Time with Pause
+Strategy
+Story Rich
+Masterpiece
+CRPG
+Singleplayer
+Adventure
+Old School
+Character Customization
+Magic
+Multiplayer
+Atmospheric
+Remake
+Online Co-Op
+~The Bard's Tale Trilogy
+RPG
+Classic
+Dungeon Crawler
+Fantasy
+Singleplayer
+Grid-Based Movement
+Old School
+Remake
+Party-Based RPG
+First-Person
+CRPG
+Retro
+~Bastion
+Great Soundtrack
+Indie
+Action
+Narration
+Singleplayer
+RPG
+Hack and Slash
+Story Rich
+Dynamic Narration
+Isometric
+Adventure
+Action RPG
+Masterpiece
+Fantasy
+Atmospheric
+Colorful
+Post-apocalyptic
+2D
+Music
+Twin Stick Shooter
+~Batman: Arkham Knight
+Batman
+Action
+Open World
+Superhero
+Stealth
+Adventure
+Third Person
+Singleplayer
+Detective
+Fighting
+Atmospheric
+Story Rich
+Dark
+Comic Book
+Masterpiece
+Beat 'em up
+Puzzle
+Mature
+Strategy
+Sandbox
+~Battle Chef Brigade
+Action
+RPG
+Indie
+Adventure
+Anime
+Puzzle
+Female Protagonist
+Match 3
+Hand-drawn
+Singleplayer
+Story Rich
+2D
+Family Friendly
+Fantasy
+Local Multiplayer
+Side Scroller
+Platformer
+~Battle of the Bulge
+Strategy
+World War II
+Turn-Based Strategy
+War
+Turn-Based
+Asynchronous Multiplayer
+Wargame
+Tactical
+Turn-Based Tactics
+Singleplayer
+Historical
+~Battlerite
+PvP
+Multiplayer
+Competitive
+MOBA
+Action
+Free to Play
+Arena Shooter
+Fast-Paced
+Team-Based
+Fighting
+Top-Down
+Early Access
+Strategy
+eSports
+Difficult
+Great Soundtrack
+RPG
+Hack and Slash
+Top-Down Shooter
+Atmospheric
+~Battlefield: Bad Company 2
+FPS
+Multiplayer
+Action
+Shooter
+War
+Team-Based
+First-Person
+Destruction
+Military
+Singleplayer
+Co-op
+Tactical
+Atmospheric
+Open World
+Classic
+Masterpiece
+Comedy
+Strategy
+Adventure
+Simulation
+~Battlefleet Gothic: Armada
+Strategy
+Warhammer 40K
+Space
+RTS
+Sci-fi
+Multiplayer
+Games Workshop
+Singleplayer
+Tactical
+Real Time Tactics
+Action
+Fantasy
+Gothic
+Co-op
+War
+Great Soundtrack
+Survival
+Adventure
+Naval
+~BATTLETECH
+Mechs
+Strategy
+Turn-Based
+Turn-Based Tactics
+Sci-fi
+Turn-Based Strategy
+Tactical
+Action
+Robots
+Singleplayer
+Space
+Adventure
+RPG
+Futuristic
+Multiplayer
+Character Customization
+Management
+Story Rich
+Great Soundtrack
+Difficult
+~Bayonetta
+Action
+Female Protagonist
+Hack and Slash
+Sexual Content
+Nudity
+Singleplayer
+Spectacle fighter
+Great Soundtrack
+Character Action Game
+Mature
+Adventure
+Fantasy
+Fast-Paced
+Third Person
+Beat 'em up
+Comedy
+Classic
+Anime
+Gore
+Atmospheric
+~Bendy and the Ink Machine
+Horror
+First-Person
+Singleplayer
+Cartoony
+Puzzle
+Cartoon
+Survival Horror
+Dark
+Mystery
+Indie
+Action
+Story Rich
+Great Soundtrack
+Free to Play
+Atmospheric
+Adventure
+Psychological Horror
+Funny
+Cute
+Violent
+~Betrayer
+Horror
+Adventure
+First-Person
+Atmospheric
+Open World
+Indie
+Action
+Singleplayer
+Stealth
+Exploration
+Walking Simulator
+Survival
+FPS
+Dark
+Survival Horror
+Historical
+Medieval
+RPG
+Story Rich
+Shooter
+~Beyond Good & Evil
+Adventure
+Female Protagonist
+Action
+Third Person
+Cult Classic
+Stealth
+Classic
+Singleplayer
+Sci-fi
+Action-Adventure
+Great Soundtrack
+Masterpiece
+Story Rich
+Open World
+Emotional
+Dystopian
+Platformer
+Exploration
+Atmospheric
+Conspiracy
+~Binary Domain
+Action
+Third-Person Shooter
+Sci-fi
+Cyberpunk
+Robots
+Story Rich
+Shooter
+Third Person
+Transhumanism
+Singleplayer
+Futuristic
+Adventure
+Co-op
+Multiplayer
+Masterpiece
+Dystopian
+Controller
+Atmospheric
+RPG
+Voice Control
+~BioShock
+FPS
+Story Rich
+Atmospheric
+Singleplayer
+Horror
+Action
+First-Person
+Shooter
+Dystopian
+Underwater
+Sci-fi
+RPG
+Steampunk
+Dark
+Remake
+Adventure
+Classic
+Great Soundtrack
+Alternate History
+Choices Matter
+~BioShock 2
+FPS
+Action
+Singleplayer
+Story Rich
+RPG
+Shooter
+First-Person
+Atmospheric
+Horror
+Sci-fi
+Dystopian
+Adventure
+Underwater
+Steampunk
+Dark
+Great Soundtrack
+Multiplayer
+Alternate History
+Remake
+Immersive Sim
+~BioShock Infinite
+FPS
+Story Rich
+Action
+Singleplayer
+Steampunk
+Atmospheric
+Masterpiece
+Shooter
+First-Person
+Alternate History
+Beautiful
+Adventure
+Great Soundtrack
+Dystopian
+Sci-fi
+Time Travel
+Fantasy
+Gore
+Linear
+RPG
+~Blacklight: Retribution
+Free to Play
+FPS
+Multiplayer
+Action
+Shooter
+Gun Customization
+First-Person
+Futuristic
+Mechs
+Co-op
+Sci-fi
+Military
+Cyberpunk
+Zombies
+Singleplayer
+Massively Multiplayer
+Tactical
+Fast-Paced
+Competitive
+RPG
+~Blasphemous
+Metroidvania
+Souls-like
+Gore
+Violent
+Action
+Indie
+Pixel Graphics
+Dark Fantasy
+Horror
+Adventure
+Blood
+Platformer
+2D
+Difficult
+Singleplayer
+Nudity
+Gothic
+Lore-Rich
+Side Scroller
+Great Soundtrack
+~BlazBlue: Continuum Shift Extend
+Fighting
+Anime
+2D Fighter
+Action
+Great Soundtrack
+Arcade
+Multiplayer
+2D
+Competitive
+Story Rich
+Visual Novel
+Singleplayer
+Masterpiece
+Local Multiplayer
+~Blood Bowl 2
+Strategy
+Sports
+Turn-Based
+Games Workshop
+Fantasy
+Multiplayer
+Board Game
+Turn-Based Strategy
+Gore
+Football
+Singleplayer
+Tabletop
+Dark Humor
+Violent
+Difficult
+Funny
+RPG
+Blood
+Action
+Warhammer 40K
+~Borderlands 2
+Loot
+Shooter
+Action
+Multiplayer
+Co-op
+Looter Shooter
+FPS
+RPG
+First-Person
+Funny
+Comedy
+Open World
+Combat
+Online Co-Op
+Adventure
+Action RPG
+Dark Humor
+Memes
+Singleplayer
+Sci-fi
+~Braid
+Puzzle Platformer
+Puzzle
+2D Platformer
+Platformer
+Indie
+Time Manipulation
+2D
+Singleplayer
+Great Soundtrack
+Difficult
+Masterpiece
+Time Travel
+Casual
+Atmospheric
+Strategy
+Classic
+Story Rich
+Beautiful
+Side Scroller
+Adventure
+~Broken Age
+Point & Click
+Adventure
+Story Rich
+Comedy
+Indie
+Funny
+Kickstarter
+Great Soundtrack
+Singleplayer
+Casual
+Puzzle
+Female Protagonist
+2D
+Masterpiece
+Classic
+Retro
+Cult Classic
+Crowdfunded
+Episodic
+Sci-fi
+~Brothers - A Tale of Two Sons
+Adventure
+Atmospheric
+Story Rich
+Controller
+Indie
+Emotional
+Puzzle
+Short
+Fantasy
+Singleplayer
+Beautiful
+Great Soundtrack
+Masterpiece
+Action
+Local Co-Op
+Platformer
+Third Person
+Casual
+Multiplayer
+3D Vision
+~Brütal Legend
+Action
+Comedy
+Adventure
+Open World
+Great Soundtrack
+Music
+Strategy
+Third Person
+Hack and Slash
+Funny
+RTS
+Fantasy
+Singleplayer
+Multiplayer
+Atmospheric
+Action-Adventure
+Gothic
+Beat 'em up
+RPG
+Action RPG
+~Bulletstorm
+Action
+Gore
+FPS
+Violent
+Adventure
+Comedy
+First-Person
+Shooter
+Sci-fi
+Singleplayer
+Atmospheric
+Multiplayer
+Funny
+Co-op
+Great Soundtrack
+Story Rich
+Online Co-Op
+Sexual Content
+Open World
+Survival
+~Call of Duty 4: Modern Warfare
+FPS
+Action
+Multiplayer
+Shooter
+First-Person
+Singleplayer
+Classic
+Military
+War
+Masterpiece
+PvP
+Great Soundtrack
+Linear
+Modern
+Story Rich
+Co-op
+Atmospheric
+Moddable
+Competitive
+Controller
+~Call of Duty: Advanced Warfare
+Dog
+FPS
+Action
+Multiplayer
+Shooter
+Futuristic
+First-Person
+Sci-fi
+Linear
+Singleplayer
+America
+War
+Quick-Time Events
+Short
+Masterpiece
+Illuminati
+Military
+Online Co-Op
+Co-op
+PvP
+~Call of Duty: Modern Warfare 2
+Action
+FPS
+Multiplayer
+Shooter
+First-Person
+Singleplayer
+War
+Military
+Co-op
+Online Co-Op
+PvP
+Masterpiece
+Great Soundtrack
+Story Rich
+Atmospheric
+Adventure
+Tactical
+Linear
+Strategy
+Moddable
+~Call of Juarez
+Western
+Action
+FPS
+Shooter
+Singleplayer
+Adventure
+First-Person
+Atmospheric
+Multiplayer
+Stealth
+Story Rich
+Classic
+Masterpiece
+Open World
+Great Soundtrack
+~Call of Juarez: Bound in Blood
+Western
+Action
+FPS
+Singleplayer
+Multiplayer
+Shooter
+First-Person
+Story Rich
+Adventure
+Open World
+Atmospheric
+Historical
+Bullet Time
+Great Soundtrack
+Masterpiece
+Controller
+~Call of Juarez: Gunslinger
+Western
+FPS
+Action
+Story Rich
+Bullet Time
+Shooter
+Singleplayer
+Comedy
+First-Person
+Narration
+Adventure
+Atmospheric
+Great Soundtrack
+Dynamic Narration
+Funny
+Arcade
+Historical
+Alternate History
+Gore
+Linear
+~Castle Crashers
+Co-op
+Action
+Adventure
+Multiplayer
+Local Co-Op
+Beat 'em up
+Funny
+Indie
+Online Co-Op
+Comedy
+2D
+Hack and Slash
+RPG
+Local Multiplayer
+Casual
+Controller
+Great Soundtrack
+Fantasy
+Side Scroller
+Action RPG
+~The Cat and the Coup
+Indie
+Free to Play
+Cats
+Historical
+Puzzle
+Short
+Singleplayer
+~The Cat Lady
+Horror
+Story Rich
+Indie
+Adventure
+Female Protagonist
+Psychological Horror
+Point & Click
+Dark
+Atmospheric
+Mature
+Great Soundtrack
+Singleplayer
+Drama
+Psychological
+Emotional
+Cats
+Gore
+Masterpiece
+Surreal
+Puzzle
+~Chaos Reborn
+Strategy
+RPG
+Turn-Based
+Indie
+Fantasy
+Multiplayer
+Hex Grid
+Turn-Based Strategy
+Tactical
+Board Game
+Kickstarter
+Singleplayer
+Magic
+Early Access
+Card Game
+Turn-Based Tactics
+Adventure
+Asynchronous Multiplayer
+Colorful
+Relaxing
+~The Charnel House Trilogy
+Adventure
+Horror
+Indie
+Point & Click
+Psychological Horror
+Mystery
+Noir
+Pixel Graphics
+Short
+Female Protagonist
+Singleplayer
+Story Rich
+2D
+Atmospheric
+~Children of Zodiarcs
+Strategy
+RPG
+Indie
+Card Battler
+Deckbuilding
+Tactical RPG
+Card Game
+Turn-Based Strategy
+Turn-Based
+Female Protagonist
+Board Game
+Trading Card Game
+Singleplayer
+Story Rich
+JRPG
+Character Customization
+Great Soundtrack
+~Chivalry: Medieval Warfare
+Medieval
+Multiplayer
+Action
+Gore
+First-Person
+Swordplay
+Violent
+PvP
+Indie
+Third Person
+Competitive
+Team-Based
+Hack and Slash
+Co-op
+Historical
+FPS
+Class-Based
+Atmospheric
+Simulation
+Difficult
+~Cinemaware Anthology: 1986-1991
+Strategy
+Action
+Simulation
+Sports
+Retro
+Classic
+~Cities: Skylines
+City Builder
+Simulation
+Building
+Strategy
+Management
+Sandbox
+Singleplayer
+Moddable
+Economy
+Resource Management
+Realistic
+Mod
+Replay Value
+Casual
+Family Friendly
+Real-Time with Pause
+Modern
+Great Soundtrack
+Funny
+Action
+~CLANNAD
+Visual Novel
+Anime
+Story Rich
+Romance
+Drama
+Great Soundtrack
+Singleplayer
+Classic
+Multiple Endings
+Cute
+Choices Matter
+Dating Sim
+Casual
+Adventure
+Atmospheric
+Masterpiece
+Comedy
+Emotional
+Family Friendly
+2D
+~Clustertruck
+Parkour
+Automobile Sim
+Action
+First-Person
+3D Platformer
+Singleplayer
+Physics
+Indie
+Fast-Paced
+Difficult
+Destruction
+Funny
+Great Soundtrack
+Strategy
+Casual
+Platformer
+Level Editor
+Racing
+Adventure
+Multiplayer
+~Command Ops 2
+Free to Play
+Strategy
+Simulation
+Indie
+Wargame
+World War II
+War
+Military
+Co-op
+~Company of Heroes 2
+Strategy
+World War II
+RTS
+Multiplayer
+Tactical
+Historical
+War
+Military
+Singleplayer
+Co-op
+Online Co-Op
+Tanks
+Action
+Real-Time
+Base Building
+Real-Time with Pause
+Atmospheric
+Simulation
+Masterpiece
+Great Soundtrack
+~The Consuming Shadow
+Adventure
+Lovecraftian
+Roguelite
+Survival Horror
+2D
+Horror
+Indie
+Atmospheric
+Procedural Generation
+Dark
+Psychological Horror
+~Contrast
+Indie
+Female Protagonist
+Adventure
+Noir
+Puzzle
+Platformer
+Atmospheric
+Singleplayer
+Great Soundtrack
+Third Person
+Short
+Story Rich
+Detective
+Mystery
+Puzzle Platformer
+3D Platformer
+Masterpiece
+Casual
+Fantasy
+3D Vision
+~Counter-Strike
+Action
+FPS
+Multiplayer
+Shooter
+Classic
+Team-Based
+First-Person
+Competitive
+Tactical
+1990's
+eSports
+PvP
+Old School
+Military
+Strategy
+Masterpiece
+Survival
+Score Attack
+1980s
+Assassin
+~Counter-Strike: Global Offensive
+FPS
+Shooter
+Multiplayer
+Competitive
+Action
+Team-Based
+eSports
+Tactical
+First-Person
+PvP
+Online Co-Op
+Co-op
+Strategy
+Military
+War
+Difficult
+Trading
+Fast-Paced
+Realistic
+Moddable
+~Crash Bandicoot N. Sane Trilogy
+3D Platformer
+Remake
+Classic
+Platformer
+Singleplayer
+Difficult
+Great Soundtrack
+Adventure
+Action
+Funny
+Colorful
+Cartoony
+Family Friendly
+Retro
+Controller
+Comedy
+1990's
+Masterpiece
+Multiplayer
+Psychological Horror
+~Crazy Taxi
+Racing
+Arcade
+Automobile Sim
+Action
+Classic
+Driving
+Singleplayer
+Open World
+Great Soundtrack
+Retro
+Fast-Paced
+Casual
+Funny
+~Crimzon Clover WORLD IGNITION
+Bullet Hell
+Shoot 'Em Up
+Indie
+Action
+Arcade
+Shooter
+Difficult
+Great Soundtrack
+Local Co-Op
+2D
+Masterpiece
+Singleplayer
+Local Multiplayer
+~Crowntakers
+RPG
+Strategy
+Indie
+Roguelike
+Turn-Based
+Perma Death
+Fantasy
+Hex Grid
+Procedural Generation
+~Crusader Kings II
+Grand Strategy
+Medieval
+Strategy
+Historical
+Political Sim
+Simulation
+RPG
+Sandbox
+Multiplayer
+Politics
+Diplomacy
+Replay Value
+Singleplayer
+Real-Time with Pause
+Moddable
+Political
+Character Customization
+Great Soundtrack
+RTS
+Education
+~Crypt of the NecroDancer
+Rhythm
+Roguelike
+Great Soundtrack
+Pixel Graphics
+Dungeon Crawler
+Indie
+Female Protagonist
+Difficult
+Music
+Local Co-Op
+RPG
+Action
+2D
+Roguelite
+Procedural Generation
+Singleplayer
+Co-op
+Adventure
+Fantasy
+Retro
+~Cthulhu Saves the World
+JRPG
+Lovecraftian
+Comedy
+RPG
+Indie
+Retro
+Turn-Based
+Fantasy
+Singleplayer
+Funny
+Adventure
+Parody
+Pixel Graphics
+2D
+Great Soundtrack
+Dark Humor
+Old School
+Action
+Masterpiece
+Memes
+~Cultist Simulator
+Lovecraftian
+Card Game
+Tabletop
+Indie
+Simulation
+RPG
+Story Rich
+Board Game
+Text-Based
+Strategy
+Atmospheric
+Singleplayer
+Choices Matter
+Addictive
+Dark Fantasy
+Dark
+Horror
+Great Soundtrack
+Casual
+Difficult
+~The Curse of Monkey Island
+1990's
+Point & Click
+Masterpiece
+Retro
+Cult Classic
+Adventure
+Remake
+Classic
+Singleplayer
+Cartoony
+2D
+Atmospheric
+Pirates
+Colorful
+Comedy
+~BloodRayne
+Action
+Vampire
+Female Protagonist
+Third Person
+Singleplayer
+Hack and Slash
+Gore
+Horror
+Supernatural
+Mature
+Cult Classic
+Dark
+Third-Person Shooter
+World War II
+Shooter
+~Chrono Trigger
+RPG
+JRPG
+Classic
+Story Rich
+Great Soundtrack
+Time Travel
+Singleplayer
+Fantasy
+Retro
+Masterpiece
+Anime
+Cult Classic
+Replay Value
+Turn-Based
+Sci-fi
+2D
+Multiple Endings
+Pixel Graphics
+Adventure
+Action
+~D4: Dark Dreams Don’t Die
+Adventure
+Quick-Time Events
+Mystery
+Detective
+Story Rich
+Great Soundtrack
+Atmospheric
+Singleplayer
+Cinematic
+Time Travel
+Casual
+Point & Click
+Comedy
+Anime
+Funny
+Horror
+Cartoon
+Comic Book
+Episodic
+Indie
+~Danganronpa: Trigger Happy Havoc
+Anime
+Visual Novel
+Mystery
+Detective
+Story Rich
+Great Soundtrack
+Singleplayer
+Psychological Horror
+Adventure
+Horror
+Dark Comedy
+Dark Humor
+Puzzle
+Point & Click
+Funny
+Comedy
+Exploration
+Survival
+Action
+Memes
+~Danganronpa 2: Goodbye Despair
+Anime
+Detective
+Visual Novel
+Mystery
+Story Rich
+Great Soundtrack
+Singleplayer
+Adventure
+Psychological Horror
+Dark Comedy
+Horror
+Atmospheric
+Puzzle
+Memes
+Dark
+Comedy
+Dating Sim
+Funny
+Mature
+Walking Simulator
+~DARK SOULS II: Scholar of the First Sin
+Souls-like
+Dark Fantasy
+RPG
+Difficult
+Action
+Third Person
+Atmospheric
+Action RPG
+Co-op
+Character Customization
+Multiplayer
+Fantasy
+Adventure
+Medieval
+Dark
+Singleplayer
+Lore-Rich
+Story Rich
+PvP
+Remake
+~DARK SOULS III
+Souls-like
+Dark Fantasy
+Difficult
+RPG
+Atmospheric
+Lore-Rich
+Third Person
+Exploration
+Story Rich
+Co-op
+Action RPG
+PvP
+Adventure
+Action
+Great Soundtrack
+Multiplayer
+Open World
+Singleplayer
+Replay Value
+Character Customization
+~Dark Void
+Action
+Adventure
+Third-Person Shooter
+Third Person
+Sci-fi
+Flight
+Shooter
+Singleplayer
+~DarkMaus
+Souls-like
+Indie
+Action
+RPG
+Difficult
+Dark Fantasy
+Top-Down
+2D
+~The Darkness II
+FPS
+Action
+Gore
+Shooter
+Dark
+Singleplayer
+Co-op
+Horror
+First-Person
+Multiplayer
+Violent
+Atmospheric
+Story Rich
+Supernatural
+Comic Book
+Short
+Multiple Endings
+Adventure
+Masterpiece
+Nudity
+~Darksiders Warmastered Edition
+Action
+Adventure
+Hack and Slash
+RPG
+Third Person
+Dark Fantasy
+Singleplayer
+Violent
+Puzzle
+Fantasy
+Demons
+Post-apocalyptic
+Gore
+Open World
+Story Rich
+Controller
+Remake
+Difficult
+Metroidvania
+Multiplayer
+~Darksiders II Deathinitive Edition
+Action
+Hack and Slash
+Adventure
+RPG
+Open World
+Singleplayer
+Third Person
+Fantasy
+Story Rich
+Puzzle
+Great Soundtrack
+Action RPG
+Dark Fantasy
+Parkour
+Loot
+Spectacle fighter
+Gore
+Controller
+Multiplayer
+Metroidvania
+~Darkwood
+Horror
+Survival
+Survival Horror
+Top-Down
+Atmospheric
+Dark
+Indie
+RPG
+Open World
+Lovecraftian
+Adventure
+Exploration
+Singleplayer
+Action
+Crafting
+Inventory Management
+Building
+Gore
+Roguelike
+Roguelite
+~Darwinia
+Strategy
+Indie
+RTS
+Singleplayer
+Retro
+Story Rich
+Action
+Top-Down
+Atmospheric
+~Dawn of Discovery
+Strategy
+City Builder
+Simulation
+RTS
+Medieval
+Trading
+Singleplayer
+Economy
+Sandbox
+Multiplayer
+~DayZ
+Survival
+Zombies
+Multiplayer
+Open World
+Action
+PvP
+Shooter
+Massively Multiplayer
+Horror
+Simulation
+Early Access
+FPS
+Post-apocalyptic
+First-Person
+Survival Horror
+Sandbox
+Adventure
+Co-op
+Indie
+Atmospheric
+~Deadly Premonition: The Director's Cut
+Story Rich
+Adventure
+Horror
+Open World
+Action
+Great Soundtrack
+Funny
+Surreal
+Detective
+Cult Classic
+Investigation
+Mystery
+Atmospheric
+Masterpiece
+Third Person
+Singleplayer
+Exploration
+Comedy
+Gore
+Violent
+~Dear Esther: Landmark Edition
+Walking Simulator
+Indie
+Atmospheric
+Adventure
+Casual
+First-Person
+Exploration
+Singleplayer
+Great Soundtrack
+Narration
+Mystery
+Short
+Story Rich
+~DEFCON
+Strategy
+Indie
+Wargame
+Multiplayer
+Cold War
+Real-Time with Pause
+RTS
+Simulation
+Atmospheric
+War
+Diplomacy
+2D
+Tactical
+Singleplayer
+Great Soundtrack
+Psychological Horror
+Addictive
+Horror
+~Depth
+Action
+Multiplayer
+Underwater
+Gore
+Team-Based
+Horror
+Survival
+PvP
+Co-op
+FPS
+Shooter
+Hunting
+Survival Horror
+First-Person
+Atmospheric
+Exploration
+Indie
+Simulation
+Adventure
+Singleplayer
+~Destiny 2
+Free to Play
+Looter Shooter
+FPS
+Multiplayer
+Action
+Online Co-Op
+Adventure
+MMORPG
+Shooter
+Sci-fi
+Loot
+Open World
+Space
+First-Person
+Great Soundtrack
+Co-op
+Lore-Rich
+Massively Multiplayer
+Masterpiece
+Atmospheric
+~Detention
+Horror
+Indie
+Atmospheric
+Psychological Horror
+Puzzle
+Story Rich
+Adventure
+Great Soundtrack
+Drama
+Dark
+Point & Click
+Female Protagonist
+Thriller
+Surreal
+Retro
+Gore
+Visual Novel
+Exploration
+Survival Horror
+Violent
+~Deus Ex: Invisible War
+Cyberpunk
+Action
+FPS
+RPG
+Sci-fi
+Stealth
+Singleplayer
+Immersive Sim
+Transhumanism
+First-Person
+Female Protagonist
+Dystopian
+Shooter
+Story Rich
+Atmospheric
+Classic
+Illuminati
+Action RPG
+Conspiracy
+Adventure
+~Devil Daggers
+FPS
+Difficult
+Indie
+Action
+Fast-Paced
+Horror
+Shooter
+Bullet Hell
+Singleplayer
+Retro
+First-Person
+Arena Shooter
+Atmospheric
+Pixel Graphics
+Demons
+Survival
+Arcade
+Lovecraftian
+Gore
+Dark
+~Devil May Cry 4
+Action
+Hack and Slash
+Character Action Game
+Great Soundtrack
+Singleplayer
+Spectacle fighter
+Third Person
+Stylized
+Difficult
+Classic
+Anime
+Story Rich
+Atmospheric
+Adventure
+Beat 'em up
+Masterpiece
+Replay Value
+Female Protagonist
+Controller
+Remake
+~DmC: Devil May Cry
+Action
+Hack and Slash
+Great Soundtrack
+Spectacle fighter
+Demons
+Adventure
+Third Person
+Singleplayer
+Character Action Game
+Controller
+Gore
+Stylized
+Atmospheric
+Beat 'em up
+Fast-Paced
+Masterpiece
+Comedy
+Fantasy
+Story Rich
+Platformer
+~Devil May Cry HD Collection
+Action
+Hack and Slash
+Character Action Game
+Classic
+Singleplayer
+Great Soundtrack
+Difficult
+Demons
+Spectacle fighter
+Stylized
+Violent
+Third Person
+Gore
+Story Rich
+Atmospheric
+Beat 'em up
+Anime
+Fast-Paced
+Adventure
+Gothic
+~Diaries of a Spaceport Janitor
+Indie
+Adventure
+Casual
+Simulation
+RPG
+Pixel Graphics
+Female Protagonist
+Atmospheric
+Exploration
+Open World
+Surreal
+LGBTQ+
+Colorful
+Singleplayer
+Sci-fi
+Great Soundtrack
+Walking Simulator
+Aliens
+Space
+Third Person
+~DiRT 4
+Racing
+Simulation
+Automobile Sim
+Driving
+Multiplayer
+Sports
+Offroad
+Realistic
+Singleplayer
+Arcade
+Atmospheric
+Action
+Open World
+Difficult
+VR
+~DiRT Rally
+Racing
+Simulation
+Automobile Sim
+Driving
+Multiplayer
+Realistic
+Offroad
+Difficult
+Singleplayer
+VR
+Sports
+First-Person
+Action
+Atmospheric
+Fast-Paced
+Early Access
+Co-op
+TrackIR
+Open World
+3D Vision
+~Disgaea
+Strategy RPG
+Anime
+JRPG
+RPG
+Turn-Based
+Comedy
+Turn-Based Strategy
+Tactical RPG
+Turn-Based Tactics
+Funny
+Tactical
+Strategy
+Singleplayer
+Great Soundtrack
+Demons
+Replay Value
+2D
+Pixel Graphics
+Story Rich
+Cute
+~Disgaea 2
+RPG
+Strategy RPG
+JRPG
+Anime
+Turn-Based Tactics
+Tactical RPG
+Comedy
+Turn-Based
+Singleplayer
+Strategy
+Great Soundtrack
+Funny
+Pixel Graphics
+Turn-Based Strategy
+2D
+Cute
+~Dishonored
+Stealth
+First-Person
+Steampunk
+Action
+Assassin
+Singleplayer
+Atmospheric
+Story Rich
+Adventure
+Multiple Endings
+Dark
+Magic
+Dystopian
+FPS
+RPG
+Replay Value
+Masterpiece
+Fantasy
+Open World
+Immersive Sim
+~Distant Star: Revenant Fleet
+Indie
+Strategy
+Action
+Space
+Sci-fi
+Procedural Generation
+Roguelike
+Singleplayer
+RTS
+Tactical
+2D
+Atmospheric
+Action Roguelike
+Pirates
+Roguelite
+Replay Value
+Top-Down
+Great Soundtrack
+Real Time Tactics
+Real-Time
+~Divinity: Dragon Commander
+Strategy
+RPG
+Dragons
+Fantasy
+Political
+Action
+RTS
+Singleplayer
+Steampunk
+Turn-Based
+Choices Matter
+Real-Time with Pause
+Story Rich
+Multiplayer
+Comedy
+Co-op
+Masterpiece
+Great Soundtrack
+Romance
+~Divinity: Original Sin
+RPG
+Turn-Based
+Co-op
+Fantasy
+Adventure
+Masterpiece
+Strategy
+Open World
+Isometric
+CRPG
+Story Rich
+Kickstarter
+Indie
+Multiplayer
+Singleplayer
+Turn-Based Strategy
+Magic
+Online Co-Op
+Crowdfunded
+Atmospheric
+~Divinity: Original Sin 2
+RPG
+Story Rich
+Turn-Based
+Co-op
+Fantasy
+Character Customization
+Adventure
+Open World
+Strategy
+Turn-Based Combat
+Multiplayer
+Singleplayer
+CRPG
+Turn-Based Tactics
+Great Soundtrack
+Party-Based RPG
+Atmospheric
+Isometric
+Indie
+Female Protagonist
+~Dominions 4: Thrones of Ascension
+Strategy
+Turn-Based Strategy
+Indie
+Grand Strategy
+Fantasy
+Multiplayer
+Moddable
+Turn-Based
+Difficult
+Singleplayer
+God Game
+4X
+Addictive
+RPG
+Masterpiece
+Mythology
+Sandbox
+~Don't Starve
+Survival
+Open World Survival Craft
+Crafting
+Adventure
+Indie
+Sandbox
+Singleplayer
+Perma Death
+Open World
+Exploration
+Multiplayer
+Roguelike
+Replay Value
+Moddable
+Simulation
+Difficult
+2D
+Top-Down
+Horror
+Survival Horror
+~Don't Starve Together
+Open World Survival Craft
+Survival
+Multiplayer
+Co-op
+Open World
+Adventure
+Crafting
+Online Co-Op
+Sandbox
+Difficult
+Indie
+2D
+Funny
+Atmospheric
+Survival Horror
+Strategy
+Singleplayer
+Horror
+Action
+Simulation
+~DOOM II
+Classic
+FPS
+Action
+1990's
+Shooter
+Retro
+Demons
+Moddable
+Violent
+Gore
+First-Person
+Sci-fi
+Old School
+Singleplayer
+Multiplayer
+Masterpiece
+Great Soundtrack
+Pixel Graphics
+Zombies
+Horror
+~Door Kickers
+Tactical
+Strategy
+Top-Down
+Simulation
+Action
+Indie
+Singleplayer
+2D
+Real-Time with Pause
+Replay Value
+RTS
+Co-op
+Real Time Tactics
+Top-Down Shooter
+Moddable
+Shooter
+Puzzle
+Level Editor
+Difficult
+Multiplayer
+~Dota 2
+Free to Play
+MOBA
+Multiplayer
+Strategy
+eSports
+Team-Based
+Competitive
+Action
+Online Co-Op
+PvP
+Difficult
+Co-op
+RTS
+Tower Defense
+Fantasy
+RPG
+Character Customization
+Replay Value
+Action RPG
+Simulation
+~Double Dragon Trilogy
+Arcade
+Beat 'em up
+Retro
+Fighting
+Local Co-Op
+Action
+Remake
+Cult Classic
+2D
+Co-op
+Side Scroller
+Classic
+Pixel Graphics
+1990's
+1980s
+Online Co-Op
+Old School
+Martial Arts
+Score Attack
+Co-op Campaign
+~Downwell
+Precision Platformer
+Action Roguelike
+Indie
+Platformer
+Pixel Graphics
+Action
+2D Platformer
+Difficult
+2D
+Roguelike
+Roguelite
+Fast-Paced
+Arcade
+Adventure
+Retro
+Singleplayer
+Shoot 'Em Up
+Procedural Generation
+Great Soundtrack
+Replay Value
+~Dragon Age: Origins
+RPG
+Fantasy
+Story Rich
+Singleplayer
+Multiple Endings
+Adventure
+Choices Matter
+Masterpiece
+Real-Time with Pause
+Character Customization
+Atmospheric
+Dark Fantasy
+Tactical
+Party-Based RPG
+Open World
+Romance
+Dragons
+Third Person
+Action
+Female Protagonist
+~DRAGON BALL FighterZ
+Fighting
+Anime
+Action
+2D Fighter
+Multiplayer
+Competitive
+Local Multiplayer
+Controller
+Great Soundtrack
+2.5D
+Singleplayer
+Arcade
+eSports
+Story Rich
+Difficult
+Fast-Paced
+Beat 'em up
+Dragons
+Adventure
+Open World
+~Dragon's Dogma: Dark Arisen
+RPG
+Open World
+Character Customization
+Action
+Adventure
+Fantasy
+Singleplayer
+Action RPG
+Dragons
+Third Person
+Dark Fantasy
+Magic
+Exploration
+Great Soundtrack
+Atmospheric
+Story Rich
+Difficult
+JRPG
+Multiplayer
+Hack and Slash
+~Dream Daddy: A Dad Dating Simulator
+Dating Sim
+LGBTQ+
+Romance
+Simulation
+Sexual Content
+Visual Novel
+Memes
+Indie
+Character Customization
+Casual
+Funny
+Cute
+Choices Matter
+Singleplayer
+Story Rich
+Mature
+Multiple Endings
+Comedy
+Nudity
+NSFW
+~Dropsy
+Point & Click
+Adventure
+2D
+Great Soundtrack
+Indie
+Pixel Graphics
+Surreal
+Cute
+Puzzle
+Atmospheric
+Story Rich
+~Duck Game
+Multiplayer
+Funny
+Pixel Graphics
+Action
+Local Multiplayer
+2D
+4 Player Local
+Indie
+Platformer
+Fast-Paced
+Comedy
+Retro
+Shooter
+Competitive
+Great Soundtrack
+Local Co-Op
+Memes
+Co-op
+Casual
+1980s
+~Dungeon Defenders
+Tower Defense
+RPG
+Strategy
+Co-op
+Action
+Online Co-Op
+Multiplayer
+Indie
+Fantasy
+Third Person
+Local Co-Op
+Singleplayer
+Local Multiplayer
+4 Player Local
+Split Screen
+Action RPG
+Loot
+Hack and Slash
+Addictive
+Third-Person Shooter
+~Dungeon Fighter Online
+Free to Play
+RPG
+Massively Multiplayer
+Anime
+Action
+Beat 'em up
+2D
+Adventure
+Side Scroller
+Hack and Slash
+MMORPG
+Fighting
+2D Fighter
+Action RPG
+Online Co-Op
+Dungeon Crawler
+Great Soundtrack
+Open World
+Singleplayer
+Nudity
+~Dungeons 2
+Strategy
+RPG
+Management
+Fantasy
+Dungeon Crawler
+RTS
+Comedy
+Simulation
+Villain Protagonist
+Singleplayer
+Multiplayer
+Competitive
+Funny
+Base Building
+Top-Down
+Building
+God Game
+Sandbox
+Tower Defense
+~Dungeons 3
+Strategy
+Simulation
+Villain Protagonist
+RTS
+Fantasy
+Management
+Comedy
+Base Building
+Multiplayer
+Economy
+RPG
+Co-op
+Funny
+Dungeon Crawler
+Female Protagonist
+Dark Humor
+God Game
+Singleplayer
+Online Co-Op
+Tower Defense
+~Dungeons of Dredmor
+Traditional Roguelike
+Roguelike
+Turn-Based
+RPG
+Dungeon Crawler
+Indie
+Comedy
+Perma Death
+Replay Value
+Singleplayer
+Fantasy
+Funny
+Casual
+Crafting
+Procedural Generation
+Moddable
+2D
+Difficult
+Top-Down
+Adventure
+~Duskers
+Strategy
+Sci-fi
+Indie
+Space
+Survival
+Horror
+Roguelike
+Programming
+Atmospheric
+Survival Horror
+Singleplayer
+2D
+Difficult
+Typing
+Hacking
+Procedural Generation
+Puzzle
+Simulation
+Early Access
+~Dust: An Elysian Tail
+Action
+Platformer
+Metroidvania
+Indie
+RPG
+Adventure
+2D
+Singleplayer
+Fantasy
+Great Soundtrack
+Beat 'em up
+Hack and Slash
+Exploration
+Story Rich
+Controller
+Beautiful
+Anime
+Side Scroller
+Atmospheric
+Action RPG
+~Dustforce DX
+Precision Platformer
+Platformer
+Great Soundtrack
+Indie
+Difficult
+Time Attack
+2D
+Action
+Stylized
+Masterpiece
+Local Multiplayer
+Local Co-Op
+Score Attack
+Level Editor
+Side Scroller
+Fast-Paced
+Singleplayer
+Parkour
+Atmospheric
+4 Player Local
+~The Elder Scrolls IV: Oblivion
+RPG
+Open World
+Fantasy
+Singleplayer
+Moddable
+First-Person
+Adventure
+Exploration
+Great Soundtrack
+Action
+Magic
+Character Customization
+Story Rich
+Atmospheric
+Sandbox
+Medieval
+Classic
+Masterpiece
+Action RPG
+Third Person
+~Eldritch Reanimated
+Action Roguelike
+Roguelike
+Lovecraftian
+Indie
+First-Person
+Horror
+Roguelite
+Action
+Adventure
+Singleplayer
+RPG
+Stealth
+Procedural Generation
+FPS
+Female Protagonist
+Exploration
+Pixel Graphics
+Voxel
+Perma Death
+Atmospheric
+~Elliot Quest
+Action
+Adventure
+Indie
+RPG
+Pixel Graphics
+Metroidvania
+2D
+Platformer
+~Endless Legend
+Strategy
+4X
+Turn-Based
+Turn-Based Strategy
+Fantasy
+Hex Grid
+RPG
+Multiplayer
+Singleplayer
+Great Soundtrack
+Sci-fi
+Indie
+Tactical
+Grand Strategy
+Adventure
+Medieval
+Atmospheric
+Exploration
+Open World
+Sandbox
+~Enemy Mind
+Action
+Indie
+Shoot 'Em Up
+Space
+Shooter
+Local Co-Op
+Retro
+Pixel Graphics
+Arcade
+Side Scroller
+Multiplayer
+Sci-fi
+2D
+Bullet Hell
+~ENSLAVED: Odyssey to the West
+Adventure
+Action
+Post-apocalyptic
+Story Rich
+Singleplayer
+Hack and Slash
+Third Person
+Action-Adventure
+Sci-fi
+Atmospheric
+Robots
+Platformer
+Great Soundtrack
+Parkour
+Masterpiece
+Female Protagonist
+3D Platformer
+Linear
+Controller
+3D Vision
+~Enter the Gungeon
+Bullet Hell
+Action Roguelike
+Roguelike
+Pixel Graphics
+Difficult
+Dungeon Crawler
+Indie
+Local Co-Op
+Action
+Roguelite
+Great Soundtrack
+Co-op
+Loot
+Multiplayer
+Top-Down Shooter
+Shooter
+Funny
+Shoot 'Em Up
+Adventure
+Action-Adventure
+~Escape Goat 2
+Indie
+Platformer
+Puzzle
+Casual
+Action
+Great Soundtrack
+2D
+Singleplayer
+Puzzle Platformer
+Controller
+~Euro Truck Simulator 2
+Simulation
+Driving
+Automobile Sim
+Open World
+Realistic
+Relaxing
+Singleplayer
+Moddable
+Exploration
+First-Person
+Economy
+Atmospheric
+Adventure
+Indie
+Management
+Casual
+TrackIR
+Racing
+Sandbox
+RPG
+~Europa Universalis III
+Grand Strategy
+Strategy
+Historical
+Political Sim
+Real-Time with Pause
+Political
+Sandbox
+Simulation
+Singleplayer
+Multiplayer
+Addictive
+RTS
+War
+Co-op
+Alternate History
+Logic
+Medieval
+Great Soundtrack
+4X
+Moddable
+~Europa Universalis IV
+Grand Strategy
+Strategy
+Historical
+Simulation
+Political Sim
+Real-Time with Pause
+Multiplayer
+Military
+Sandbox
+Replay Value
+Singleplayer
+Diplomacy
+Political
+Moddable
+Education
+RTS
+Medieval
+Great Soundtrack
+Open World
+Co-op
+~Everything
+Simulation
+Casual
+Philosophical
+Indie
+Relaxing
+RPG
+Sandbox
+Open World
+Exploration
+Atmospheric
+Singleplayer
+Experimental
+Funny
+God Game
+Great Soundtrack
+Experience
+Procedural Generation
+Walking Simulator
+Family Friendly
+Adventure
+~The Evil Within
+Horror
+Survival Horror
+Psychological Horror
+Gore
+Atmospheric
+Action
+Singleplayer
+Third Person
+Survival
+Zombies
+Dark
+Stealth
+Adventure
+Third-Person Shooter
+Difficult
+Cinematic
+Shooter
+Story Rich
+Masterpiece
+Walking Simulator
+~EXAPUNKS
+Programming
+Hacking
+Puzzle
+Indie
+Simulation
+Automation
+Logic
+Cyberpunk
+Singleplayer
+Great Soundtrack
+Difficult
+Sandbox
+~F.E.A.R.
+FPS
+Horror
+Co-op
+Action
+Multiplayer
+Shooter
+Singleplayer
+First-Person
+Gore
+Online Co-Op
+Bullet Time
+Sci-fi
+Zombies
+Adventure
+Story Rich
+Atmospheric
+Co-op Campaign
+Mechs
+Masterpiece
+Controller
+~F.E.A.R. 2: Project Origin
+FPS
+Horror
+Co-op
+Action
+Multiplayer
+Shooter
+Singleplayer
+First-Person
+Gore
+Online Co-Op
+Bullet Time
+Sci-fi
+Zombies
+Adventure
+Story Rich
+Atmospheric
+Co-op Campaign
+Mechs
+Masterpiece
+Controller
+~F.E.A.R. 3
+FPS
+Horror
+Co-op
+Action
+Multiplayer
+Shooter
+Singleplayer
+First-Person
+Gore
+Online Co-Op
+Bullet Time
+Sci-fi
+Zombies
+Adventure
+Story Rich
+Atmospheric
+Co-op Campaign
+Mechs
+Masterpiece
+Controller
+~F1 2019
+Racing
+Automobile Sim
+Sports
+Simulation
+Multiplayer
+Driving
+Realistic
+Singleplayer
+Co-op
+Action
+Strategy
+First-Person
+VR
+~Fallout: A Post Nuclear Role Playing Game
+RPG
+Post-apocalyptic
+Classic
+Open World
+Isometric
+Turn-Based
+Singleplayer
+Turn-Based Combat
+Sci-fi
+Masterpiece
+Multiple Endings
+Atmospheric
+Retro
+1990's
+Adventure
+2D
+Exploration
+CRPG
+Difficult
+Tactical
+~Fallout 2: A Post Nuclear Role Playing Game
+RPG
+Post-apocalyptic
+Classic
+Open World
+Masterpiece
+Isometric
+Turn-Based
+Turn-Based Combat
+Singleplayer
+Sci-fi
+Atmospheric
+Story Rich
+Great Soundtrack
+Retro
+Exploration
+Dark Humor
+Replay Value
+Adventure
+CRPG
+Sandbox
+~Fallout 3
+Open World
+RPG
+Post-apocalyptic
+Singleplayer
+Moddable
+First-Person
+Sci-fi
+Action
+Adventure
+FPS
+Replay Value
+Exploration
+Atmospheric
+Third Person
+Sandbox
+Masterpiece
+Story Rich
+Shooter
+Cult Classic
+Action RPG
+~Fallout 4
+Open World
+Post-apocalyptic
+Exploration
+Singleplayer
+RPG
+Atmospheric
+Adventure
+Shooter
+First-Person
+Story Rich
+Action
+Sci-fi
+FPS
+Action RPG
+Sandbox
+Great Soundtrack
+Third Person
+Survival
+Third-Person Shooter
+Casual
+~Fallout: New Vegas
+Open World
+RPG
+Post-apocalyptic
+Singleplayer
+Moddable
+First-Person
+Sci-fi
+Action
+Adventure
+FPS
+Replay Value
+Exploration
+Atmospheric
+Third Person
+Sandbox
+Masterpiece
+Story Rich
+Shooter
+Cult Classic
+Action RPG
+~The Flame in the Flood
+Survival
+Action Roguelike
+Adventure
+Indie
+Great Soundtrack
+Crafting
+Female Protagonist
+Action
+Exploration
+Atmospheric
+Post-apocalyptic
+Singleplayer
+Roguelike
+Roguelite
+Difficult
+Open World
+Isometric
+Strategy
+Kickstarter
+Early Access
+~Flamebreak
+Indie
+Action
+RPG
+Action Roguelike
+Roguelite
+Replay Value
+Procedural Generation
+Roguelike
+Twin Stick Shooter
+~Flotilla
+Strategy
+Indie
+Adventure
+Space
+Sci-fi
+Tactical
+Short
+Roguelite
+Turn-Based
+Casual
+Funny
+Action
+Roguelike
+Turn-Based Strategy
+Story Rich
+Exploration
+Procedural Generation
+Real-Time with Pause
+Turn-Based Tactics
+Space Sim
+~Flywrench
+Action
+Indie
+Casual
+Great Soundtrack
+Difficult
+Minimalist
+Singleplayer
+~Football Manager 2018
+Simulation
+Sports
+Management
+Soccer
+Football
+Multiplayer
+Strategy
+Singleplayer
+~FOR HONOR
+Medieval
+Action
+Swordplay
+Multiplayer
+PvP
+Fighting
+Third Person
+War
+Co-op
+Gore
+Singleplayer
+Online Co-Op
+Hack and Slash
+Realistic
+Strategy
+Atmospheric
+RPG
+Fantasy
+MOBA
+Story Rich
+~FORCED SHOWDOWN
+Action Roguelike
+Action
+RPG
+Indie
+Deckbuilding
+Strategy
+Bullet Hell
+Roguelite
+Card Game
+Singleplayer
+Action RPG
+Top-Down
+Dungeon Crawler
+Fantasy
+Arcade
+Difficult
+Hack and Slash
+Trading Card Game
+Action-Adventure
+Roguelike
+~Fran Bow
+Psychological Horror
+Story Rich
+Point & Click
+Horror
+Adventure
+Puzzle
+Dark
+Indie
+Atmospheric
+Female Protagonist
+Singleplayer
+Gore
+Psychological
+Surreal
+Fantasy
+Dark Fantasy
+Great Soundtrack
+2D
+Hand-drawn
+Hidden Object
+~Frostpunk
+Colony Sim
+Strategy
+City Builder
+Survival
+Building
+Steampunk
+Post-apocalyptic
+Resource Management
+Simulation
+Singleplayer
+Base Building
+Management
+Choices Matter
+Atmospheric
+Economy
+Dark
+RTS
+Difficult
+Real-Time with Pause
+Great Soundtrack
+~Frozen Synapse
+Strategy
+Turn-Based
+Tactical
+Indie
+Great Soundtrack
+Asynchronous Multiplayer
+Cyberpunk
+Multiplayer
+Turn-Based Strategy
+Sci-fi
+Top-Down
+Competitive
+Singleplayer
+Addictive
+Difficult
+Chess
+Replay Value
+Co-op
+Masterpiece
+Local Multiplayer
+~Dwarf Fortress
+Colony Sim
+Base Building
+Sandbox
+Survival
+Strategy
+Simulation
+Masterpiece
+Building
+Procedural Generation
+Roguelike
+Indie
+RPG
+Classic
+Singleplayer
+Fantasy
+Open World
+Difficult
+Violent
+City Builder
+Psychological Horror
+~Ecco the Dolphin
+Action
+Underwater
+Classic
+2D
+Adventure
+Difficult
+Atmospheric
+1990's
+Singleplayer
+Retro
+Horror
+~Elite Dangerous
+Space Sim
+Space
+Open World
+Exploration
+Sci-fi
+Simulation
+Massively Multiplayer
+Multiplayer
+First-Person
+Action
+Adventure
+Sandbox
+Online Co-Op
+VR
+Trading
+Singleplayer
+RPG
+Strategy
+Difficult
+TrackIR
+~Frozen Cortex
+Sports
+Strategy
+Tactical
+Indie
+Turn-Based
+Turn-Based Strategy
+Multiplayer
+Singleplayer
+Great Soundtrack
+Robots
+Sci-fi
+~EVE Online
+Space
+Massively Multiplayer
+Sci-fi
+RPG
+Sandbox
+Free to Play
+MMORPG
+Open World
+Strategy
+Action
+PvP
+Multiplayer
+Economy
+Space Sim
+Simulation
+Difficult
+Tactical
+PvE
+Capitalism
+Atmospheric
+~Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist
+Free to Play
+Comedy
+First-Person
+Indie
+Narration
+Walking Simulator
+Funny
+Short
+Singleplayer
+Heist
+Stealth
+Story Rich
+Casual
+Atmospheric
+Experimental
+Adventure
+Horror
+Action
+Puzzle
+Point & Click
+~Galactic Civilizations II: Ultimate Edition
+Strategy
+4X
+Space
+Turn-Based
+Sci-fi
+Turn-Based Strategy
+Singleplayer
+Indie
+Diplomacy
+Grand Strategy
+Masterpiece
+Adventure
+Sandbox
+~Galactic Civilizations III
+Strategy
+Space
+Turn-Based Strategy
+Sci-fi
+4X
+Turn-Based
+Singleplayer
+Multiplayer
+Grand Strategy
+Exploration
+Simulation
+Moddable
+Hex Grid
+Replay Value
+Sandbox
+Open World
+Indie
+Lore-Rich
+Management
+Adventure
+~Game Dev Tycoon
+Simulation
+Management
+Indie
+Strategy
+Casual
+Singleplayer
+Economy
+2D
+Moddable
+Addictive
+Replay Value
+Sandbox
+GameMaker
+Funny
+Point & Click
+Difficult
+Great Soundtrack
+Masterpiece
+Comedy
+Touch-Friendly
+~Genital Jousting
+Sexual Content
+Nudity
+Action
+Indie
+Comedy
+NSFW
+Multiplayer
+Funny
+Memes
+Mature
+Local Multiplayer
+Story Rich
+Cute
+Co-op
+Casual
+Great Soundtrack
+Local Co-Op
+Illuminati
+Violent
+Early Access
+~Getting Over It with Bennett Foddy
+Difficult
+Psychological Horror
+Physics
+Singleplayer
+Funny
+Indie
+Horror
+Platformer
+Philosophical
+Casual
+Action
+Adventure
+Survival Horror
+Dark Humor
+Story Rich
+Replay Value
+Strategy
+Comedy
+Great Soundtrack
+Third Person
+~Giana Sisters: Twisted Dreams
+Platformer
+Indie
+Action
+Female Protagonist
+Great Soundtrack
+Singleplayer
+Difficult
+Fantasy
+2.5D
+Kickstarter
+Side Scroller
+2D
+Arcade
+Controller
+Adventure
+Multiplayer
+Local Multiplayer
+Local Co-Op
+~Gone Home
+Walking Simulator
+Short
+Indie
+Exploration
+Atmospheric
+First-Person
+Story Rich
+LGBTQ+
+Female Protagonist
+Adventure
+Singleplayer
+Great Soundtrack
+Mystery
+Interactive Fiction
+1990's
+Emotional
+Narration
+Romance
+Point & Click
+Realistic
+~Gremlins, Inc.
+Board Game
+Strategy
+Card Game
+Multiplayer
+Turn-Based
+Steampunk
+Indie
+Replay Value
+2D
+Singleplayer
+Stylized
+Competitive
+Turn-Based Strategy
+Atmospheric
+Tabletop
+Great Soundtrack
+Fantasy
+Politics
+Early Access
+Comedy
+~Grey Goo
+Strategy
+RTS
+Sci-fi
+Multiplayer
+Aliens
+Great Soundtrack
+Singleplayer
+Base Building
+Robots
+Mechs
+Female Protagonist
+Space
+Competitive
+Futuristic
+Indie
+Open World
+Action
+Sandbox
+Real-Time
+~Grim Fandango Remastered
+Adventure
+Point & Click
+Classic
+Story Rich
+Comedy
+Noir
+Cult Classic
+Great Soundtrack
+Singleplayer
+Remake
+Puzzle
+Atmospheric
+Retro
+Funny
+Masterpiece
+Dark Humor
+1990's
+Third Person
+Indie
+Difficult
+~Grow Home
+Open World
+Adventure
+Singleplayer
+Exploration
+Robots
+3D Platformer
+Casual
+Cute
+Parkour
+Sandbox
+Third Person
+Indie
+Short
+Platformer
+Funny
+Relaxing
+Physics
+Atmospheric
+Controller
+Great Soundtrack
+~Guacamelee! Super Turbo Championship Edition
+Metroidvania
+2D
+Platformer
+Action
+Colorful
+Indie
+Local Co-Op
+Adventure
+Funny
+Beat 'em up
+Comedy
+Co-op
+Great Soundtrack
+Singleplayer
+4 Player Local
+Wrestling
+Local Multiplayer
+Side Scroller
+Action-Adventure
+Memes
+~Guacamelee! 2
+Adventure
+Action
+Metroidvania
+Indie
+Platformer
+Co-op
+Beat 'em up
+2D
+Funny
+Local Multiplayer
+Controller
+4 Player Local
+Side Scroller
+Comedy
+Singleplayer
+Great Soundtrack
+Wrestling
+Action-Adventure
+Fantasy
+Multiple Endings
+~Guild of Dungeoneering
+Roguelike
+RPG
+Deckbuilding
+Card Game
+Indie
+Turn-Based
+Dungeon Crawler
+Singleplayer
+Roguelite
+Strategy
+2D
+Great Soundtrack
+Comedy
+Funny
+Difficult
+Fantasy
+Replay Value
+Cute
+Mouse only
+Family Friendly
+~GUILTY GEAR Xrd -REVELATOR-
+Fighting
+Anime
+2D Fighter
+Action
+Great Soundtrack
+Multiplayer
+2.5D
+Local Multiplayer
+Story Rich
+Difficult
+Competitive
+Controller
+eSports
+Arcade
+Singleplayer
+Tutorial
+2D
+Cute
+God Game
+~Guns of Icarus Alliance
+Indie
+Steampunk
+Multiplayer
+Team-Based
+Action
+Co-op
+Adventure
+Simulation
+Competitive
+Great Soundtrack
+First-Person
+Family Friendly
+Shooter
+FPS
+Online Co-Op
+~Hacker Evolution
+Simulation
+Hacking
+Puzzle
+Singleplayer
+~Hacknet
+Hacking
+Simulation
+Indie
+Singleplayer
+Programming
+Great Soundtrack
+Puzzle
+Typing
+Story Rich
+Cyberpunk
+Atmospheric
+2D
+Adventure
+Sci-fi
+Casual
+Strategy
+Education
+Difficult
+Multiplayer
+Dystopian
+~Half-Life
+FPS
+Classic
+Action
+Sci-fi
+Masterpiece
+Singleplayer
+Shooter
+First-Person
+1990's
+Aliens
+Multiplayer
+Story Rich
+Adventure
+Atmospheric
+Silent Protagonist
+Great Soundtrack
+Moddable
+Retro
+Linear
+Difficult
+~Half-Life 2
+FPS
+Action
+Sci-fi
+Classic
+Masterpiece
+Singleplayer
+Story Rich
+Shooter
+First-Person
+Adventure
+Dystopian
+Atmospheric
+Zombies
+Silent Protagonist
+Physics
+Aliens
+Great Soundtrack
+Puzzle
+Multiplayer
+Horror
+~Hand of Fate 2
+RPG
+Card Game
+Deckbuilding
+Action
+Indie
+Action Roguelike
+Roguelite
+Singleplayer
+Fantasy
+Roguelike
+Board Game
+Hack and Slash
+Dungeon Crawler
+Strategy
+Action RPG
+Female Protagonist
+Choices Matter
+~Hard Reset
+FPS
+Cyberpunk
+Action
+Sci-fi
+Indie
+Shooter
+Singleplayer
+First-Person
+Dystopian
+Robots
+Difficult
+3D Vision
+Old School
+Atmospheric
+~A Hat in Time
+Cute
+3D Platformer
+Collectathon
+Great Soundtrack
+Female Protagonist
+Adventure
+Indie
+Platformer
+Funny
+Exploration
+Colorful
+Third Person
+Singleplayer
+Open World
+Comedy
+Moddable
+Co-op
+Family Friendly
+Kickstarter
+Action
+~Hearts of Iron III
+Grand Strategy
+Strategy
+World War II
+Historical
+Simulation
+Military
+Real-Time with Pause
+War
+Sandbox
+Multiplayer
+Difficult
+Singleplayer
+RTS
+Wargame
+Great Soundtrack
+Masterpiece
+Alternate History
+~Hellblade: Senua's Sacrifice
+Atmospheric
+Psychological
+Story Rich
+Female Protagonist
+Mythology
+Singleplayer
+Adventure
+Dark
+Third Person
+Horror
+Action
+Dark Fantasy
+Violent
+Indie
+Hack and Slash
+Action-Adventure
+Fantasy
+Walking Simulator
+Realistic
+Blood
+~Hero Academy
+Strategy
+Indie
+Turn-Based
+Multiplayer
+Asynchronous Multiplayer
+Casual
+~The Hex
+Indie
+Singleplayer
+Story Rich
+Psychological Horror
+Mystery
+Pixel Graphics
+Great Soundtrack
+2D
+RPG
+Funny
+Dark
+Multiple Endings
+Replay Value
+Memes
+Choices Matter
+Adventure
+Platformer
+Horror
+~HITMAN
+Stealth
+Action
+Assassin
+Third Person
+Singleplayer
+Tactical
+Shooter
+Open World
+Atmospheric
+Crime
+Sandbox
+Strategy
+Episodic
+Story Rich
+Third-Person Shooter
+Great Soundtrack
+Adventure
+Heist
+Illuminati
+Nudity
+~Hitman: Codename 47
+Stealth
+Action
+Classic
+Assassin
+Singleplayer
+Third Person
+Shooter
+Difficult
+Third-Person Shooter
+Sandbox
+Masterpiece
+Atmospheric
+Great Soundtrack
+Adventure
+Strategy
+Crime
+~HITMAN 2
+Stealth
+Assassin
+Action
+Singleplayer
+Third Person
+Multiplayer
+Violent
+Sandbox
+Open World
+Strategy
+Gore
+Atmospheric
+Puzzle
+Co-op
+Third-Person Shooter
+Funny
+Shooter
+Online Co-Op
+Great Soundtrack
+Nudity
+~Hitman 2: Silent Assassin
+Stealth
+Action
+Third Person
+Singleplayer
+Assassin
+Classic
+Shooter
+Sandbox
+Great Soundtrack
+Old School
+Difficult
+FPS
+Adventure
+Masterpiece
+Gore
+First-Person
+Crime
+Atmospheric
+Tactical
+Story Rich
+~Hitman: Contracts
+Stealth
+Action
+Assassin
+Singleplayer
+Third Person
+Great Soundtrack
+Atmospheric
+Classic
+Dark
+Difficult
+Shooter
+Puzzle
+First-Person
+Open World
+Crime
+Third-Person Shooter
+Horror
+Masterpiece
+Sandbox
+Gore
+~Hitman: Blood Money
+Stealth
+Action
+Singleplayer
+Assassin
+Third Person
+Classic
+Masterpiece
+Great Soundtrack
+Third-Person Shooter
+Cult Classic
+Sandbox
+Puzzle
+Replay Value
+Crime
+Shooter
+Atmospheric
+Difficult
+First-Person
+Strategy
+Dark
+~Hitman: Absolution
+Stealth
+Action
+Third Person
+Assassin
+Singleplayer
+Third-Person Shooter
+Tactical
+Shooter
+Replay Value
+Crime
+Story Rich
+Cinematic
+Multiplayer
+Difficult
+Atmospheric
+Adventure
+Strategy
+Masterpiece
+Score Attack
+Linear
+~Hollow Knight
+Metroidvania
+Souls-like
+Platformer
+Great Soundtrack
+Difficult
+2D
+Atmospheric
+Indie
+Exploration
+Singleplayer
+Adventure
+Story Rich
+Hand-drawn
+Action
+Dark Fantasy
+Cute
+Multiple Endings
+Open World
+Controller
+Side Scroller
+~Home
+Indie
+Adventure
+Horror
+Pixel Graphics
+Short
+Multiple Endings
+Mystery
+Atmospheric
+Interactive Fiction
+Psychological
+Singleplayer
+Walking Simulator
+Point & Click
+Thriller
+2D
+Story Rich
+Exploration
+GameMaker
+Dark
+Retro
+~Homeworld Remastered Collection
+Space
+Strategy
+RTS
+Sci-fi
+Classic
+Great Soundtrack
+Story Rich
+Remake
+Atmospheric
+Multiplayer
+Simulation
+Tactical
+Singleplayer
+Masterpiece
+Moddable
+Epic
+Action
+4X
+Adventure
+Female Protagonist
+~Horace
+Adventure
+Action
+Indie
+Story Rich
+Metroidvania
+Cinematic
+Platformer
+Pixel Graphics
+Comedy
+Puzzle Platformer
+Difficult
+Masterpiece
+Funny
+Singleplayer
+2D
+Great Soundtrack
+Retro
+Atmospheric
+Side Scroller
+~Hotline Miami
+Great Soundtrack
+Action
+Violent
+Indie
+Top-Down
+1980s
+Fast-Paced
+Pixel Graphics
+Gore
+Psychedelic
+Retro
+Difficult
+Singleplayer
+Surreal
+Shooter
+2D
+Atmospheric
+Addictive
+Top-Down Shooter
+Music
+~Hotline Miami 2: Wrong Number
+Great Soundtrack
+Gore
+Pixel Graphics
+Violent
+Action
+Fast-Paced
+Difficult
+Retro
+Top-Down
+Indie
+1980s
+Singleplayer
+Atmospheric
+Top-Down Shooter
+Blood
+2D
+Shooter
+Level Editor
+Arcade
+1990's
+~Human Resource Machine
+Programming
+Puzzle
+Indie
+Casual
+Simulation
+Education
+Singleplayer
+Touch-Friendly
+Automation
+Comedy
+Great Soundtrack
+Difficult
+Logic
+Funny
+Sandbox
+Satire
+Experimental
+~Hunt: Showdown
+Multiplayer
+Horror
+First-Person
+Survival
+Online Co-Op
+Shooter
+Zombies
+Western
+FPS
+Action
+PvP
+Survival Horror
+Co-op
+Perma Death
+Open World
+Early Access
+Gore
+Team-Based
+Violent
+Battle Royale
+~Hyper Light Drifter
+Pixel Graphics
+Great Soundtrack
+Adventure
+Atmospheric
+Difficult
+Indie
+Action
+Singleplayer
+RPG
+Hack and Slash
+Exploration
+2D
+Colorful
+Post-apocalyptic
+Action RPG
+Top-Down
+Fantasy
+Sci-fi
+Metroidvania
+Souls-like
+~I Have No Mouth, and I Must Scream
+Point & Click
+Adventure
+Horror
+Classic
+Retro
+Based On A Novel
+Cult Classic
+Story Rich
+Singleplayer
+1990's
+Dark
+2D
+Masterpiece
+Great Soundtrack
+Post-apocalyptic
+Funny
+Surreal
+Puzzle
+Psychological Horror
+Cyberpunk
+~ibb & obb
+Co-op
+Puzzle
+Local Co-Op
+Online Co-Op
+Platformer
+Indie
+Cute
+Adventure
+Multiplayer
+Action
+Puzzle Platformer
+Great Soundtrack
+2D
+Difficult
+Casual
+Family Friendly
+Funny
+Controller
+Local Multiplayer
+~Icewind Dale
+RPG
+Fantasy
+Adventure
+Isometric
+Strategy
+Dungeons & Dragons
+Classic
+Party-Based RPG
+CRPG
+Real-Time with Pause
+Singleplayer
+Character Customization
+Story Rich
+Co-op
+Multiplayer
+Old School
+Magic
+Great Soundtrack
+Cult Classic
+Medieval
+~ICEY
+Action
+Female Protagonist
+Hack and Slash
+Anime
+Side Scroller
+Adventure
+Indie
+RPG
+Singleplayer
+2D
+Narration
+Cyberpunk
+Great Soundtrack
+Character Action Game
+Spectacle fighter
+Sci-fi
+Platformer
+Metroidvania
+Funny
+Lovecraftian
+~Iconoclasts
+Indie
+Action
+Adventure
+Pixel Graphics
+Metroidvania
+Female Protagonist
+Platformer
+2D
+Story Rich
+Puzzle Platformer
+Great Soundtrack
+Colorful
+Singleplayer
+Action-Adventure
+Side Scroller
+Cute
+Puzzle
+Sci-fi
+~Immortal Redneck
+Action Roguelike
+Roguelite
+FPS
+Action
+Indie
+Shooter
+Singleplayer
+Procedural Generation
+Difficult
+First-Person
+Fast-Paced
+Perma Death
+Funny
+Roguelike
+~In Between
+Indie
+2D
+Puzzle Platformer
+Atmospheric
+Puzzle
+Platformer
+Story Rich
+Difficult
+Singleplayer
+Great Soundtrack
+Dark
+Hand-drawn
+Narration
+Emotional
+Philosophical
+~Injustice: Gods Among Us Ultimate Edition
+Fighting
+Superhero
+Action
+Multiplayer
+Batman
+Comic Book
+Local Multiplayer
+Singleplayer
+Controller
+2D Fighter
+Beat 'em up
+Arcade
+Competitive
+2.5D
+Story Rich
+Masterpiece
+2D
+Atmospheric
+3D Vision
+Great Soundtrack
+~INSIDE
+Atmospheric
+Dark
+Indie
+Adventure
+Puzzle
+Singleplayer
+Horror
+Puzzle Platformer
+Story Rich
+Platformer
+Dystopian
+Psychological Horror
+Mystery
+2.5D
+Stealth
+Action
+Great Soundtrack
+Sci-fi
+Short
+Walking Simulator
+~Insurgency
+FPS
+Realistic
+Tactical
+Multiplayer
+Shooter
+Action
+Military
+Team-Based
+Co-op
+First-Person
+Strategy
+War
+Online Co-Op
+Competitive
+Indie
+Simulation
+PvP
+Singleplayer
+Atmospheric
+Adventure
+~Into the Breach
+Strategy
+Turn-Based Strategy
+Indie
+Pixel Graphics
+Mechs
+Turn-Based Tactics
+Turn-Based
+Sci-fi
+Roguelike
+Puzzle
+Singleplayer
+Roguelite
+RPG
+Tactical
+Isometric
+Turn-Based Combat
+Simulation
+Replay Value
+Procedural Generation
+Great Soundtrack
+~Invisible, Inc.
+Stealth
+Turn-Based Strategy
+Cyberpunk
+Turn-Based
+Strategy
+Roguelike
+Indie
+Procedural Generation
+Isometric
+Singleplayer
+Turn-Based Tactics
+Tactical
+Perma Death
+Roguelite
+Action
+Difficult
+Sci-fi
+Adventure
+Great Soundtrack
+Female Protagonist
+~Invisigun Reloaded
+Indie
+Action
+Casual
+Strategy
+Pixel Graphics
+Local Multiplayer
+Multiplayer
+Stealth
+Retro
+Great Soundtrack
+Controller
+Top-Down
+4 Player Local
+Competitive
+~Ironcast
+Strategy
+Match 3
+Indie
+RPG
+Steampunk
+Mechs
+Puzzle
+Roguelite
+Perma Death
+Singleplayer
+Casual
+~The Jackbox Party Pack
+Casual
+Trivia
+Local Multiplayer
+Funny
+Indie
+Strategy
+Multiplayer
+Comedy
+Board Game
+Co-op
+Family Friendly
+4 Player Local
+Local Co-Op
+~The Jackbox Party Pack 2
+Trivia
+Local Multiplayer
+Casual
+Indie
+Comedy
+Strategy
+Local Co-Op
+Funny
+Multiplayer
+Board Game
+Co-op
+Family Friendly
+~The Jackbox Party Pack 3
+Trivia
+Local Multiplayer
+Casual
+Funny
+Board Game
+Multiplayer
+Indie
+Strategy
+Comedy
+Family Friendly
+Co-op
+~The Jackbox Party Pack 4
+Casual
+Trivia
+Indie
+Strategy
+Local Multiplayer
+Funny
+Multiplayer
+Board Game
+Comedy
+Co-op
+Family Friendly
+Psychological Horror
+~Jalopy - Road Trip Car Driving Simulator Indie Game
+Automobile Sim
+Driving
+Simulation
+Adventure
+First-Person
+Open World
+Singleplayer
+Indie
+Realistic
+Atmospheric
+Exploration
+Sandbox
+Early Access
+Survival
+Relaxing
+Funny
+Retro
+Casual
+Management
+Multiplayer
+~Jazzpunk: Director's Cut
+Comedy
+Indie
+Adventure
+Surreal
+Funny
+Exploration
+Short
+First-Person
+Cyberpunk
+Singleplayer
+Walking Simulator
+Cold War
+Casual
+Simulation
+Memes
+Stylized
+Great Soundtrack
+Masterpiece
+Parody
+Action
+~Jet Set Radio
+Great Soundtrack
+Classic
+Action
+3D Platformer
+Singleplayer
+Platformer
+Colorful
+Arcade
+Stylized
+Third Person
+Parkour
+Music
+Controller
+Cult Classic
+Atmospheric
+Retro
+Sports
+Masterpiece
+Open World
+Anime
+~Just Cause 2
+Open World
+Action
+Sandbox
+Third Person
+Multiplayer
+Adventure
+Third-Person Shooter
+Shooter
+Singleplayer
+Destruction
+Exploration
+Funny
+Moddable
+Co-op
+Beautiful
+Physics
+Atmospheric
+3D Vision
+Comedy
+Massively Multiplayer
+~Just Cause 3
+Open World
+Action
+Destruction
+Third-Person Shooter
+Multiplayer
+Singleplayer
+Adventure
+Shooter
+Sandbox
+Third Person
+Exploration
+Physics
+Funny
+Atmospheric
+Comedy
+Parkour
+Co-op
+Great Soundtrack
+Moddable
+RPG
+~Hearthstone
+Free to Play
+Card Game
+Trading Card Game
+Multiplayer
+Strategy
+Fantasy
+Singleplayer
+Great Soundtrack
+Board Game
+Story Rich
+Tactical
+Atmospheric
+~Homeworld: Deserts of Kharak
+Strategy
+RTS
+Sci-fi
+Multiplayer
+Story Rich
+Great Soundtrack
+Space
+Female Protagonist
+Atmospheric
+Singleplayer
+Action
+Futuristic
+Real-Time
+Adventure
+Co-op
+First-Person
+Tactical
+~Just Cause 4
+Open World
+Action
+Destruction
+Singleplayer
+Adventure
+Sandbox
+Third-Person Shooter
+Shooter
+Physics
+Violent
+Funny
+Gore
+Story Rich
+Atmospheric
+Co-op
+FPS
+Driving
+Heist
+Third Person
+Comedy
+~Kingdom: New Lands
+Strategy
+Pixel Graphics
+Survival
+Indie
+Colony Sim
+Base Building
+Singleplayer
+Tower Defense
+2D
+Simulation
+Building
+Medieval
+Exploration
+Adventure
+Fantasy
+Atmospheric
+Great Soundtrack
+Side Scroller
+Roguelike
+Open World
+~Card Hunter
+Free to Play
+Card Game
+Tabletop
+RPG
+Board Game
+Strategy
+Turn-Based
+Multiplayer
+Co-op
+Fantasy
+Singleplayer
+Tactical RPG
+Turn-Based Strategy
+Dungeon Crawler
+Indie
+Comedy
+Trading Card Game
+Tactical
+Turn-Based Tactics
+Funny
+~Kentucky Route Zero
+Adventure
+Atmospheric
+Indie
+Point & Click
+Surreal
+Story Rich
+Episodic
+Great Soundtrack
+Mystery
+Beautiful
+Exploration
+Singleplayer
+~Kerbal Space Program
+Space
+Simulation
+Sandbox
+Physics
+Science
+Space Sim
+Building
+Moddable
+Indie
+Education
+Open World
+Singleplayer
+Exploration
+Funny
+Sci-fi
+Adventure
+Difficult
+Replay Value
+Strategy
+Comedy
+~Kero Blaster
+Indie
+Action
+Platformer
+Pixel Graphics
+Retro
+2D
+Shooter
+Adventure
+Singleplayer
+Difficult
+Great Soundtrack
+Shoot 'Em Up
+Side Scroller
+Arcade
+Silent Protagonist
+Controller
+Fantasy
+Satire
+Soundtrack
+Classic
+~Killer Instinct
+Fighting
+Action
+Multiplayer
+Great Soundtrack
+2D Fighter
+Arcade
+Singleplayer
+Competitive
+2.5D
+Local Multiplayer
+Controller
+Beat 'em up
+~King Arthur II: The Role-Playing Wargame
+Strategy
+RPG
+RTS
+Fantasy
+Singleplayer
+~King of Dragon Pass
+Strategy
+RPG
+Fantasy
+Story Rich
+Atmospheric
+Mythology
+Choose Your Own Adventure
+Difficult
+Cult Classic
+Interactive Fiction
+Classic
+Adventure
+Retro
+Remake
+Medieval
+Board Game
+1980s
+1990's
+Choices Matter
+~THE KING OF FIGHTERS XIV
+Fighting
+Arcade
+Action
+2D Fighter
+Multiplayer
+Anime
+Beat 'em up
+2.5D
+Great Soundtrack
+Nudity
+Story Rich
+Competitive
+Sexual Content
+~King's Bounty: Armored Princess
+RPG
+Turn-Based Strategy
+Strategy
+Fantasy
+Female Protagonist
+Hex Grid
+Turn-Based
+Tactical
+Adventure
+Singleplayer
+Open World
+Masterpiece
+Tactical RPG
+Turn-Based Combat
+Great Soundtrack
+~King's Quest
+Adventure
+Puzzle
+Point & Click
+Fantasy
+Story Rich
+Singleplayer
+Funny
+Comedy
+Classic
+Episodic
+Remake
+Great Soundtrack
+Medieval
+Cult Classic
+Retro
+1990's
+2D
+Choices Matter
+~Kingdom Come: Deliverance
+Medieval
+RPG
+Open World
+Realistic
+Singleplayer
+Historical
+Adventure
+First-Person
+Story Rich
+Swordplay
+Action
+Choose Your Own Adventure
+Choices Matter
+Nudity
+Atmospheric
+Horses
+Great Soundtrack
+Kickstarter
+Indie
+Crowdfunded
+~Kingsway
+RPG
+Adventure
+Simulation
+Roguelike
+Pixel Graphics
+Retro
+Indie
+Roguelite
+~Knee Deep
+Adventure
+Mystery
+Indie
+Choices Matter
+Female Protagonist
+Third Person
+Noir
+Dark Humor
+Crime
+Story Rich
+Dark
+Thriller
+Funny
+Singleplayer
+Narration
+Mature
+Atmospheric
+Casual
+Satire
+Great Soundtrack
+~Ladykiller in a Bind
+Sexual Content
+Nudity
+Visual Novel
+LGBTQ+
+Indie
+Female Protagonist
+Story Rich
+Anime
+Choices Matter
+Singleplayer
+Great Soundtrack
+Comedy
+Illuminati
+Dating Sim
+~Lakeview Cabin Collection
+Pixel Graphics
+Indie
+Horror
+Nudity
+Gore
+Survival Horror
+Comedy
+Psychological Horror
+Survival
+Sandbox
+Sexual Content
+Violent
+Singleplayer
+2D
+Episodic
+Puzzle
+Funny
+Difficult
+Atmospheric
+Retro
+~Last Dream: World Unknown
+RPG
+Indie
+RPGMaker
+JRPG
+Turn-Based
+Puzzle
+Pixel Graphics
+Singleplayer
+Classic
+2D
+~The Last Express
+Adventure
+Point & Click
+Mystery
+Classic
+Real-Time
+Story Rich
+Masterpiece
+World War I
+Historical
+1990's
+Atmospheric
+Singleplayer
+Detective
+Noir
+Trains
+Choices Matter
+Cult Classic
+Beautiful
+Based On A Novel
+Narration
+~The Last Federation
+
+
+Strategy
+Space
+Simulation
+Indie
+Turn-Based
+4X
+Sci-fi
+Grand Strategy
+Capitalism
+Tactical
+Turn-Based Strategy
+Great Soundtrack
+Real-Time with Pause
+Turn-Based Tactics
+Singleplayer
+Bullet Hell
+Aliens
+2D
+Futuristic
+Adventure
+~Layers of Fear
+Horror
+Psychological Horror
+Atmospheric
+Walking Simulator
+First-Person
+Singleplayer
+Indie
+Adventure
+Story Rich
+Psychedelic
+Dark
+Great Soundtrack
+Puzzle
+Exploration
+Mystery
+Lovecraftian
+Surreal
+Survival Horror
+Point & Click
+Short
+~Left 4 Dead
+Zombies
+Co-op
+FPS
+Multiplayer
+Action
+Shooter
+Online Co-Op
+Horror
+Team-Based
+First-Person
+Survival
+Post-apocalyptic
+Singleplayer
+Atmospheric
+Adventure
+Tactical
+Moddable
+Competitive
+Replay Value
+Female Protagonist
+~Left 4 Dead 2
+Zombies
+Co-op
+FPS
+Multiplayer
+Shooter
+Action
+Online Co-Op
+Survival
+Horror
+First-Person
+Gore
+Team-Based
+Moddable
+Survival Horror
+Post-apocalyptic
+Singleplayer
+Adventure
+Local Co-Op
+Replay Value
+Tactical
+~Legacy of Kain: Soul Reaver
+Adventure
+Action
+Vampire
+Classic
+Story Rich
+Masterpiece
+Dark Fantasy
+Third Person
+Gothic
+Puzzle
+Atmospheric
+Singleplayer
+Action-Adventure
+Great Soundtrack
+Fantasy
+Dark
+Retro
+Metroidvania
+Horror
+~Lethal League
+Fighting
+Local Multiplayer
+Indie
+2D Fighter
+Great Soundtrack
+Multiplayer
+Action
+Sports
+2D
+4 Player Local
+Arcade
+Competitive
+Fast-Paced
+Funny
+Pixel Graphics
+Local Co-Op
+Online Co-Op
+Singleplayer
+Soundtrack
+eSports
+~Lichdom: Battlemage
+RPG
+Magic
+Action
+First-Person
+Fantasy
+Indie
+Singleplayer
+FPS
+Adventure
+Action RPG
+Masterpiece
+Early Access
+Female Protagonist
+Difficult
+Atmospheric
+Open World
+~Life is Strange
+Story Rich
+Choices Matter
+Great Soundtrack
+Female Protagonist
+Time Travel
+Atmospheric
+Episodic
+Singleplayer
+Adventure
+Time Manipulation
+Multiple Endings
+Mystery
+Third Person
+Point & Click
+Indie
+Walking Simulator
+Casual
+Action
+Memes
+Masterpiece
+~LISA: The Painful
+Dark Humor
+RPG
+Story Rich
+Great Soundtrack
+Post-apocalyptic
+Indie
+Choices Matter
+Psychological Horror
+Pixel Graphics
+Dark
+Adventure
+RPGMaker
+Funny
+Singleplayer
+2D
+Atmospheric
+Comedy
+Side Scroller
+Horror
+Platformer
+~Little Nightmares
+Horror
+Atmospheric
+Adventure
+Dark
+Singleplayer
+Puzzle Platformer
+Puzzle
+Indie
+Stealth
+Platformer
+Story Rich
+Great Soundtrack
+Psychological Horror
+Short
+Survival Horror
+Female Protagonist
+Third Person
+2.5D
+Strategy
+Action
+~Long Live The Queen
+Visual Novel
+Political Sim
+Anime
+Female Protagonist
+Simulation
+Indie
+Difficult
+Strategy
+Singleplayer
+Fantasy
+RPG
+Cute
+Medieval
+Multiple Endings
+Choose Your Own Adventure
+Politics
+Choices Matter
+Story Rich
+Character Customization
+2D
+~Lovers in a Dangerous Spacetime
+Local Co-Op
+Action
+Co-op
+Indie
+4 Player Local
+Space
+Cute
+Simulation
+2D
+Colorful
+Local Multiplayer
+Multiplayer
+Adventure
+Sci-fi
+Great Soundtrack
+Shoot 'Em Up
+Online Co-Op
+~Lucah: Born of a Dream
+Action
+Indie
+RPG
+Stylized
+Surreal
+Hack and Slash
+LGBTQ+
+Character Action Game
+Great Soundtrack
+Experimental
+Interactive Fiction
+Kickstarter
+Horror
+Atmospheric
+Action RPG
+Singleplayer
+Character Customization
+2D
+~Machinarium
+Point & Click
+Puzzle
+Adventure
+Indie
+Great Soundtrack
+Steampunk
+Singleplayer
+Atmospheric
+Robots
+2D
+Hand-drawn
+Masterpiece
+Story Rich
+Classic
+Cute
+Stylized
+Casual
+Beautiful
+Family Friendly
+Touch-Friendly
+~Mad Max
+Open World
+Vehicular Combat
+Action
+Post-apocalyptic
+Driving
+Singleplayer
+Survival
+Third Person
+Adventure
+Automobile Sim
+Exploration
+Racing
+Atmospheric
+Story Rich
+Sandbox
+RPG
+Third-Person Shooter
+Shooter
+Multiplayer
+War
+~Mafia II
+Action
+Open World
+Crime
+Story Rich
+Atmospheric
+Singleplayer
+Third Person
+Third-Person Shooter
+Shooter
+Automobile Sim
+Great Soundtrack
+Adventure
+Driving
+America
+Masterpiece
+Classic
+Music
+Nudity
+Multiplayer
+Sandbox
+~The Magic Circle
+Adventure
+Indie
+Puzzle
+Story Rich
+Simulation
+Action
+Strategy
+First-Person
+Satire
+Comedy
+Singleplayer
+Walking Simulator
+Programming
+~Magicka
+Comedy
+Co-op
+Action
+Fantasy
+Online Co-Op
+RPG
+Multiplayer
+Magic
+Adventure
+Funny
+Local Co-Op
+4 Player Local
+Indie
+Local Multiplayer
+Difficult
+Singleplayer
+Masterpiece
+Team-Based
+Action RPG
+Arcade
+~Magicka 2
+Magic
+Co-op
+Adventure
+Comedy
+Multiplayer
+Action
+Funny
+Online Co-Op
+Atmospheric
+Team-Based
+Local Co-Op
+RPG
+PvP
+Open World
+Fantasy
+Local Multiplayer
+Memes
+Masterpiece
+Gore
+Singleplayer
+~MANDAGON
+Free to Play
+Indie
+Pixel Graphics
+Adventure
+Platformer
+2D
+Atmospheric
+Short
+Relaxing
+Story Rich
+Controller
+Singleplayer
+Casual
+Mystery
+Great Soundtrack
+Exploration
+Multiplayer
+Walking Simulator
+Puzzle
+Side Scroller
+~Mark of the Ninja
+Stealth
+Platformer
+Ninja
+Indie
+2D
+Action
+Singleplayer
+Side Scroller
+Adventure
+Assassin
+Atmospheric
+Controller
+Masterpiece
+Replay Value
+Cartoon
+Puzzle
+Dark
+Short
+Story Rich
+Strategy
+~Max Gentlemen
+Free to Play
+Indie
+Casual
+Funny
+Multiplayer
+2D
+Local Co-Op
+Local Multiplayer
+Singleplayer
+~Mega Man 11
+Action
+Platformer
+Classic
+Side Scroller
+Singleplayer
+Robots
+Great Soundtrack
+Difficult
+2.5D
+2D
+Adventure
+Retro
+Anime
+Shooter
+Sci-fi
+~Mega Man Legacy Collection
+Platformer
+Retro
+Classic
+Action
+2D
+Great Soundtrack
+Pixel Graphics
+Singleplayer
+Difficult
+Side Scroller
+Sci-fi
+1980s
+Remake
+Masterpiece
+Shooter
+Robots
+1990's
+Anime
+Controller
+Indie
+~Mega Man X Legacy Collection
+Action
+Platformer
+Classic
+Side Scroller
+2D
+Retro
+Robots
+Singleplayer
+Great Soundtrack
+Anime
+Difficult
+1990's
+Sci-fi
+Shooter
+~Megabyte Punch
+Action
+Indie
+Adventure
+Platformer
+Local Co-Op
+Fighting
+Beat 'em up
+Robots
+Local Multiplayer
+Split Screen
+Co-op
+Character Customization
+Mechs
+Controller
+4 Player Local
+2.5D
+Singleplayer
+Great Soundtrack
+Arcade
+Competitive
+~Melty Blood Actress Again Current Code
+Anime
+2D Fighter
+Fighting
+Action
+Great Soundtrack
+Arcade
+Local Multiplayer
+Difficult
+Cute
+eSports
+Visual Novel
+Controller
+Story Rich
+Multiplayer
+2D
+~Men of War: Assault Squad 2
+Strategy
+World War II
+Simulation
+War
+RTS
+Action
+Tactical
+Military
+Multiplayer
+Real Time Tactics
+Realistic
+Tanks
+Historical
+Co-op
+Destruction
+Singleplayer
+Atmospheric
+Masterpiece
+Difficult
+Classic
+~METAL GEAR RISING: REVENGEANCE
+Great Soundtrack
+Action
+Hack and Slash
+Spectacle fighter
+Swordplay
+Character Action Game
+Third Person
+Singleplayer
+Ninja
+Cyberpunk
+Fast-Paced
+Gore
+Sci-fi
+Difficult
+Replay Value
+Masterpiece
+Mechs
+Adventure
+Story Rich
+Beat 'em up
+~METAL GEAR SOLID V: THE PHANTOM PAIN
+Stealth
+Open World
+Action
+Story Rich
+Tactical
+Cinematic
+Great Soundtrack
+Third Person
+Singleplayer
+Atmospheric
+Adventure
+Horses
+Multiplayer
+Third-Person Shooter
+Replay Value
+Shooter
+Sandbox
+Masterpiece
+Dark
+Sci-fi
+~Miasmata
+Survival
+Exploration
+Indie
+Adventure
+First-Person
+Open World
+Open World Survival Craft
+Atmospheric
+Singleplayer
+Action
+Walking Simulator
+Horror
+Crafting
+Mystery
+FPS
+Masterpiece
+Multiplayer
+~Middle-earth: Shadow of War
+Open World
+Action
+RPG
+Fantasy
+Singleplayer
+Adventure
+Violent
+Third Person
+Gore
+Stealth
+War
+Story Rich
+Action RPG
+Hack and Slash
+Dark Fantasy
+Medieval
+Magic
+Atmospheric
+Strategy
+Great Soundtrack
+~Might & Magic: Clash of Heroes
+Strategy
+Puzzle
+RPG
+Turn-Based
+Match 3
+Multiplayer
+Singleplayer
+Fantasy
+Tactical
+Anime
+Casual
+Adventure
+Co-op
+2D
+Local Multiplayer
+Female Protagonist
+~Mini Metro
+Strategy
+Puzzle
+Minimalist
+Simulation
+Indie
+Trains
+Casual
+Singleplayer
+Management
+Relaxing
+2D
+Touch-Friendly
+Transportation
+Building
+Difficult
+Great Soundtrack
+Mouse only
+Addictive
+Masterpiece
+Replay Value
+~Minit
+Minimalist
+Adventure
+Indie
+Pixel Graphics
+Puzzle
+Great Soundtrack
+Singleplayer
+2D
+Retro
+RPG
+Funny
+Action
+Short
+Cute
+Fast-Paced
+Exploration
+Difficult
+~MOLEK-SYNTEZ
+Simulation
+Puzzle
+Programming
+Indie
+Science
+Singleplayer
+Automation
+~Monkey Island 2: LeChuck’s Revenge
+Point & Click
+Adventure
+Comedy
+Classic
+Remake
+Masterpiece
+Puzzle
+Pirates
+Singleplayer
+Funny
+1990's
+2D
+Cult Classic
+Great Soundtrack
+Retro
+Story Rich
+Atmospheric
+~Moonlighter
+Pixel Graphics
+Adventure
+Action Roguelike
+Roguelite
+Indie
+RPG
+Action
+Dungeon Crawler
+Roguelike
+Management
+Singleplayer
+2D
+Action RPG
+Great Soundtrack
+Capitalism
+Top-Down
+Procedural Generation
+Story Rich
+Simulation
+Retro
+~Mortal Kombat Komplete Edition
+Fighting
+Gore
+Action
+Violent
+Multiplayer
+Classic
+Blood
+Co-op
+Masterpiece
+Arcade
+Singleplayer
+2D Fighter
+Competitive
+Local Multiplayer
+Local Co-Op
+Replay Value
+2.5D
+Remake
+Beat 'em up
+2D
+~Mother Russia Bleeds
+Gore
+Beat 'em up
+Action
+Violent
+Indie
+Great Soundtrack
+Pixel Graphics
+Co-op
+Local Co-Op
+Retro
+2D
+Atmospheric
+Mature
+Multiplayer
+Difficult
+4 Player Local
+Psychological Horror
+Nudity
+Sexual Content
+Female Protagonist
+~MOTHERGUNSHIP
+Action
+Action Roguelike
+FPS
+Bullet Hell
+Indie
+Crafting
+Roguelite
+Fast-Paced
+Gun Customization
+First-Person
+Singleplayer
+Difficult
+Procedural Generation
+Replay Value
+Perma Death
+Roguelike
+Co-op
+Sci-fi
+Online Co-Op
+Shooter
+~Mount & Blade: Warband
+Medieval
+RPG
+Open World
+Strategy
+Sandbox
+Action
+Multiplayer
+Moddable
+Military
+Adventure
+Horses
+Singleplayer
+Realistic
+First-Person
+Historical
+Third Person
+Simulation
+Hack and Slash
+Fantasy
+Indie
+~Mount Your Friends
+Funny
+Comedy
+Sports
+Multiplayer
+Indie
+Physics
+Local Multiplayer
+Simulation
+Competitive
+Sexual Content
+Co-op
+LGBTQ+
+2D
+Local Co-Op
+Casual
+Mature
+Psychological Horror
+4 Player Local
+Online Co-Op
+Singleplayer
+~Mr. Shifty
+Action
+Indie
+Adventure
+Top-Down
+Beat 'em up
+Singleplayer
+Fast-Paced
+Great Soundtrack
+Superhero
+Difficult
+Bullet Time
+Comic Book
+Assassin
+Arcade
+Destruction
+Heist
+Time Attack
+Action-Adventure
+Character Action Game
+Top-Down Shooter
+~Multiwinia
+Indie
+RTS
+Strategy
+Multiplayer
+Singleplayer
+Retro
+~Mutant Year Zero: Road to Eden
+Strategy
+RPG
+Post-apocalyptic
+Turn-Based Combat
+Tactical
+Turn-Based Tactics
+Turn-Based
+Adventure
+Stealth
+Singleplayer
+Turn-Based Strategy
+Atmospheric
+Action
+Survival
+Dark Fantasy
+Difficult
+Funny
+Horror
+Fantasy
+Exploration
+~My Friend Pedro
+Action
+Indie
+Violent
+Shooter
+Parkour
+Bullet Time
+Gore
+Great Soundtrack
+Singleplayer
+Side Scroller
+Platformer
+Fast-Paced
+Funny
+Comedy
+2.5D
+Blood
+2D
+Physics
+Controller
+Multiplayer
+~My Night Job
+Action
+Indie
+Arcade
+Pixel Graphics
+Survival Horror
+Competitive
+1980s
+Dark Humor
+Metroidvania
+2D
+~Natural Selection 2
+Multiplayer
+Strategy
+FPS
+Team-Based
+Action
+Sci-fi
+RTS
+Aliens
+Indie
+Competitive
+Shooter
+Co-op
+Moddable
+Tactical
+First-Person
+Space
+Futuristic
+Atmospheric
+Online Co-Op
+Adventure
+~NEO Scavenger
+Survival
+Post-apocalyptic
+RPG
+Roguelike
+Turn-Based
+Crafting
+Indie
+Procedural Generation
+Perma Death
+Strategy
+Difficult
+Sandbox
+Inventory Management
+Open World
+Realistic
+Singleplayer
+Grid-Based Movement
+Hex Grid
+Turn-Based Strategy
+Adventure
+~Never Alone (Kisima Ingitchuna)
+Indie
+Platformer
+Local Co-Op
+Atmospheric
+Female Protagonist
+Adventure
+Story Rich
+Puzzle
+Local Multiplayer
+Casual
+Cute
+Puzzle Platformer
+Side Scroller
+Great Soundtrack
+Action
+Singleplayer
+Co-op
+Short
+Nature
+2.5D
+~Neverwinter Nights
+RPG
+Dungeons & Dragons
+Fantasy
+Classic
+CRPG
+Multiplayer
+Singleplayer
+Character Customization
+Real-Time with Pause
+Co-op
+Story Rich
+Adventure
+Cult Classic
+Moddable
+Online Co-Op
+Female Protagonist
+Magic
+Retro
+Isometric
+Atmospheric
+~Ni no Kuni II: Revenant Kingdom
+RPG
+JRPG
+Anime
+Adventure
+Open World
+Singleplayer
+Fantasy
+Story Rich
+Cute
+Great Soundtrack
+Action RPG
+Hack and Slash
+Dungeon Crawler
+Action
+Strategy
+City Builder
+Cartoony
+Multiplayer
+Exploration
+Survival
+~Nidhogg
+Local Multiplayer
+Indie
+Fighting
+Action
+Swordplay
+Multiplayer
+2D Fighter
+Pixel Graphics
+PvP
+2D
+Sports
+Fast-Paced
+Funny
+Competitive
+Controller
+Local Co-Op
+Platformer
+Great Soundtrack
+GameMaker
+Co-op
+~Nidhogg 2
+Local Multiplayer
+Indie
+Action
+Fighting
+Casual
+Multiplayer
+Swordplay
+Pixel Graphics
+Funny
+2D Fighter
+Gore
+PvP
+Comedy
+2D
+Platformer
+Violent
+eSports
+Great Soundtrack
+Psychological Horror
+Horror
+~NiGHTS Into Dreams
+Adventure
+Classic
+Great Soundtrack
+Surreal
+Score Attack
+Retro
+Action
+Colorful
+Singleplayer
+Platformer
+2.5D
+Flight
+Remake
+Masterpiece
+Atmospheric
+Family Friendly
+Fantasy
+Arcade
+Female Protagonist
+~Nine Parchments
+RPG
+Action
+Magic
+Local Co-Op
+Online Co-Op
+Co-op
+Multiplayer
+Fantasy
+4 Player Local
+Twin Stick Shooter
+Colorful
+Isometric
+Great Soundtrack
+~NORTH
+Indie
+Adventure
+Atmospheric
+Cyberpunk
+~Northgard
+City Builder
+RTS
+Strategy
+Colony Sim
+Resource Management
+Multiplayer
+Medieval
+Survival
+Real-Time
+Simulation
+Indie
+Mythology
+War
+Singleplayer
+Management
+Co-op
+4X
+Atmospheric
+Early Access
+Adventure
+~The Norwood Suite
+Adventure
+Indie
+Casual
+Surreal
+Walking Simulator
+Music
+Horror
+First-Person
+~NOT A HERO
+Pixel Graphics
+Action
+Indie
+Comedy
+Adventure
+Shooter
+2D
+Funny
+Political
+Great Soundtrack
+Gore
+Singleplayer
+Difficult
+Platformer
+Fast-Paced
+Shoot 'Em Up
+Violent
+Multiplayer
+Retro
+~The Novelist
+Indie
+Adventure
+Story Rich
+Casual
+Atmospheric
+Exploration
+First-Person
+Stealth
+Choices Matter
+Singleplayer
+Walking Simulator
+Short
+Drama
+~Nuclear Throne
+Action Roguelike
+Roguelike
+Indie
+Difficult
+Pixel Graphics
+Bullet Hell
+Action
+Roguelite
+Top-Down Shooter
+Great Soundtrack
+Post-apocalyptic
+Shooter
+Local Co-Op
+Singleplayer
+Top-Down
+2D
+Perma Death
+Twin Stick Shooter
+RPG
+Local Multiplayer
+~>observer_
+Cyberpunk
+Psychological Horror
+Horror
+Atmospheric
+Sci-fi
+Story Rich
+Walking Simulator
+Adventure
+First-Person
+Dystopian
+Detective
+Singleplayer
+Violent
+Futuristic
+Indie
+Dark
+Gore
+Stealth
+Nudity
+Survival
+~Occupy White Walls
+Early Access
+Simulation
+Free to Play
+Casual
+Indie
+Sandbox
+Building
+Massively Multiplayer
+Relaxing
+Atmospheric
+Great Soundtrack
+Artificial Intelligence
+Online Co-Op
+Crafting
+Experimental
+Character Customization
+MMORPG
+Pixel Graphics
+Multiplayer
+~Octodad: Dadliest Catch
+Comedy
+Physics
+Indie
+Funny
+Family Friendly
+Adventure
+Local Co-Op
+Walking Simulator
+Action
+Singleplayer
+Co-op
+Puzzle
+Short
+Simulation
+Difficult
+Third Person
+Addictive
+Intentionally Awkward Controls
+Great Soundtrack
+Local Multiplayer
+~Oddworld: New 'n' Tasty
+Adventure
+Puzzle Platformer
+Platformer
+Remake
+Puzzle
+Classic
+Singleplayer
+Action
+Indie
+2D
+Cult Classic
+Funny
+Atmospheric
+Stealth
+Comedy
+Side Scroller
+2.5D
+Masterpiece
+Difficult
+Sci-fi
+~Of Orcs And Men
+RPG
+Action
+Fantasy
+Story Rich
+Singleplayer
+Third Person
+Stealth
+Adventure
+Dark Fantasy
+Strategy
+Controller
+Turn-Based
+Great Soundtrack
+~Offworld Trading Company
+Strategy
+Economy
+RTS
+Space
+Multiplayer
+Sci-fi
+Simulation
+Competitive
+Trading
+Indie
+Futuristic
+Singleplayer
+Management
+Resource Management
+Base Building
+Mars
+Co-op
+Building
+Early Access
+Capitalism
+~OlliOlli2: Welcome to Olliwood
+Skateboarding
+Indie
+Sports
+Action
+4 Player Local
+Great Soundtrack
+Local Multiplayer
+Local Co-Op
+Difficult
+Singleplayer
+Skating
+2D
+Platformer
+~Omikron: The Nomad Soul
+RPG
+Sci-fi
+Cyberpunk
+Great Soundtrack
+Futuristic
+Adventure
+Cult Classic
+Classic
+Soundtrack
+Open World
+1990's
+Fighting
+Story Rich
+Action
+FPS
+Shooter
+Singleplayer
+Combat
+First-Person
+Third Person
+~Opus Magnum
+Puzzle
+Indie
+Programming
+Automation
+Simulation
+Logic
+Singleplayer
+Great Soundtrack
+Building
+Steampunk
+Sandbox
+Difficult
+2D
+Early Access
+Casual
+~Orcs Must Die! 2
+Tower Defense
+Co-op
+Action
+Strategy
+Online Co-Op
+Indie
+Third Person
+Fantasy
+Multiplayer
+Funny
+Comedy
+Third-Person Shooter
+Singleplayer
+Cartoony
+RPG
+Shooter
+Adventure
+Great Soundtrack
+Female Protagonist
+Controller
+~Order of Battle: World War II
+Strategy
+Free to Play
+World War II
+Simulation
+Turn-Based
+Wargame
+Turn-Based Strategy
+Multiplayer
+Hex Grid
+War
+Singleplayer
+Historical
+Tactical
+Replay Value
+Turn-Based Tactics
+Turn-Based Combat
+Level Editor
+Asynchronous Multiplayer
+Moddable
+Military
+~Out There: Ω Edition
+Adventure
+Indie
+Space
+Sci-fi
+Strategy
+Roguelike
+RPG
+Resource Management
+Exploration
+Atmospheric
+Singleplayer
+Great Soundtrack
+Roguelite
+Survival
+2D
+Touch-Friendly
+Masterpiece
+Difficult
+~Outland
+Platformer
+Action
+Metroidvania
+Co-op
+2D
+Adventure
+Indie
+Bullet Hell
+Multiplayer
+Singleplayer
+Controller
+Great Soundtrack
+Difficult
+Online Co-Op
+Arcade
+Atmospheric
+~Owlboy
+Pixel Graphics
+Adventure
+Indie
+Great Soundtrack
+Metroidvania
+2D
+Platformer
+Story Rich
+Action
+Atmospheric
+Fantasy
+Puzzle Platformer
+Singleplayer
+Retro
+Flight
+Action-Adventure
+Funny
+Cute
+Open World
+RPG
+~Oxenfree
+Story Rich
+Choices Matter
+Atmospheric
+Supernatural
+Female Protagonist
+Indie
+Adventure
+Mystery
+Horror
+Great Soundtrack
+Singleplayer
+Multiple Endings
+Psychological Horror
+Thriller
+Walking Simulator
+Side Scroller
+2.5D
+2D
+Short
+Lovecraftian
+~PAC-MAN Championship Edition DX+
+Arcade
+Retro
+Classic
+Action
+Score Attack
+Remake
+2D
+Great Soundtrack
+Fast-Paced
+Casual
+Old School
+Addictive
+Singleplayer
+Puzzle
+Strategy
+Colorful
+Controller
+Multiplayer
+Masterpiece
+Touch-Friendly
+~Painkiller: Black Edition
+Gore
+Action
+FPS
+Classic
+Shooter
+Great Soundtrack
+First-Person
+Singleplayer
+Horror
+Arena Shooter
+Atmospheric
+Demons
+Fast-Paced
+Gothic
+Zombies
+Cult Classic
+Multiplayer
+~Pandora: First Contact
+Strategy
+4X
+Turn-Based Strategy
+Sci-fi
+Simulation
+Singleplayer
+Multiplayer
+Hex Grid
+Turn-Based
+Space
+Replay Value
+~Panzer Corps
+Strategy
+World War II
+Turn-Based Strategy
+Wargame
+Turn-Based
+Hex Grid
+Historical
+Tanks
+Singleplayer
+Tactical
+Military
+Replay Value
+Multiplayer
+Grand Strategy
+War
+Turn-Based Tactics
+~Paper Sorcerer
+RPG
+Indie
+Dungeon Crawler
+Turn-Based
+Adventure
+Singleplayer
+Fantasy
+Kickstarter
+First-Person
+Stylized
+Villain Protagonist
+Old School
+Female Protagonist
+~Party Hard
+Pixel Graphics
+Strategy
+Stealth
+Indie
+Action
+Great Soundtrack
+Violent
+Villain Protagonist
+Gore
+Singleplayer
+Dark Humor
+Retro
+2D
+Crime
+Difficult
+Top-Down
+Funny
+Comedy
+Horror
+Story Rich
+~Path of Exile
+Free to Play
+Action RPG
+Hack and Slash
+RPG
+Multiplayer
+Massively Multiplayer
+Loot
+Action
+MMORPG
+Fantasy
+Adventure
+Dungeon Crawler
+Online Co-Op
+Indie
+Dark Fantasy
+Co-op
+Character Customization
+PvE
+Inventory Management
+Fishing
+~Pathfinder: Kingmaker
+RPG
+Fantasy
+Isometric
+CRPG
+Party-Based RPG
+Singleplayer
+Choices Matter
+Character Customization
+Story Rich
+Real-Time with Pause
+Adventure
+Dungeons & Dragons
+Sexual Content
+Strategy
+Medieval
+Gore
+Female Protagonist
+Masterpiece
+Nudity
+Open World
+~Pathologic Classic HD
+Atmospheric
+Story Rich
+Survival
+Horror
+First-Person
+Psychological Horror
+RPG
+Adventure
+Dark
+Cult Classic
+Singleplayer
+Indie
+Great Soundtrack
+Masterpiece
+Classic
+Choices Matter
+Action
+Difficult
+Open World
+Mature
+~Perpetuum
+Massively Multiplayer
+RPG
+Mechs
+Indie
+Sandbox
+Robots
+Sci-fi
+Open World
+MMORPG
+Multiplayer
+PvP
+Action
+~Phantom Doctrine
+Strategy
+Turn-Based Tactics
+Cold War
+Stealth
+RPG
+Tactical
+Turn-Based Strategy
+Turn-Based
+Singleplayer
+Action
+Violent
+Character Customization
+Replay Value
+Multiplayer
+Great Soundtrack
+Isometric
+Atmospheric
+Alternate History
+Management
+Story Rich
+~Pillars of Eternity
+RPG
+Fantasy
+Isometric
+Story Rich
+Singleplayer
+CRPG
+Party-Based RPG
+Real-Time with Pause
+Adventure
+Kickstarter
+Atmospheric
+Dark Fantasy
+Character Customization
+Open World
+Exploration
+Classic
+Strategy
+Great Soundtrack
+Indie
+Crowdfunded
+~Pinstripe
+Indie
+Adventure
+Casual
+Atmospheric
+Dark
+Story Rich
+Puzzle
+Puzzle Platformer
+Platformer
+Singleplayer
+Side Scroller
+Great Soundtrack
+2D
+Action
+Funny
+Horror
+Kickstarter
+~Plague Inc: Evolved
+Strategy
+Simulation
+Outbreak Sim
+Indie
+Singleplayer
+Multiplayer
+Zombies
+Casual
+Masterpiece
+Tactical
+Replay Value
+Post-apocalyptic
+Addictive
+Realistic
+Early Access
+2D
+Atmospheric
+Difficult
+Sandbox
+Co-op
+~Planescape: Torment
+RPG
+Story Rich
+Classic
+Isometric
+Dark Fantasy
+CRPG
+Party-Based RPG
+Adventure
+Fantasy
+Choices Matter
+Atmospheric
+Singleplayer
+Dungeons & Dragons
+Philosophical
+Strategy
+Masterpiece
+Cult Classic
+Great Soundtrack
+Tactical RPG
+Real-Time with Pause
+~Planet Coaster
+Simulation
+Building
+Management
+Sandbox
+Singleplayer
+Strategy
+Great Soundtrack
+Family Friendly
+Realistic
+Funny
+Open World
+Atmospheric
+Economy
+Casual
+Multiplayer
+Colorful
+Base Building
+Adventure
+Action
+First-Person
+~PlanetSide 2
+Free to Play
+Massively Multiplayer
+FPS
+Shooter
+Action
+Open World
+Multiplayer
+Team-Based
+Sci-fi
+Tactical
+War
+First-Person
+PvP
+Futuristic
+Co-op
+Online Co-Op
+Strategy
+Space
+Adventure
+RPG
+~Pony Island
+Puzzle
+Indie
+Psychological Horror
+Pixel Graphics
+Hacking
+Singleplayer
+Demons
+Horror
+Experimental
+Dark
+Great Soundtrack
+Horses
+Story Rich
+Funny
+2D
+Short
+Atmospheric
+Cute
+Memes
+Gore
+~Portal
+Puzzle
+Puzzle Platformer
+3D Platformer
+First-Person
+Singleplayer
+Sci-fi
+Comedy
+Female Protagonist
+Action
+Funny
+Physics
+Story Rich
+Platformer
+Classic
+Science
+FPS
+Masterpiece
+Atmospheric
+Short
+Adventure
+~Portal 2
+Puzzle
+3D Platformer
+Puzzle Platformer
+Co-op
+First-Person
+Sci-fi
+Comedy
+Singleplayer
+Online Co-Op
+Adventure
+Funny
+Science
+Female Protagonist
+Action
+Story Rich
+Multiplayer
+Masterpiece
+Atmospheric
+Local Co-Op
+FPS
+~POSTAL
+Action
+Dark Humor
+Classic
+Violent
+Gore
+Indie
+Shooter
+Singleplayer
+Isometric
+Villain Protagonist
+Dark
+Horror
+Difficult
+Top-Down Shooter
+1990's
+Mature
+Atmospheric
+Psychological Horror
+Top-Down
+Comedy
+~POSTAL 2
+Dark Humor
+Violent
+Gore
+FPS
+Action
+Open World
+Classic
+Singleplayer
+Sandbox
+Mature
+Comedy
+Funny
+Adventure
+First-Person
+Shooter
+Multiplayer
+Satire
+Indie
+Moddable
+Masterpiece
+~Prey
+Sci-fi
+Space
+Atmospheric
+Singleplayer
+Horror
+FPS
+Action
+First-Person
+Story Rich
+Exploration
+Aliens
+Futuristic
+Immersive Sim
+Survival Horror
+Open World
+Stealth
+Adventure
+Psychological Horror
+RPG
+Great Soundtrack
+~Prince of Persia
+Action
+Adventure
+Platformer
+Parkour
+Third Person
+Singleplayer
+Fantasy
+Exploration
+Story Rich
+Atmospheric
+Open World
+Great Soundtrack
+Relaxing
+Hack and Slash
+Beautiful
+Masterpiece
+Action-Adventure
+3D Platformer
+~Prince of Persia: The Sands of Time
+Action
+Adventure
+Parkour
+Platformer
+Classic
+Third Person
+Singleplayer
+Puzzle Platformer
+Time Manipulation
+Story Rich
+Masterpiece
+Time Travel
+Great Soundtrack
+Fantasy
+Atmospheric
+Hack and Slash
+3D Platformer
+Controller
+~Prince of Persia: Warrior Within
+Action
+Adventure
+Parkour
+Third Person
+Great Soundtrack
+Singleplayer
+Platformer
+Atmospheric
+Masterpiece
+Time Travel
+Classic
+Hack and Slash
+Time Manipulation
+Gore
+Fantasy
+Story Rich
+Dark
+Open World
+Controller
+Dark Fantasy
+~Prince of Persia: The Two Thrones
+Action
+Adventure
+Platformer
+Parkour
+Third Person
+Singleplayer
+Masterpiece
+Hack and Slash
+Fantasy
+Time Travel
+Time Manipulation
+Story Rich
+Stealth
+Classic
+Atmospheric
+Great Soundtrack
+~Prison Architect
+Simulation
+Colony Sim
+Building
+Management
+Strategy
+Sandbox
+Singleplayer
+Indie
+2D
+Resource Management
+Base Building
+Economy
+Top-Down
+Moddable
+City Builder
+Replay Value
+Early Access
+Casual
+Multiplayer
+Funny
+~Prototype
+Action
+Open World
+Adventure
+Gore
+Third Person
+Singleplayer
+Parkour
+Superhero
+Violent
+Zombies
+Hack and Slash
+Action-Adventure
+Sci-fi
+Sandbox
+Story Rich
+Stealth
+RPG
+Atmospheric
+Controller
+Horror
+~Psychonauts
+Platformer
+Comedy
+Adventure
+Cult Classic
+Singleplayer
+Action
+Funny
+Third Person
+3D Platformer
+Classic
+Story Rich
+Masterpiece
+Psychological
+Great Soundtrack
+Surreal
+Exploration
+Cartoony
+Collectathon
+Action-Adventure
+3D
+~Punch Club
+2D Fighter
+Boxing
+Management
+Pixel Graphics
+Indie
+Fighting
+Strategy
+RPG
+Retro
+Singleplayer
+Simulation
+2D
+Sports
+Great Soundtrack
+Action
+Casual
+Atmospheric
+Story Rich
+Arcade
+Funny
+~Pyre
+Indie
+RPG
+Great Soundtrack
+Story Rich
+Action
+Visual Novel
+Sports
+Atmospheric
+Hand-drawn
+Fantasy
+Singleplayer
+Choices Matter
+Party-Based RPG
+Colorful
+Adventure
+Local Multiplayer
+Lore-Rich
+Multiple Endings
+Stylized
+Interactive Fiction
+~Quadrilateral Cowboy
+Indie
+Adventure
+Hacking
+Cyberpunk
+Puzzle
+Action
+Programming
+Female Protagonist
+First-Person
+Heist
+Singleplayer
+Atmospheric
+Sci-fi
+Typing
+Story Rich
+Simulation
+~QUAKE
+FPS
+Classic
+Action
+Shooter
+Multiplayer
+Singleplayer
+1990's
+Lovecraftian
+Gore
+Old School
+First-Person
+Masterpiece
+Horror
+Great Soundtrack
+Retro
+Moddable
+Sci-fi
+Fast-Paced
+Atmospheric
+Competitive
+~Quake Champions
+Arena Shooter
+Hero Shooter
+Early Access
+FPS
+Multiplayer
+Free to Play
+Gore
+Fast-Paced
+Shooter
+Action
+First-Person
+Violent
+Competitive
+eSports
+Difficult
+Classic
+Sci-fi
+Horror
+Lovecraftian
+Singleplayer
+~Quest for Glory 1-5
+Adventure
+1990's
+Classic
+Point & Click
+Cult Classic
+Retro
+2D
+Masterpiece
+Great Soundtrack
+Fantasy
+~Qvadriga
+Racing
+Simulation
+Sports
+Strategy
+Rome
+Historical
+Turn-Based
+Singleplayer
+Tactical
+Replay Value
+Turn-Based Strategy
+Management
+Turn-Based Tactics
+Strategy RPG
+~Race The Sun
+Racing
+Indie
+Singleplayer
+Fast-Paced
+Action
+Minimalist
+Arcade
+Difficult
+Casual
+Sci-fi
+Controller
+Great Soundtrack
+VR
+Kickstarter
+Flight
+Perma Death
+Atmospheric
+Runner
+Addictive
+Level Editor
+~RAGE
+FPS
+Post-apocalyptic
+Action
+Open World
+Shooter
+Singleplayer
+First-Person
+Racing
+Co-op
+Sci-fi
+Multiplayer
+Atmospheric
+Gore
+Adventure
+RPG
+Horror
+Crafting
+Survival
+Online Co-Op
+Linear
+~Recettear: An Item Shop's Tale
+Capitalism
+Anime
+RPG
+Dungeon Crawler
+JRPG
+Indie
+Singleplayer
+Cute
+Simulation
+Female Protagonist
+Comedy
+Action RPG
+Management
+Strategy
+Fantasy
+Action
+Adventure
+2D
+Hack and Slash
+Visual Novel
+~Red Faction Guerrilla Re-Mars-tered
+Destruction
+Open World
+Mars
+Sci-fi
+Third-Person Shooter
+Physics
+Action
+Gore
+Singleplayer
+Sandbox
+Multiplayer
+Third Person
+Shooter
+Great Soundtrack
+~Redout
+Racing
+Automobile Sim
+Futuristic
+Fast-Paced
+Great Soundtrack
+Indie
+Sci-fi
+Multiplayer
+VR
+Colorful
+Singleplayer
+Arcade
+Driving
+Difficult
+Simulation
+Atmospheric
+Space
+Action
+Split Screen
+Masterpiece
+~Reigns
+Choices Matter
+Medieval
+Card Game
+Indie
+Life Sim
+Choose Your Own Adventure
+Singleplayer
+RPG
+Adventure
+Simulation
+Strategy
+Casual
+Comedy
+Dark Humor
+Fantasy
+Story Rich
+Funny
+2D
+Great Soundtrack
+Difficult
+~Reigns: Her Majesty
+Indie
+Life Sim
+Female Protagonist
+Casual
+Choices Matter
+Simulation
+Card Game
+Strategy
+Medieval
+Choose Your Own Adventure
+Dark Humor
+Funny
+Dark Comedy
+Adventure
+Comedy
+Singleplayer
+~Renowned Explorers: International Society
+Strategy
+Adventure
+RPG
+Turn-Based
+Indie
+Turn-Based Strategy
+Roguelike
+Singleplayer
+Tactical RPG
+Exploration
+Economy
+Replay Value
+2D
+Diplomacy
+Roguelite
+Funny
+Turn-Based Combat
+Comedy
+Turn-Based Tactics
+Casual
+~Republique
+Stealth
+Adventure
+Cyberpunk
+Female Protagonist
+Indie
+Action
+Point & Click
+Dystopian
+Atmospheric
+Episodic
+Sci-fi
+Story Rich
+Kickstarter
+Puzzle
+Singleplayer
+~Resident Evil / biohazard HD REMASTER
+Survival Horror
+Zombies
+Horror
+Classic
+Remake
+Atmospheric
+Singleplayer
+Puzzle
+Survival
+Action
+Adventure
+Third Person
+Cult Classic
+Female Protagonist
+Masterpiece
+Story Rich
+Difficult
+Gore
+Shooter
+Great Soundtrack
+~resident evil 4 / biohazard 4
+Inventory Management
+Survival Horror
+Action
+Zombies
+Masterpiece
+Horror
+Third-Person Shooter
+Singleplayer
+Adventure
+Third Person
+Classic
+Quick-Time Events
+Atmospheric
+Survival
+Shooter
+Remake
+Gore
+Replay Value
+Great Soundtrack
+Difficult
+~Reverse Crawl
+RPG
+Strategy
+Indie
+Turn-Based
+Turn-Based Tactics
+Villain Protagonist
+~REVOLVER360 RE:ACTOR
+Shoot 'Em Up
+Action
+Indie
+Bullet Hell
+Shooter
+Arcade
+Side Scroller
+2.5D
+Difficult
+Singleplayer
+Great Soundtrack
+Sci-fi
+Futuristic
+Score Attack
+Robots
+Mechs
+Atmospheric
+Controller
+Destruction
+2D
+~Rise of Flight United
+Simulation
+Flight
+World War I
+Free to Play
+Multiplayer
+Historical
+Singleplayer
+Action
+Realistic
+War
+World War II
+Shooter
+Co-op
+~Rise of the Tomb Raider
+Adventure
+Action
+Lara Croft
+Female Protagonist
+Singleplayer
+Third Person
+Exploration
+Action-Adventure
+Open World
+Story Rich
+Survival
+Puzzle
+Stealth
+Atmospheric
+Third-Person Shooter
+Parkour
+Shooter
+RPG
+Great Soundtrack
+Quick-Time Events
+~Rising Storm 2: Vietnam
+FPS
+War
+Realistic
+Multiplayer
+Military
+Shooter
+Action
+Tactical
+First-Person
+Historical
+Team-Based
+Simulation
+Gore
+Atmospheric
+Cold War
+Massively Multiplayer
+Violent
+Strategy
+Singleplayer
+Indie
+~Risk of Rain
+Action Roguelike
+Roguelike
+Indie
+Platformer
+Action
+Pixel Graphics
+Great Soundtrack
+Online Co-Op
+Difficult
+Perma Death
+Co-op
+2D
+Local Co-Op
+Roguelite
+Multiplayer
+RPG
+Singleplayer
+Addictive
+Replay Value
+Survival
+~Rivals of Aether
+Fighting
+2D Fighter
+Indie
+Multiplayer
+Pixel Graphics
+Local Multiplayer
+Competitive
+Great Soundtrack
+2D
+Platformer
+4 Player Local
+Action
+Arcade
+Singleplayer
+Controller
+Beat 'em up
+Early Access
+Retro
+Games Workshop
+GameMaker
+~Rivals of Aether
+Fighting
+2D Fighter
+Indie
+Multiplayer
+Pixel Graphics
+Local Multiplayer
+Competitive
+Great Soundtrack
+2D
+Platformer
+4 Player Local
+Action
+Arcade
+Singleplayer
+Controller
+Beat 'em up
+Early Access
+Retro
+Games Workshop
+GameMaker
+~Road Redemption
+Racing
+Action
+Motorbike
+Multiplayer
+Indie
+Arcade
+Violent
+Simulation
+Local Co-Op
+Adventure
+Singleplayer
+Gore
+4 Player Local
+Local Multiplayer
+Funny
+Third Person
+Roguelike
+Shooter
+Masterpiece
+Sports
+~Robot Roller-Derby Disco Dodgeball
+Multiplayer
+Indie
+Fast-Paced
+FPS
+Great Soundtrack
+Action
+Robots
+Sports
+Competitive
+First-Person
+Arena Shooter
+Co-op
+Music
+Team-Based
+Online Co-Op
+Casual
+Family Friendly
+4 Player Local
+Local Multiplayer
+Racing
+~Rock of Ages
+Comedy
+Indie
+Strategy
+Action
+Tower Defense
+Racing
+Historical
+Multiplayer
+Funny
+Local Multiplayer
+Bowling
+Singleplayer
+Destruction
+Casual
+Split Screen
+Physics
+~Rock of Ages 2: Bigger & Boulder
+Strategy
+Action
+Comedy
+Indie
+Racing
+Tower Defense
+Multiplayer
+Funny
+Historical
+Singleplayer
+Co-op
+Split Screen
+Memes
+Local Multiplayer
+Local Co-Op
+~Rogue Legacy
+Roguevania
+Platformer
+Roguelike
+Action Roguelike
+Indie
+Action
+Singleplayer
+2D
+Roguelite
+RPG
+Metroidvania
+Pixel Graphics
+Side Scroller
+Fantasy
+Controller
+Addictive
+Adventure
+Medieval
+Exploration
+Difficult
+~The Room
+Puzzle
+Mystery
+Point & Click
+Atmospheric
+Adventure
+Singleplayer
+Indie
+Hidden Object
+Short
+Horror
+Casual
+First-Person
+Beautiful
+Masterpiece
+Steampunk
+Dark
+Lovecraftian
+Touch-Friendly
+Story Rich
+Psychological Horror
+~Rusty Lake Hotel
+Puzzle
+Point & Click
+Indie
+Adventure
+Horror
+Surreal
+Psychological Horror
+Mystery
+Singleplayer
+Hand-drawn
+Atmospheric
+2D
+~Rusty Lake Paradise
+Puzzle
+Indie
+Point & Click
+Adventure
+Psychological Horror
+Horror
+Atmospheric
+Singleplayer
+Mystery
+2D
+Story Rich
+~RymdResa
+Adventure
+Indie
+Exploration
+RPG
+Sci-fi
+Space
+Roguelike
+Pixel Graphics
+2D
+Top-Down
+Roguelite
+Great Soundtrack
+Relaxing
+~S.T.A.L.K.E.R.: Clear Sky
+Open World
+Atmospheric
+Post-apocalyptic
+Survival
+FPS
+Action
+RPG
+First-Person
+Shooter
+Singleplayer
+Masterpiece
+Survival Horror
+Adventure
+Horror
+Multiplayer
+Sci-fi
+Classic
+Moddable
+Zombies
+Inventory Management
+~Satellite Reign
+Cyberpunk
+Strategy
+Action
+Indie
+Sci-fi
+Tactical
+Real-Time
+Open World
+Stealth
+Co-op
+Top-Down
+Isometric
+Singleplayer
+Class-Based
+Kickstarter
+RPG
+RTS
+Multiplayer
+Atmospheric
+Great Soundtrack
+~SC2VN - The eSports Visual Novel
+Visual Novel
+Anime
+Free to Play
+Indie
+Casual
+Simulation
+RPG
+Adventure
+eSports
+Nudity
+Memes
+Female Protagonist
+~SCALPERS: Turtle & the Moonshine Gang
+Action
+Adventure
+Indie
+Co-op
+Shoot 'Em Up
+Online Co-Op
+~Screencheat
+Action
+Indie
+Split Screen
+FPS
+Multiplayer
+Local Multiplayer
+4 Player Local
+Controller
+Funny
+Local Co-Op
+First-Person
+Comedy
+Great Soundtrack
+Arena Shooter
+Shooter
+Stylized
+~Scribblenauts Unlimited
+Puzzle
+Casual
+Adventure
+Family Friendly
+Sandbox
+Singleplayer
+2D
+Funny
+Comedy
+Open World
+Cute
+Strategy
+Education
+Fantasy
+Moddable
+Platformer
+Multiplayer
+Replay Value
+Action
+Indie
+~The Secret of Monkey Island: Special Edition
+Point & Click
+Adventure
+Comedy
+Classic
+Remake
+Masterpiece
+Pirates
+Funny
+Singleplayer
+Puzzle
+2D
+1990's
+Great Soundtrack
+Story Rich
+Retro
+Cult Classic
+Pixel Graphics
+~Secret World Legends
+Massively Multiplayer
+MMORPG
+RPG
+Lovecraftian
+Horror
+Story Rich
+Illuminati
+Action
+Conspiracy
+Open World
+Free to Play
+Adventure
+Mythology
+Supernatural
+Exploration
+Puzzle
+Multiplayer
+Zombies
+Character Customization
+Third Person
+~SEGA Mega Drive and Genesis Classics
+Classic
+Action
+Adventure
+RPG
+Casual
+Retro
+1990's
+2D
+Platformer
+Arcade
+Pixel Graphics
+Old School
+Great Soundtrack
+Singleplayer
+Beat 'em up
+Multiplayer
+Co-op
+Moddable
+Local Multiplayer
+VR
+~Selfie : Sisters of the Amniotic Lens
+Indie
+Simulation
+Casual
+Massively Multiplayer
+Adventure
+~Serious Sam 3: BFE
+FPS
+Action
+Gore
+Co-op
+Comedy
+Online Co-Op
+Aliens
+First-Person
+Shooter
+Multiplayer
+Old School
+Indie
+Local Co-Op
+Split Screen
+Funny
+Difficult
+Singleplayer
+Sci-fi
+Adventure
+Local Multiplayer
+~The Sexy Brutale
+Puzzle
+Adventure
+Indie
+Mystery
+Time Manipulation
+Time Travel
+Great Soundtrack
+Detective
+Story Rich
+Singleplayer
+Sexual Content
+Stealth
+Atmospheric
+Nudity
+~Shadow Tactics: Blades of the Shogun
+Stealth
+Tactical
+Strategy
+Ninja
+Real Time Tactics
+Indie
+Singleplayer
+Isometric
+Action
+Historical
+RTS
+Assassin
+Difficult
+Violent
+Atmospheric
+Third Person
+Survival
+Adventure
+Great Soundtrack
+Puzzle
+~Shadowrun Returns
+RPG
+Cyberpunk
+Turn-Based
+Isometric
+Sci-fi
+Indie
+Strategy
+Singleplayer
+Tactical
+Adventure
+Kickstarter
+Moddable
+CRPG
+Story Rich
+Crowdfunded
+Fantasy
+Turn-Based Strategy
+Atmospheric
+Dystopian
+Female Protagonist
+~Shantae: Half-Genie Hero
+Female Protagonist
+Platformer
+Great Soundtrack
+Cute
+Action
+Adventure
+Metroidvania
+Indie
+2D
+Singleplayer
+Kickstarter
+Funny
+Anime
+Side Scroller
+2.5D
+Fantasy
+Comedy
+Hand-drawn
+Crowdfunded
+Memes
+~Shenmue I & II
+Adventure
+Story Rich
+Open World
+Martial Arts
+Action
+Classic
+RPG
+Atmospheric
+Fighting
+Great Soundtrack
+Quick-Time Events
+Cult Classic
+Singleplayer
+Retro
+Masterpiece
+JRPG
+Epic
+Simulation
+Beat 'em up
+Anime
+~SHENZHEN I/O
+Programming
+Automation
+Puzzle
+Logic
+Simulation
+Indie
+Difficult
+Singleplayer
+Education
+Sandbox
+Building
+Great Soundtrack
+~SHOGUN: Total War
+Strategy
+Action
+Historical
+Classic
+Singleplayer
+Grand Strategy
+Turn-Based Strategy
+War
+RTS
+~Shower With Your Dad Simulator 2015: Do You Still Shower With Your Dad
+Nudity
+Pixel Graphics
+Story Rich
+Indie
+Memes
+Simulation
+Funny
+Comedy
+Action
+Mature
+Singleplayer
+Realistic
+Casual
+2D
+Masterpiece
+Sexual Content
+Arcade
+Cult Classic
+Education
+Puzzle
+~Sid Meier's Civilization IV (With cool mods)
+Strategy
+Turn-Based Strategy
+Turn-Based
+4X
+Historical
+Multiplayer
+Singleplayer
+Moddable
+Classic
+Grand Strategy
+Addictive
+Masterpiece
+Replay Value
+Simulation
+Resource Management
+Great Soundtrack
+Economy
+War
+Tactical
+Management
+~Sid Meier's Civilization V
+Turn-Based Strategy
+Strategy
+Turn-Based
+Multiplayer
+Historical
+4X
+Addictive
+Singleplayer
+Hex Grid
+Grand Strategy
+Replay Value
+Co-op
+Tactical
+Economy
+Diplomacy
+Moddable
+Masterpiece
+Simulation
+Classic
+Great Soundtrack
+~Sid Meier’s Civilization VI
+Strategy
+Turn-Based Strategy
+Historical
+Multiplayer
+Singleplayer
+Turn-Based
+Grand Strategy
+4X
+War
+Simulation
+Tactical
+City Builder
+Great Soundtrack
+Moddable
+Online Co-Op
+Co-op
+Building
+Management
+Hex Grid
+Atmospheric
+~Sid Meier's Civilization: Beyond Earth
+Strategy
+Turn-Based Strategy
+Sci-fi
+Space
+4X
+Turn-Based
+Multiplayer
+Singleplayer
+Futuristic
+Aliens
+Tactical
+Hex Grid
+Grand Strategy
+Replay Value
+Exploration
+Masterpiece
+Atmospheric
+Adventure
+Moddable
+Simulation
+~The Signal From Tölva
+Open World
+Robots
+FPS
+Action
+Sci-fi
+Indie
+Singleplayer
+Exploration
+Atmospheric
+First-Person
+Shooter
+Story Rich
+Stealth
+Futuristic
+Space
+Science
+Sniper
+Replay Value
+Lore-Rich
+Adventure
+~Sins of a Solar Empire: Rebellion
+Strategy
+Space
+RTS
+Sci-fi
+4X
+Multiplayer
+Moddable
+War
+Singleplayer
+Aliens
+Exploration
+Diplomacy
+Real-Time
+Action
+Co-op
+Simulation
+Grand Strategy
+Indie
+Great Soundtrack
+Adventure
+~Skullgirls
+Fighting
+2D Fighter
+Indie
+Anime
+Multiplayer
+Great Soundtrack
+2D
+Action
+Female Protagonist
+Competitive
+Local Multiplayer
+Crowdfunded
+Hand-drawn
+Cute
+Cartoon
+Arcade
+Controller
+Singleplayer
+Nudity
+Beat 'em up
+~Skulls of the Shogun
+Strategy
+Indie
+Turn-Based Strategy
+Turn-Based
+Comedy
+Singleplayer
+Tactical
+Multiplayer
+Turn-Based Tactics
+Turn-Based Combat
+Cartoony
+Local Multiplayer
+Funny
+Asynchronous Multiplayer
+2D
+~Slay the Spire
+Card Battler
+Card Game
+Deckbuilding
+Roguelike
+Turn-Based
+Strategy
+Singleplayer
+Roguelite
+Replay Value
+Indie
+Difficult
+Dungeon Crawler
+RPG
+Mouse only
+Great Soundtrack
+2D
+Fantasy
+Procedural Generation
+Early Access
+Casual
+~Sleeping Dogs
+Open World
+Action
+Martial Arts
+Crime
+Singleplayer
+Third Person
+Story Rich
+Adventure
+Parkour
+Racing
+Multiplayer
+Gore
+Atmospheric
+Mature
+Shooter
+Sandbox
+Third-Person Shooter
+Great Soundtrack
+Remake
+Co-op
+~Snake Pass
+3D Platformer
+Indie
+Adventure
+Puzzle Platformer
+Casual
+Cute
+Platformer
+Great Soundtrack
+Difficult
+Physics
+Family Friendly
+Singleplayer
+Puzzle
+Colorful
+Exploration
+Simulation
+Action
+Collectathon
+Atmospheric
+Funny
+~Sniper Elite 3
+Sniper
+Action
+Stealth
+World War II
+Multiplayer
+Co-op
+Shooter
+Adventure
+Third-Person Shooter
+Tactical
+War
+Third Person
+Singleplayer
+Online Co-Op
+Open World
+Gore
+Strategy
+FPS
+Atmospheric
+Simulation
+~Sniper Elite 4
+Sniper
+Action
+Multiplayer
+Shooter
+War
+World War II
+Stealth
+Co-op
+Third Person
+Open World
+Singleplayer
+Violent
+Third-Person Shooter
+Adventure
+FPS
+Gore
+Tactical
+First-Person
+Strategy
+Mature
+~Sonic & All-Stars Racing Transformed Collection
+Racing
+Local Multiplayer
+Multiplayer
+Great Soundtrack
+Sports
+Local Co-Op
+Split Screen
+Replay Value
+Arcade
+Online Co-Op
+4 Player Local
+Family Friendly
+Controller
+Singleplayer
+Action
+Colorful
+Fast-Paced
+Masterpiece
+Co-op
+Adventure
+~Sonic Generations
+Platformer
+Great Soundtrack
+Action
+Fast-Paced
+3D Platformer
+Singleplayer
+2D
+Moddable
+Adventure
+Family Friendly
+Classic
+Colorful
+Retro
+Time Travel
+Controller
+Third Person
+3D
+3D Vision
+Replay Value
+Funny
+~Sonic Mania
+Great Soundtrack
+2D
+Platformer
+Retro
+Classic
+Pixel Graphics
+Fast-Paced
+Adventure
+Colorful
+Action
+Side Scroller
+Singleplayer
+Family Friendly
+Casual
+Local Co-Op
+Multiplayer
+Arcade
+Action-Adventure
+Cartoony
+Remake
+~Sorcery! Parts 1 and 2
+Adventure
+RPG
+Choose Your Own Adventure
+Indie
+Interactive Fiction
+Story Rich
+Fantasy
+Choices Matter
+Magic
+~SOULCALIBUR VI
+Action
+Fighting
+Character Customization
+Multiplayer
+Fantasy
+Swordplay
+Arcade
+Local Multiplayer
+Nudity
+Competitive
+Singleplayer
+Great Soundtrack
+Anime
+3D Fighter
+Female Protagonist
+Story Rich
+Beat 'em up
+Sexual Content
+Medieval
+RPG
+~Space Food Truck
+Strategy
+Card Game
+Indie
+Co-op
+Sci-fi
+Space
+Multiplayer
+2D
+Board Game
+Local Co-Op
+Turn-Based
+Difficult
+Singleplayer
+4 Player Local
+Funny
+Turn-Based Strategy
+Comedy
+Asynchronous Multiplayer
+Local Multiplayer
+Survival
+~SpaceChem
+Puzzle
+Difficult
+Programming
+Indie
+Logic
+Singleplayer
+Automation
+Sci-fi
+Great Soundtrack
+Science
+2D
+Space
+Illuminati
+Casual
+Simulation
+Addictive
+Education
+Strategy
+Touch-Friendly
+Building
+~Spec Ops: The Line
+Story Rich
+Third-Person Shooter
+Action
+Atmospheric
+Psychological
+Singleplayer
+Third Person
+War
+Shooter
+Dark
+Multiplayer
+Emotional
+Adventure
+Military
+Political
+Mature
+Masterpiece
+Great Soundtrack
+Based On A Novel
+Post-apocalyptic
+~Spyro Reignited Trilogy
+Adventure
+Action
+3D Platformer
+Remake
+Dragons
+Classic
+Family Friendly
+Colorful
+Singleplayer
+Cute
+Platformer
+Fantasy
+Casual
+Great Soundtrack
+Cult Classic
+Masterpiece
+Cartoony
+Atmospheric
+Third Person
+Funny
+~Squidlit
+Indie
+Action
+Adventure
+Retro
+Pixel Graphics
+Platformer
+2D
+Singleplayer
+Cute
+Funny
+Comedy
+Minimalist
+1990's
+Great Soundtrack
+Female Protagonist
+Third Person
+Masterpiece
+Classic
+RPG
+~Squirm
+Indie
+Adventure
+Precision Platformer
+2D
+Pixel Graphics
+Difficult
+Platformer
+~The Stanley Parable
+Comedy
+Narration
+Indie
+Walking Simulator
+First-Person
+Funny
+Satire
+Psychological
+Dynamic Narration
+Adventure
+Exploration
+Singleplayer
+Multiple Endings
+Choices Matter
+Short
+Story Rich
+Atmospheric
+Surreal
+Puzzle
+Casual
+~Star Conflict
+Free to Play
+Space
+Action
+Multiplayer
+Massively Multiplayer
+Sci-fi
+Simulation
+Open World
+Space Sim
+Flight
+Co-op
+Shooter
+PvP
+Third Person
+Competitive
+Adventure
+Atmospheric
+Sandbox
+MMORPG
+VR
+~Star Control I and II
+Strategy
+Action
+Adventure
+Indie
+Simulation
+Multiplayer
+Classic
+~Star Control: Origins
+Adventure
+RPG
+Action
+Indie
+Space
+Exploration
+Sci-fi
+Simulation
+Multiplayer
+Singleplayer
+Open World
+Strategy
+Aliens
+Moddable
+Action-Adventure
+Futuristic
+Atmospheric
+Sandbox
+Competitive
+Casual
+~Star Trek: Bridge Crew
+Simulation
+VR
+RPG
+Sci-fi
+Space
+Casual
+Multiplayer
+Co-op
+Action
+Adventure
+~STAR WARS Jedi Knight II - Jedi Outcast
+Star Wars
+Action
+Classic
+Sci-fi
+Multiplayer
+FPS
+Third Person
+Shooter
+Singleplayer
+Masterpiece
+Story Rich
+Adventure
+Third-Person Shooter
+Cult Classic
+First-Person
+Great Soundtrack
+Swordplay
+Space
+Moddable
+Atmospheric
+~STAR WARS Knights of the Old Republic II - The Sith Lords
+RPG
+Star Wars
+Story Rich
+Sci-fi
+Singleplayer
+Classic
+Real-Time with Pause
+Adventure
+Party-Based RPG
+Choices Matter
+Masterpiece
+Moddable
+Character Customization
+Multiple Endings
+Third Person
+Space
+Atmospheric
+Female Protagonist
+Turn-Based Combat
+Action
+~Star Wars: Battlefront 2 (Classic, 2005)
+Star Wars
+Action
+Multiplayer
+Shooter
+Third-Person Shooter
+Classic
+Sci-fi
+Space
+FPS
+First-Person
+Singleplayer
+Moddable
+Third Person
+Military
+Masterpiece
+Co-op
+Tactical
+Strategy
+Great Soundtrack
+Adventure
+~STAR WARS - Knights of the Old Republic
+RPG
+Star Wars
+Sci-fi
+Story Rich
+Singleplayer
+Classic
+Masterpiece
+Adventure
+Party-Based RPG
+Real-Time with Pause
+Third Person
+Choices Matter
+Action
+Exploration
+Space
+Fantasy
+Atmospheric
+Turn-Based
+Great Soundtrack
+Moddable
+~STAR WARS - The Force Unleashed Ultimate Sith Edition
+Star Wars
+Action
+Third Person
+Singleplayer
+Hack and Slash
+Sci-fi
+Adventure
+Story Rich
+Controller
+Great Soundtrack
+Quick-Time Events
+Beat 'em up
+Platformer
+RPG
+Masterpiece
+Space
+Difficult
+~Stardew Valley
+Farming Sim
+Life Sim
+RPG
+Pixel Graphics
+Agriculture
+Simulation
+Relaxing
+Multiplayer
+Crafting
+Sandbox
+Indie
+Building
+Singleplayer
+Casual
+Great Soundtrack
+Open World
+2D
+Cute
+Fishing
+Dating Sim
+~the static speaks my name
+Free to Play
+Psychological Horror
+Indie
+Horror
+Dark
+Short
+Walking Simulator
+Adventure
+First-Person
+RPG
+Singleplayer
+Surreal
+Atmospheric
+Memes
+Dark Humor
+Story Rich
+Exploration
+Casual
+~Steel Division: Normandy 44
+World War II
+Strategy
+RTS
+Military
+Simulation
+Action
+Multiplayer
+Tactical
+War
+Wargame
+Singleplayer
+Real Time Tactics
+Historical
+Open World
+Co-op
+Real-Time
+Realistic
+Tanks
+Real-Time with Pause
+Replay Value
+~STEINS;GATE
+Visual Novel
+Story Rich
+Anime
+Time Travel
+Sci-fi
+Great Soundtrack
+Multiple Endings
+Choices Matter
+Science
+Adventure
+Singleplayer
+Atmospheric
+Mystery
+Romance
+Thriller
+Psychological Horror
+Memes
+Dating Sim
+Masterpiece
+Casual
+~Stellaris
+Space
+Strategy
+Grand Strategy
+Sci-fi
+4X
+Real-Time with Pause
+Exploration
+Multiplayer
+RTS
+Singleplayer
+Simulation
+Replay Value
+Great Soundtrack
+Moddable
+Sandbox
+Atmospheric
+Open World
+Story Rich
+Building
+Adventure
+~Stick it to The Man!
+Adventure
+Indie
+Platformer
+Comedy
+Action
+Puzzle
+Funny
+2D
+Singleplayer
+~Stories Untold
+Adventure
+Indie
+Atmospheric
+Horror
+Text-Based
+Psychological Horror
+Singleplayer
+Point & Click
+Thriller
+1980s
+Sci-fi
+Retro
+Great Soundtrack
+Story Rich
+Puzzle
+Walking Simulator
+~STRAFE: Millennium Edition
+Roguelite
+Action
+Shooter
+First-Person
+Action Roguelike
+FPS
+Violent
+Retro
+Roguelike
+Gore
+Indie
+Fast-Paced
+Difficult
+Soundtrack
+Pixel Graphics
+Procedural Generation
+Singleplayer
+Great Soundtrack
+1990's
+Blood
+~Street Fighter 30th Anniversary Collection
+Action
+Fighting
+2D Fighter
+Classic
+Multiplayer
+Arcade
+2D
+Retro
+Anime
+~Street Fighter V
+Fighting
+Action
+Multiplayer
+2D Fighter
+Competitive
+Arcade
+Local Multiplayer
+eSports
+Anime
+2.5D
+Controller
+Great Soundtrack
+Singleplayer
+Classic
+2D
+Early Access
+Female Protagonist
+Nudity
+Funny
+Memes
+~STRIDER
+Platformer
+Metroidvania
+Action
+Ninja
+Side Scroller
+Hack and Slash
+Arcade
+Adventure
+2.5D
+Retro
+Classic
+Remake
+Singleplayer
+Fast-Paced
+Sci-fi
+Controller
+Anime
+2D
+Cyberpunk
+Beat 'em up
+~Stronghold Crusader
+Strategy
+Medieval
+Colony Sim
+RTS
+Multiplayer
+Classic
+City Builder
+Tactical
+Historical
+Simulation
+Economy
+Singleplayer
+Building
+Masterpiece
+Sandbox
+Adventure
+Co-op
+Action
+Great Soundtrack
+2D
+~Stronghold Crusader 2
+Strategy
+Medieval
+City Builder
+RTS
+Multiplayer
+Simulation
+Historical
+Classic
+Co-op
+Singleplayer
+Building
+Resource Management
+Atmospheric
+Masterpiece
+Sandbox
+Action
+Tactical
+Open World
+Adventure
+Survival
+~Subsurface Circular
+Indie
+Adventure
+Casual
+Text-Based
+Visual Novel
+Detective
+Robots
+Story Rich
+Sci-fi
+Singleplayer
+Cyberpunk
+Short
+Great Soundtrack
+Atmospheric
+Mystery
+~Super Amazing Wagon Adventure
+Indie
+Action
+Action Roguelike
+Adventure
+Comedy
+Pixel Graphics
+Retro
+Perma Death
+2D
+Singleplayer
+Funny
+Roguelike
+Difficult
+Shoot 'Em Up
+Shooter
+Masterpiece
+Side Scroller
+Western
+Great Soundtrack
+Replay Value
+~Super Crate Box
+Free to Play
+Indie
+Platformer
+Action
+Pixel Graphics
+2D
+Shooter
+Arcade
+Multiplayer
+Singleplayer
+Difficult
+Retro
+Addictive
+GameMaker
+Controller
+Fast-Paced
+Co-op
+Great Soundtrack
+Family Friendly
+Roguelike
+~Super Hexagon
+Difficult
+Great Soundtrack
+Indie
+Fast-Paced
+Arcade
+Addictive
+Rhythm
+Singleplayer
+Score Attack
+Action
+Minimalist
+Music
+2D
+Psychedelic
+Colorful
+Casual
+Replay Value
+Masterpiece
+Controller
+Puzzle
+~Super Meat Boy
+Precision Platformer
+Platformer
+Difficult
+Indie
+2D Platformer
+Pixel Graphics
+2D
+Singleplayer
+Great Soundtrack
+Fast-Paced
+Retro
+Controller
+Unforgiving
+Gore
+Action
+Time Attack
+Funny
+Comedy
+Side Scroller
+Masterpiece
+~Super Time Force Ultra
+Indie
+Pixel Graphics
+Action
+Platformer
+Time Travel
+Side Scroller
+Time Manipulation
+2D
+Shooter
+Singleplayer
+Bullet Hell
+Adventure
+Great Soundtrack
+Sci-fi
+Funny
+Comedy
+Difficult
+Music
+Replay Value
+Co-op
+~The Surge
+Souls-like
+Action
+RPG
+Sci-fi
+Difficult
+Third Person
+Singleplayer
+Mechs
+Violent
+Hack and Slash
+Robots
+Open World
+Exploration
+Cyberpunk
+Gore
+Action RPG
+Adventure
+Futuristic
+Horror
+Multiplayer
+~Surgeon Simulator
+Medical Sim
+Simulation
+Comedy
+Indie
+Difficult
+Intentionally Awkward Controls
+Funny
+Singleplayer
+Gore
+Physics
+Blood
+First-Person
+Action
+Dark Humor
+Casual
+VR
+Aliens
+Great Soundtrack
+Puzzle
+Realistic
+~The Swapper
+Puzzle
+Sci-fi
+Atmospheric
+Indie
+Space
+Platformer
+Puzzle Platformer
+Singleplayer
+Adventure
+Great Soundtrack
+Philosophical
+2D
+Psychological Horror
+Metroidvania
+Exploration
+Mystery
+Story Rich
+Action
+Side Scroller
+Difficult
+~The Swindle
+Crime
+Indie
+Action
+RPG
+Stealth
+Steampunk
+Platformer
+Action Roguelike
+Heist
+2D
+Roguelike
+Procedural Generation
+Roguelite
+Great Soundtrack
+~Sword of the Stars: The Pit
+Traditional Roguelike
+Roguelike
+RPG
+Indie
+Sci-fi
+Strategy
+Turn-Based
+Crafting
+Grid-Based Movement
+2D
+Difficult
+Resource Management
+Casual
+Inventory Management
+Singleplayer
+Perma Death
+Procedural Generation
+Survival
+Replay Value
+Turn-Based Strategy
+~SYNTHETIK: Legion Rising
+Indie
+Action
+Roguelite
+Top-Down Shooter
+Action Roguelike
+Online Co-Op
+Difficult
+Twin Stick Shooter
+Roguelike
+Shooter
+Isometric
+Co-op
+Bullet Hell
+Top-Down
+Robots
+Cyberpunk
+Singleplayer
+Great Soundtrack
+~System Shock 2
+Cyberpunk
+RPG
+Horror
+Sci-fi
+Classic
+FPS
+Survival Horror
+Masterpiece
+Action
+Cult Classic
+Space
+First-Person
+Story Rich
+Atmospheric
+Immersive Sim
+Great Soundtrack
+Singleplayer
+Co-op
+Inventory Management
+Shooter
+~System Shock: Enhanced Edition
+RPG
+Cyberpunk
+Immersive Sim
+Classic
+Horror
+Action
+Sci-fi
+Adventure
+FPS
+First-Person
+Retro
+1990's
+Singleplayer
+Atmospheric
+Cult Classic
+Great Soundtrack
+Shooter
+Story Rich
+Pixel Graphics
+Metroidvania
+~Tabletop Simulator
+Tabletop
+Board Game
+Simulation
+Multiplayer
+Sandbox
+Card Game
+Physics
+Casual
+Strategy
+Moddable
+Indie
+RPG
+VR
+Online Co-Op
+Chess
+Co-op
+Masterpiece
+Singleplayer
+Relaxing
+Comedy
+~Tacoma
+Walking Simulator
+Adventure
+Story Rich
+Sci-fi
+Indie
+Female Protagonist
+Space
+First-Person
+Exploration
+Atmospheric
+Singleplayer
+Mystery
+Short
+Futuristic
+LGBTQ+
+Cyberpunk
+Casual
+Great Soundtrack
+Illuminati
+Psychological Horror
+~The Talos Principle
+Puzzle
+Philosophical
+First-Person
+Sci-fi
+Atmospheric
+Story Rich
+Singleplayer
+Great Soundtrack
+Robots
+Adventure
+Exploration
+Indie
+Open World
+Multiple Endings
+Difficult
+Action
+Post-apocalyptic
+Mystery
+Masterpiece
+Simulation
+~Team Fortress 2
+Hero Shooter
+Free to Play
+Multiplayer
+FPS
+Shooter
+Action
+Class-Based
+Team-Based
+Funny
+First-Person
+Online Co-Op
+Cartoony
+Competitive
+Trading
+Co-op
+Comedy
+Robots
+Tactical
+Cartoon
+Crafting
+~TEKKEN 7
+Fighting
+Action
+Multiplayer
+Competitive
+Arcade
+Local Multiplayer
+Sports
+Great Soundtrack
+Controller
+Singleplayer
+eSports
+Difficult
+Character Customization
+Anime
+Story Rich
+Beat 'em up
+3D Fighter
+Nudity
+Sexual Content
+Third Person
+~Teleglitch: Die More Edition
+Action Roguelike
+Roguelike
+Indie
+Top-Down Shooter
+Difficult
+Action
+Perma Death
+Singleplayer
+Sci-fi
+Roguelite
+Top-Down
+Pixel Graphics
+Procedural Generation
+Crafting
+Survival Horror
+Horror
+Survival
+Shooter
+Retro
+Atmospheric
+~Tharsis
+Strategy
+Indie
+Space
+Board Game
+Difficult
+Turn-Based
+Mars
+Survival
+RPG
+Great Soundtrack
+Roguelike
+Sci-fi
+~Them's Fightin' Herds
+Indie
+Action
+Fighting
+2D Fighter
+Great Soundtrack
+Cute
+Cartoon
+Multiplayer
+Early Access
+2D
+Female Protagonist
+Pixel Graphics
+Arcade
+Local Multiplayer
+Cartoony
+~There Came an Echo
+Strategy
+Indie
+Sci-fi
+Singleplayer
+RTS
+Voice Control
+Cyberpunk
+Great Soundtrack
+Tactical
+Real-Time
+Isometric
+Story Rich
+~Thief
+Stealth
+Action
+Adventure
+First-Person
+Singleplayer
+Dark
+Steampunk
+Atmospheric
+Horror
+Parkour
+Open World
+Assassin
+Heist
+Masterpiece
+Medieval
+RPG
+Nudity
+FPS
+Fantasy
+Strategy
+~Thief Gold
+Stealth
+Classic
+First-Person
+Atmospheric
+Masterpiece
+Steampunk
+Action
+Horror
+Singleplayer
+Fantasy
+Immersive Sim
+Adventure
+Medieval
+Dark Fantasy
+Cult Classic
+Story Rich
+Dark
+Exploration
+1990's
+Moddable
+~Thief II: The Metal Age
+Stealth
+Classic
+Steampunk
+Atmospheric
+First-Person
+Masterpiece
+Action
+Immersive Sim
+Singleplayer
+Story Rich
+Fantasy
+Dark Fantasy
+Dark
+Cult Classic
+Adventure
+Medieval
+Sequel
+FPS
+Horror
+Great Soundtrack
+~This War of Mine
+Survival
+War
+Atmospheric
+Singleplayer
+Strategy
+Choices Matter
+Simulation
+Crafting
+Indie
+Post-apocalyptic
+Stealth
+Adventure
+2D
+Side Scroller
+Difficult
+Point & Click
+Open World
+2.5D
+Roguelike
+Platformer
+~Thumper
+Rhythm
+Indie
+Action
+Psychedelic
+Great Soundtrack
+Music
+Atmospheric
+Difficult
+VR
+Singleplayer
+Fast-Paced
+Dark
+Horror
+Arcade
+Racing
+Lovecraftian
+Dark Fantasy
+Psychological Horror
+Fantasy
+Action-Adventure
+~Toki Tori 2+
+Puzzle
+Indie
+Casual
+Adventure
+Platformer
+Metroidvania
+Cute
+Singleplayer
+Controller
+2D
+Family Friendly
+Puzzle Platformer
+Open World
+Masterpiece
+Level Editor
+Funny
+Action
+Difficult
+Exploration
+~Tom Clancy's Splinter Cell Chaos Theory
+Stealth
+Action
+Third Person
+Masterpiece
+Classic
+Co-op
+Great Soundtrack
+Atmospheric
+Singleplayer
+Tactical
+Multiplayer
+Story Rich
+Shooter
+Third-Person Shooter
+Adventure
+Controller
+Strategy
+~Tomb Raider I
+Adventure
+Action
+Classic
+Female Protagonist
+Lara Croft
+Singleplayer
+Puzzle
+Platformer
+Third Person
+Retro
+Action-Adventure
+Third-Person Shooter
+1990's
+Old School
+3D Platformer
+Shooter
+Atmospheric
+Exploration
+Masterpiece
+Dinosaurs
+~Tooth and Tail
+Strategy
+RTS
+Pixel Graphics
+Multiplayer
+Indie
+Action
+Casual
+Great Soundtrack
+2D
+Competitive
+Controller
+Singleplayer
+Split Screen
+Local Co-Op
+Isometric
+Story Rich
+Procedural Generation
+Local Multiplayer
+4 Player Local
+~Toribash
+Free to Play
+3D Fighter
+Fighting
+Multiplayer
+Physics
+Gore
+Action
+Strategy
+Turn-Based
+Martial Arts
+Funny
+Indie
+Blood
+Simulation
+Moddable
+Difficult
+Sandbox
+Parkour
+Singleplayer
+Masterpiece
+~Torment: Tides of Numenera
+RPG
+Story Rich
+Isometric
+Adventure
+Indie
+Singleplayer
+CRPG
+Choices Matter
+Strategy
+Turn-Based Combat
+Atmospheric
+Fantasy
+Kickstarter
+Sci-fi
+Turn-Based
+Dark Fantasy
+Party-Based RPG
+Female Protagonist
+Early Access
+Great Soundtrack
+~Totally Accurate Battlegrounds
+Multiplayer
+Funny
+Battle Royale
+FPS
+Memes
+Action
+Shooter
+Physics
+Indie
+Parody
+Survival
+First-Person
+Co-op
+PvP
+Open World
+Massively Multiplayer
+Casual
+Strategy
+Difficult
+Free to Play
+~Tower of Guns
+FPS
+Action Roguelike
+Roguelike
+Indie
+Action
+Roguelite
+Bullet Hell
+Shooter
+Singleplayer
+First-Person
+Perma Death
+Procedural Generation
+Fast-Paced
+Replay Value
+Difficult
+Steampunk
+Great Soundtrack
+Tower Defense
+~Train Valley
+Trains
+Puzzle
+Strategy
+Casual
+Simulation
+Management
+Indie
+Singleplayer
+Building
+Relaxing
+Resource Management
+Family Friendly
+Real-Time with Pause
+Sandbox
+Action
+Economy
+Replay Value
+City Builder
+Historical
+Funny
+~Transistor
+Great Soundtrack
+Female Protagonist
+Indie
+Cyberpunk
+Story Rich
+Sci-fi
+Action RPG
+Singleplayer
+RPG
+Beautiful
+Isometric
+Masterpiece
+Atmospheric
+Action
+Narration
+Strategy
+Adventure
+Tactical
+Turn-Based
+Short
+~Tree of Savior (English Ver.)
+MMORPG
+Massively Multiplayer
+Free to Play
+RPG
+Anime
+Fantasy
+Adventure
+Cute
+Great Soundtrack
+Action
+Multiplayer
+JRPG
+Open World
+Isometric
+Nudity
+Action RPG
+Co-op
+Hack and Slash
+Memes
+Sexual Content
+~Trine Enchanted Edition
+Platformer
+Fantasy
+Puzzle
+Indie
+Action
+Co-op
+Local Co-Op
+Adventure
+Puzzle Platformer
+Great Soundtrack
+Beautiful
+Singleplayer
+Online Co-Op
+Multiplayer
+Physics
+Atmospheric
+Casual
+Local Multiplayer
+2D
+Female Protagonist
+~Trine 2: Complete Story
+Puzzle Platformer
+Platformer
+Adventure
+2D Platformer
+Puzzle
+Co-op
+Fantasy
+Indie
+Online Co-Op
+Local Co-Op
+Action
+Beautiful
+Physics
+Multiplayer
+Great Soundtrack
+Singleplayer
+Atmospheric
+2D
+RPG
+Casual
+~Tropico 5
+Strategy
+City Builder
+Simulation
+Sandbox
+Multiplayer
+Economy
+Politics
+Management
+Singleplayer
+Resource Management
+Masterpiece
+Co-op
+Comedy
+RPG
+Historical
+Great Soundtrack
+RTS
+Atmospheric
+Open World
+Funny
+~Two Point Hospital
+Simulation
+Medical Sim
+Management
+Building
+Singleplayer
+Indie
+Funny
+Strategy
+Sandbox
+Comedy
+Casual
+City Builder
+Replay Value
+Cartoony
+Classic
+Isometric
+Retro
+Multiplayer
+Family Friendly
+Tactical
+~Ultimate Chicken Horse
+Multiplayer
+Funny
+Local Multiplayer
+Precision Platformer
+Level Editor
+Platformer
+4 Player Local
+Action
+Competitive
+Casual
+Indie
+2D
+Parkour
+Difficult
+Adventure
+Strategy
+Cute
+Controller
+Great Soundtrack
+Puzzle
+~Undertale
+Great Soundtrack
+Story Rich
+Choices Matter
+Funny
+Multiple Endings
+Pixel Graphics
+RPG
+Singleplayer
+Indie
+Comedy
+2D
+Replay Value
+Cute
+Bullet Hell
+Memes
+Retro
+Dark
+Psychological Horror
+Dating Sim
+Horror
+~Unity of Command: Stalingrad Campaign
+Strategy
+World War II
+Indie
+Turn-Based Strategy
+Wargame
+Turn-Based
+Historical
+Difficult
+Grand Strategy
+War
+Military
+Turn-Based Tactics
+Singleplayer
+Hex Grid
+Puzzle
+~Uplink
+Hacking
+Indie
+Strategy
+Singleplayer
+Cyberpunk
+Great Soundtrack
+Simulation
+Classic
+Sci-fi
+Real-Time with Pause
+2D
+Experimental
+Atmospheric
+Story Rich
+Addictive
+Roguelike
+Perma Death
+Puzzle
+~Valiant Hearts: The Great War / Soldats Inconnus : Mémoires de la Grande Guerre
+Masterpiece
+Atmospheric
+Historical
+World War I
+Adventure
+War
+Story Rich
+Drama
+2D
+Great Soundtrack
+Puzzle
+Singleplayer
+Emotional
+Dog
+Side Scroller
+Platformer
+Action
+Education
+Comic Book
+Music
+~Valkyria Chronicles 4 
+Strategy
+RPG
+Anime
+Turn-Based
+War
+Strategy RPG
+Singleplayer
+Tactical
+Action
+JRPG
+Turn-Based Tactics
+Third Person
+Story Rich
+Tactical RPG
+Violent
+Turn-Based Strategy
+Tanks
+Great Soundtrack
+Female Protagonist
+Sexual Content
+~The Vanishing of Ethan Carter
+Atmospheric
+Detective
+Mystery
+Walking Simulator
+Exploration
+First-Person
+Adventure
+Horror
+Singleplayer
+Story Rich
+Supernatural
+Puzzle
+Indie
+Lovecraftian
+Open World
+Great Soundtrack
+Short
+Psychological Horror
+Masterpiece
+Beautiful
+~Vanquish
+Action
+Third-Person Shooter
+Sci-fi
+Singleplayer
+Fast-Paced
+Shooter
+Third Person
+Bullet Time
+Futuristic
+Mechs
+Robots
+Arcade
+Great Soundtrack
+Character Action Game
+Adventure
+Classic
+Cyberpunk
+Hack and Slash
+Story Rich
+Difficult
+~Victoria II
+Grand Strategy
+Strategy
+Historical
+Political Sim
+Politics
+Simulation
+Real-Time with Pause
+Economy
+Military
+World War I
+Sandbox
+Singleplayer
+War
+RTS
+Multiplayer
+Moddable
+Alternate History
+Management
+Diplomacy
+Great Soundtrack
+~Viscera Cleanup Detail
+Simulation
+Gore
+Multiplayer
+First-Person
+Co-op
+Indie
+Funny
+Physics
+Sci-fi
+Masterpiece
+Comedy
+Space
+Horror
+Singleplayer
+Walking Simulator
+Casual
+Blood
+Parody
+Sandbox
+Adventure
+~Void Bastards
+Action Roguelike
+Roguelite
+Action
+FPS
+Strategy
+Space
+First-Person
+Comic Book
+Sci-fi
+Procedural Generation
+Indie
+Cartoony
+Gore
+Violent
+Shooter
+Singleplayer
+Immersive Sim
+Roguelike
+Survival
+Horror
+~Volume
+Indie
+Stealth
+Action
+Cyberpunk
+Great Soundtrack
+Singleplayer
+Top-Down
+Strategy
+Puzzle
+Sci-fi
+Futuristic
+Level Editor
+Atmospheric
+~VVVVVV
+Pixel Graphics
+Precision Platformer
+Platformer
+Indie
+2D Platformer
+Great Soundtrack
+Difficult
+Retro
+2D
+Singleplayer
+Exploration
+Action
+Sci-fi
+Adventure
+Short
+Metroidvania
+Minimalist
+Puzzle
+Open World
+Space
+~The Walking Dead
+Zombies
+Adventure
+Story Rich
+Point & Click
+Episodic
+Singleplayer
+Drama
+Horror
+Choices Matter
+Emotional
+Mature
+Atmospheric
+Masterpiece
+Choose Your Own Adventure
+Comic Book
+Post-apocalyptic
+Survival
+Quick-Time Events
+Gore
+Action
+~Wandersong
+Music
+Adventure
+Comedy
+Indie
+Story Rich
+Great Soundtrack
+Emotional
+Colorful
+Funny
+Platformer
+Cute
+Casual
+Family Friendly
+Stylized
+Side Scroller
+Rhythm
+Cartoony
+Exploration
+2D
+Experimental
+~War for the Overworld
+Strategy
+RTS
+God Game
+Indie
+Fantasy
+Base Building
+Management
+Simulation
+Sandbox
+Villain Protagonist
+Kickstarter
+Dungeon Crawler
+Funny
+Singleplayer
+Multiplayer
+Dark Comedy
+Building
+Level Editor
+Comedy
+Early Access
+~Wargame: Airland Battle
+Strategy
+RTS
+Military
+Cold War
+Real Time Tactics
+Wargame
+Tactical
+Real-Time
+Simulation
+Multiplayer
+War
+Realistic
+Difficult
+Singleplayer
+Action
+Co-op
+Alternate History
+America
+Indie
+Historical
+~Wargame: European Escalation
+Strategy
+RTS
+Military
+Cold War
+Wargame
+Realistic
+Simulation
+Alternate History
+Real Time Tactics
+War
+Action
+Singleplayer
+Multiplayer
+Real-Time
+Tactical
+Indie
+Masterpiece
+Tanks
+Historical
+Co-op
+~Wargame: Red Dragon
+Strategy
+RTS
+Military
+Realistic
+Wargame
+Multiplayer
+Cold War
+Tactical
+Real Time Tactics
+Simulation
+War
+Naval
+Alternate History
+Action
+Masterpiece
+Singleplayer
+Real-Time
+Co-op
+Difficult
+Adventure
+~Warhammer 40,000: Armageddon
+Strategy
+Warhammer 40K
+Turn-Based Tactics
+Tactical
+Games Workshop
+Turn-Based
+Hex Grid
+Singleplayer
+Turn-Based Strategy
+Multiplayer
+War
+Aliens
+Wargame
+Sci-fi
+Replay Value
+Strategy RPG
+~Warhammer 40,000: Gladius - Relics of War
+Strategy
+Warhammer 40K
+4X
+Turn-Based Strategy
+Turn-Based
+Sci-fi
+Hex Grid
+Turn-Based Tactics
+Wargame
+Multiplayer
+Tactical
+War
+Singleplayer
+Turn-Based Combat
+Co-op
+Grand Strategy
+Replay Value
+Great Soundtrack
+Artificial Intelligence
+Military
+~Warhammer 40,000: Space Marine
+Warhammer 40K
+Action
+Third-Person Shooter
+Sci-fi
+Third Person
+Multiplayer
+Gore
+Singleplayer
+Shooter
+Hack and Slash
+Co-op
+Games Workshop
+Dystopian
+Adventure
+Atmospheric
+Online Co-Op
+Futuristic
+Story Rich
+Controller
+Masterpiece
+~Warhammer: End Times - Vermintide
+Action
+Online Co-Op
+Co-op
+Dark Fantasy
+First-Person
+Gore
+Games Workshop
+Multiplayer
+FPS
+Fantasy
+Atmospheric
+Hack and Slash
+Action RPG
+Survival
+RPG
+Indie
+Adventure
+Singleplayer
+Horror
+Female Protagonist
+~Warhammer: Vermintide 2
+Co-op
+First-Person
+Hack and Slash
+Online Co-Op
+Multiplayer
+Gore
+Dark Fantasy
+Action
+Violent
+Fantasy
+PvE
+Games Workshop
+Atmospheric
+FPS
+Action RPG
+Indie
+Singleplayer
+Survival
+Adventure
+Open World
+~Warlock 2: The Exiled
+Strategy
+Fantasy
+Turn-Based
+Turn-Based Strategy
+4X
+Magic
+Multiplayer
+Hex Grid
+Singleplayer
+RPG
+Adventure
+~Wasteland 2: Director's Cut
+RPG
+Post-apocalyptic
+Turn-Based
+Strategy
+Tactical
+Adventure
+Isometric
+Singleplayer
+CRPG
+Kickstarter
+Indie
+Open World
+Turn-Based Strategy
+Sci-fi
+Crowdfunded
+Survival
+Atmospheric
+Exploration
+Old School
+Early Access
+~Waves
+Indie
+Twin Stick Shooter
+Action
+Arcade
+Casual
+Great Soundtrack
+Bullet Hell
+Score Attack
+Fast-Paced
+Shooter
+Singleplayer
+Shoot 'Em Up
+Top-Down
+Arena Shooter
+~The Way
+Adventure
+Indie
+Action
+Pixel Graphics
+Platformer
+Puzzle Platformer
+2D
+Sci-fi
+Retro
+Singleplayer
+Side Scroller
+Atmospheric
+Story Rich
+Puzzle
+Family Friendly
+Relaxing
+~Westerado: Double Barreled
+Western
+Pixel Graphics
+Open World
+Indie
+Adventure
+Action
+Detective
+Local Co-Op
+Retro
+2D
+Great Soundtrack
+Singleplayer
+RPG
+Funny
+~The Witcher: Enhanced Edition Director's Cut
+RPG
+Fantasy
+Story Rich
+Mature
+Singleplayer
+Choices Matter
+Action
+Third Person
+Nudity
+Adventure
+Dark Fantasy
+Based On A Novel
+Atmospheric
+Masterpiece
+Open World
+Great Soundtrack
+Multiple Endings
+Medieval
+Action RPG
+Magic
+~The Witcher 2: Assassins of Kings Enhanced Edition
+RPG
+Fantasy
+Mature
+Story Rich
+Choices Matter
+Singleplayer
+Third Person
+Adventure
+Dark Fantasy
+Nudity
+Multiple Endings
+Action
+Masterpiece
+Open World
+Atmospheric
+Based On A Novel
+Difficult
+Medieval
+Magic
+Dark
+~The Witcher 3: Wild Hunt
+Open World
+RPG
+Story Rich
+Atmospheric
+Mature
+Fantasy
+Adventure
+Masterpiece
+Singleplayer
+Choices Matter
+Nudity
+Great Soundtrack
+Third Person
+Action
+Medieval
+Multiple Endings
+Action RPG
+Dark Fantasy
+Magic
+Dark
+~The Witness
+Puzzle
+Exploration
+First-Person
+Open World
+Singleplayer
+Colorful
+Indie
+Atmospheric
+Adventure
+Walking Simulator
+Difficult
+Philosophical
+Mystery
+Nonlinear
+Relaxing
+Casual
+Surreal
+Great Soundtrack
+Story Rich
+Sandbox
+~Wolfenstein: The New Order
+FPS
+Action
+Masterpiece
+Shooter
+Alternate History
+Gore
+Singleplayer
+First-Person
+Atmospheric
+World War II
+Story Rich
+Sci-fi
+Stealth
+Old School
+Adventure
+War
+Great Soundtrack
+Robots
+Dystopian
+Epic
+~Wolfenstein: The Old Blood
+Action
+FPS
+Shooter
+World War II
+Alternate History
+Singleplayer
+Stealth
+First-Person
+Gore
+Zombies
+Atmospheric
+Story Rich
+Adventure
+War
+Horror
+Sci-fi
+Blood
+Multiplayer
+Mature
+Funny
+~World of Goo
+Puzzle
+Indie
+Physics
+Singleplayer
+Great Soundtrack
+Casual
+2D
+Masterpiece
+Cute
+Comedy
+Building
+Funny
+Atmospheric
+Satire
+Classic
+Touch-Friendly
+Surreal
+Story Rich
+Difficult
+Strategy
+~Worms W.M.D
+Strategy
+Action
+Multiplayer
+Funny
+Turn-Based Strategy
+2D
+Local Multiplayer
+Turn-Based
+Shooter
+Singleplayer
+Comedy
+Memes
+Classic
+Co-op
+Casual
+Local Co-Op
+Adventure
+Platformer
+Open World
+Gore
+~XCOM: Enemy Unknown
+Turn-Based Strategy
+Tactical
+Strategy
+Sci-fi
+Turn-Based
+Aliens
+Singleplayer
+Base Building
+Turn-Based Tactics
+Unforgiving
+Replay Value
+Addictive
+Perma Death
+Multiplayer
+Character Customization
+RPG
+Difficult
+Action
+Masterpiece
+Atmospheric
+~XCOM 2
+Strategy
+Turn-Based
+Tactical
+Turn-Based Strategy
+Aliens
+Sci-fi
+Turn-Based Tactics
+Character Customization
+Singleplayer
+Difficult
+Multiplayer
+Moddable
+RPG
+Futuristic
+Perma Death
+Action
+Atmospheric
+Great Soundtrack
+Masterpiece
+Co-op
+~Xotic
+Action
+Indie
+FPS
+Arcade
+Sci-fi
+First-Person
+~Yakuza Kiwami
+Action
+Adventure
+RPG
+Story Rich
+Beat 'em up
+Open World
+Singleplayer
+Crime
+Violent
+Great Soundtrack
+Sexual Content
+Drama
+Minigames
+Comedy
+Third Person
+Atmospheric
+Remake
+Anime
+Funny
+JRPG
+~The Yawhg
+Choose Your Own Adventure
+Indie
+Local Co-Op
+Story Rich
+RPG
+Short
+Visual Novel
+Beautiful
+Local Multiplayer
+Replay Value
+Fantasy
+Multiple Endings
+Great Soundtrack
+Casual
+Choices Matter
+Female Protagonist
+4 Player Local
+Co-op
+Adventure
+Singleplayer
+~Yoku's Island Express
+Pinball
+Adventure
+Metroidvania
+Platformer
+Indie
+Singleplayer
+Family Friendly
+Great Soundtrack
+Open World
+Puzzle Platformer
+Physics
+Hand-drawn
+Controller
+2D
+Cute
+~Yooka-Laylee
+Collectathon
+3D Platformer
+Adventure
+Kickstarter
+Indie
+Platformer
+Colorful
+Action
+Great Soundtrack
+Family Friendly
+Exploration
+Singleplayer
+Cute
+Funny
+Retro
+Casual
+Open World
+Comedy
+Cartoony
+Multiplayer
+~YOU DON'T KNOW JACK Vol. 4 The Ride
+Trivia
+Casual
+Indie
+Comedy
+Local Multiplayer
+Funny
+~Yume Nikki
+Indie
+Free to Play
+Psychological Horror
+Surreal
+RPGMaker
+Adventure
+Cult Classic
+Atmospheric
+Psychological
+Female Protagonist
+Pixel Graphics
+Dark
+Walking Simulator
+Casual
+2D
+Singleplayer
+Silent Protagonist
+Experimental
+Great Soundtrack
+Fantasy
+~Zeno Clash
+Action
+Surreal
+Indie
+Beat 'em up
+Fighting
+First-Person
+FPS
+Short
+Singleplayer
+Adventure
+Fantasy
+Atmospheric
+Beautiful
+Epic
+Story Rich
+Masterpiece
+~Ziggurat
+Roguelite
+Action
+Shooter
+FPS
+Action Roguelike
+First-Person
+Procedural Generation
+Magic
+Roguelike
+Indie
+Perma Death
+RPG
+Replay Value
+Difficult
+Dungeon Crawler
+Arena Shooter
+Fast-Paced
+Exploration
+Loot
+Cartoony
+~6180 the moon
+Indie
+Action
+Casual
+Platformer
+Short
+Singleplayer
+2D
+Minimalist
+Experimental
+Great Soundtrack
+Puzzle Platformer
+Atmospheric
+Space
+Soundtrack
+Music
+Family Friendly
+Controller
+Sci-fi
+Retro
+Steam Machine
+~80 Days
+Adventure
+Story Rich
+Choices Matter
+Strategy
+Indie
+Choose Your Own Adventure
+Interactive Fiction
+Replay Value
+Multiple Endings
+Steampunk
+Exploration
+Singleplayer
+Casual
+Relaxing
+Atmospheric
+Great Soundtrack
+Romance
+Open World
+Short
+Funny
+~Fallen Enchantress: Legendary Heroes
+Strategy
+Fantasy
+Turn-Based Strategy
+4X
+Turn-Based
+RPG
+Singleplayer
+Magic
+Moddable
+Sandbox
+Turn-Based Tactics
+Dragons
+Indie
+Grid-Based Movement
+Grand Strategy
+Replay Value
+Tactical
+Exploration
+Loot
+Adventure
+~Gemini Rue
+Point & Click
+Adventure
+Sci-fi
+Noir
+Cyberpunk
+Indie
+Story Rich
+Pixel Graphics
+Dystopian
+Detective
+Atmospheric
+Singleplayer
+Retro
+2D
+Great Soundtrack
+Mystery
+Puzzle
+~Keep Talking and Nobody Explodes
+Co-op
+Puzzle
+Local Co-Op
+VR
+Multiplayer
+Indie
+Difficult
+Local Multiplayer
+Team-Based
+Family Friendly
+First-Person
+Fast-Paced
+Funny
+Simulation
+Action
+Atmospheric
+Asymmetric VR
+Strategy
+Psychological Horror
+Great Soundtrack
+~Kind Words (lo fi chill beats to write to)
+Casual
+Indie
+Great Soundtrack
+Emotional
+Experimental
+Cute
+Relaxing
+Multiplayer
+Colorful
+Atmospheric
+Asynchronous Multiplayer
+~Torchlight II
+RPG
+Action RPG
+Hack and Slash
+Dungeon Crawler
+Co-op
+Loot
+Fantasy
+Online Co-Op
+Action
+Adventure
+Multiplayer
+Singleplayer
+Indie
+Moddable
+Character Customization
+Isometric
+Replay Value
+Steampunk
+Atmospheric
+Cartoon
+~Volgarr the Viking
+Platformer
+Difficult
+Action
+Indie
+Retro
+2D
+Adventure
+Singleplayer
+Arcade
+Old School
+Side Scroller
+Pixel Graphics
+Fantasy
+~Wilmot's Warehouse
+Indie
+Simulation
+Casual
+Adventure
+Puzzle
+~STAR WARS - X-Wing Alliance
+Action
+Star Wars
+Space Sim
+Space
+Multiplayer
+Singleplayer
+Simulation
+Classic
+Sci-fi
+Flight
+~EVERSPACE
+Action Roguelike
+Space
+Action
+Indie
+Sci-fi
+Roguelite
+Space Sim
+Singleplayer
+Shooter
+VR
+Flight
+Roguelike
+Survival
+Exploration
+6DOF
+Difficult
+Great Soundtrack
+Arcade
+Simulation
+Multiplayer
+~Expeditions: Conquistador
+RPG
+Strategy
+Turn-Based
+Indie
+Turn-Based Strategy
+Historical
+Exploration
+Tactical
+Isometric
+Story Rich
+Turn-Based Combat
+Multiple Endings
+Survival
+Adventure
+CRPG
+Singleplayer
+Kickstarter
+Hex Grid
+Character Customization
+Choices Matter
+~Her Story
+Detective
+FMV
+Indie
+Story Rich
+Female Protagonist
+Mystery
+Realistic
+Singleplayer
+Simulation
+Adventure
+Puzzle
+Crime
+Experimental
+Casual
+Visual Novel
+Point & Click
+Short
+Horror
+Psychological Horror
+Interactive Fiction
+~Infinifactory
+Puzzle
+Indie
+Building
+Programming
+Sandbox
+Simulation
+Automation
+Singleplayer
+First-Person
+Difficult
+Sci-fi
+Logic
+Space
+Great Soundtrack
+Strategy
+~Jagged Alliance 2
+Strategy
+RPG
+Turn-Based Tactics
+Turn-Based
+Turn-Based Strategy
+Isometric
+Tactical
+Singleplayer
+Classic
+Tactical RPG
+Masterpiece
+~Sid Meier's Alpha Centauri
+Strategy
+Turn-Based Strategy
+Sci-fi
+Space
+4X
+Turn-Based
+Multiplayer
+Singleplayer
+Futuristic
+Aliens
+Tactical
+Hex Grid
+Grand Strategy
+Replay Value
+Exploration
+Masterpiece
+Atmospheric
+Adventure
+Moddable
+Simulation
+~Mirror's Edge
+Parkour
+First-Person
+Action
+Female Protagonist
+Singleplayer
+Great Soundtrack
+Adventure
+Platformer
+Atmospheric
+Dystopian
+Stylized
+Futuristic
+Sci-fi
+FPS
+Cyberpunk
+Colorful
+Puzzle
+Time Attack
+Masterpiece
+Classic
+~SAMURAI SHODOWN V SPECIAL
+Action
+Fighting
+2D Fighter
+2D
+Anime
+~Triple Town
+Casual
+Strategy
+Puzzle
+Match 3
+Indie
+Cute
+Singleplayer
+Addictive
+~Ultimate General: Civil War
+Strategy
+War
+Historical
+RTS
+Simulation
+Tactical
+Indie
+Wargame
+America
+Military
+Multiplayer
+Singleplayer
+Real Time Tactics
+Tabletop
+Open World
+Realistic
+Atmospheric
+Early Access
+Grand Strategy
+~Vampire: The Masquerade - Bloodlines
+RPG
+Vampire
+Cult Classic
+Masterpiece
+Singleplayer
+Supernatural
+Action
+Horror
+Dark
+Atmospheric
+Classic
+Story Rich
+Action RPG
+Great Soundtrack
+First-Person
+Gothic
+Female Protagonist
+Adventure
+Third Person
+Stealth
+~West of Loathing
+RPG
+Comedy
+Funny
+Adventure
+Western
+Indie
+Singleplayer
+Story Rich
+Open World
+Replay Value
+Turn-Based Combat
+2D
+Memes
+Choices Matter
+Great Soundtrack
+Character Customization
+Turn-Based
+Point & Click
+Action
+Puzzle
+~Mass Effect 2
+RPG
+Sci-fi
+Story Rich
+Third-Person Shooter
+Action
+Space
+Singleplayer
+Great Soundtrack
+Adventure
+Choices Matter
+Cinematic
+Masterpiece
+Third Person
+Romance
+Character Customization
+Shooter
+Atmospheric
+Female Protagonist
+Action RPG
+Real-Time with Pause
+~Titanfall 2
+FPS
+Multiplayer
+Action
+Adventure
+Shooter
+Sci-fi
+Space
+First-Person
+Great Soundtrack
+Masterpiece
+Atmospheric
+~Minecraft
+Open World Survival Craft
+Sandbox
+Survival
+3D
+Adventure
+Multiplayer
+Crafting
+Building
+Pixel Graphics
+Exploration
+Co-op
+Open World
+Indie
+Action
+Online Co-Op
+RPG
+Singleplayer
+Platformer
+Replay Value
+Atmospheric
+~The End Is Nigh
+Precision Platformer
+Platformer
+Indie
+Difficult
+Adventure
+Great Soundtrack
+Singleplayer
+Action
+2D
+Pixel Graphics
+Post-apocalyptic
+Dark
+Funny
+Memes
+Atmospheric
+Dark Fantasy
+~Faeria
+Card Game
+Strategy
+Massively Multiplayer
+Multiplayer
+Indie
+Adventure
+RPG
+Board Game
+Fantasy
+Turn-Based
+Hex Grid
+Singleplayer
+Turn-Based Strategy
+Trading Card Game
+Early Access
+Action
+Casual
+Anime
+Survival
+Relaxing
+~FEZ
+Platformer
+Indie
+Puzzle
+Pixel Graphics
+Exploration
+Great Soundtrack
+Singleplayer
+Adventure
+Casual
+Mystery
+Puzzle Platformer
+2D
+Beautiful
+Relaxing
+Atmospheric
+Masterpiece
+Cute
+Retro
+2.5D
+Controller
+~Metro 2033 Redux
+Post-apocalyptic
+FPS
+Atmospheric
+Action
+Story Rich
+Singleplayer
+Horror
+First-Person
+Shooter
+Stealth
+Survival Horror
+Based On A Novel
+Adventure
+Survival
+Remake
+Masterpiece
+Mature
+Gore
+Multiplayer
+Classic
+~Call of Duty: Black Ops 4
+Multiplayer
+FPS
+Zombies
+Shooter
+Action
+First-Person
+Co-op
+Singleplayer
+Futuristic
+Illuminati
+Hero Shooter
+Robots
+Sci-fi
+Gore
+Great Soundtrack
+Story Rich
+Atmospheric
+Quick-Time Events
+Parkour
+Simulation
+~Diablo III
+Free to Play
+Action RPG
+Hack and Slash
+RPG
+Multiplayer
+Massively Multiplayer
+Loot
+Action
+MMORPG
+Fantasy
+Adventure
+Dungeon Crawler
+Online Co-Op
+Indie
+Dark Fantasy
+Co-op
+Character Customization
+PvE
+Inventory Management
+Fishing
+~Overwatch
+Hero Shooter
+Multiplayer
+FPS
+Shooter
+Action
+Team-Based
+First-Person
+PvP
+MOBA
+Online Co-Op
+Fantasy
+Strategy
+Co-op
+Funny
+Anime
+~StarCraft II
+Strategy
+RTS
+Sci-fi
+Multiplayer
+Base Building
+Co-op
+Singleplayer
+Real-Time
+Action
+Military
+War
+Futuristic
+Tactical
+Masterpiece
+Classic
+Great Soundtrack
+~World of Warcraft
+RPG
+MMORPG
+Open World
+Massively Multiplayer
+Multiplayer
+Fantasy
+Adventure
+First-Person
+Exploration
+Story Rich
+Third Person
+Magic
+Action
+Co-op
+Atmospheric
+Great Soundtrack
+Action RPG
+Singleplayer
+Masterpiece
+Sandbox
+~World of Tanks
+Tanks
+Free to Play
+Action
+Multiplayer
+World War II
+War
+Massively Multiplayer
+Strategy
+PvP
+Shooter
+Military
+Simulation
+Online Co-Op
+Competitive
+Arcade
+Singleplayer
+Psychological Horror
+FPS
+Open World
+First-Person
+~Micro-Games: Present
+Shooter
+Action
+2D
+Arcade
+High Score
+Pixel Art
+Retro
+GameMaker
+Puzzle
+Game Boy
+3D
+Neon
+On-Rails Shooter
+Panda3d
+Singleplayer
+Artgame
+Calm
+Godot
+Relaxing
+Short
+Walking simulator
+3D Platformer
+Christmas
+Comedy
+First-Person
+
+
+Unity
+~Micro-Games: Cycles
+Platformer
+Dark Humor
+GameMaker
+Puzzle-Platformer
+Short
+Skeletons
+Simulation
+2D
+3D
+First-Person
+Funny
+Jumping
+Pixel Art
+Singleplayer
+Unity
+Puzzle
+Abstract
+Fast-Paced
+High Score
+Leaderboard
+Minimalist
+Orbit
+Reaction
+Minigames
+Satire
+Action
+Strategy
+PICO-8
+Spelunky
+Turn-based
+Lo-fi
+Relaxing
+Sandbox
+Watercolor
