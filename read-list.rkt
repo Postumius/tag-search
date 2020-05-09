@@ -50,6 +50,14 @@
         (inner (add1 i) ts))]))
   (inner 0 (sort (set->list tags) string<?)))
 
+(define (line-split len strls)
+  (match strls
+    ['() '()]
+    [(cons s ss)
+     (if ((length s) . <= . len)
+         (cons s (line-split (- len (length s)) ss))
+         strls)]))
+
 (define (format-the-list ls)
   (foldl
    (λ(ent str)
@@ -59,5 +67,5 @@
       str))
    ""
    (sort ls (λ(e1 e2)
-              (string<? (entry-title e1) (entry-title e2))))))
+              (string>? (entry-title e1) (entry-title e2))))))
 
