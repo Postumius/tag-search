@@ -6,9 +6,9 @@ A search function that filters a tagged list. Boolean logic can be used to combi
 ```racket
 (tag-search the-list "2D") ;Match all entries in the-list with the tag "2D"
 
-(tag-search the-list (AND "2D" "Platformer") ;Match entries that have "2D" and "Platformer"
+(tag-search the-list (AND "2D" "Platformer")) ;Match entries that have "2D" and "Platformer"
 
-(tag-search the-list (AND (NOT "Turn-based") (OR "JRPG" "CRPG")) 
+(tag-search the-list (AND (NOT "Turn-based") (OR "JRPG" "CRPG"))) 
 ;Match entries that don't have "Turn-based", but do have "JRPG", "CRPG", or both
 
 (tag-search the-list (lambda(st) ([set-count st] . <= . 5))) 
