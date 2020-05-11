@@ -1,6 +1,8 @@
 #lang racket
 
-(provide (struct-out entry) build-the-list)
+(require "tag-compare.rkt")
+
+(provide (struct-out entry) build-the-list format-the-list)
 
 (define path-to-list "the-list.txt")
 
@@ -36,36 +38,38 @@
     (map (curry clean-split #rx"\n+")
          (clean-split #rx"~+" str))]
   (map (match-lambda
-         [(cons title tags) (entry title (list->set tags))])
+         [(cons title tags)
+          (entry title (make-immutable-tag-set tags))])
        split))
 
-(define (format-tags tags)
-  (define (inner i ls)
-    (match ls
-      ['() "\n\n"]
-      [(cons t '()) (string-append t "\n\n")]
-      [(cons t ts)
-       (string-append
-        t (if (zero? (modulo (- i 2) 3)) ",\n      " ", ")
-        (inner (add1 i) ts))]))
-  (inner 0 (sort (set->list tags) string<?)))
 
-(define (line-split len strls)
-  (match strls
-    ['() '()]
-    [(cons s ss)
-     (if ((length s) . <= . len)
-         (cons s (line-split (- len (length s)) ss))
-         strls)]))
+(define (format-tag-set line-len str-set)
+  [define (rec len lst)
+    (match lst
+      ['() "\n\n"]
+      [(cons l ls)
+       [define len-next (string-length l)]
+       (cond
+         [(len-next . > . line-len)
+          (string-append "\n      " l "\n      "
+                         (rec line-len ls))]
+         [(len-next . > . len)
+          (string-append "\n      " (rec line-len lst))]
+         [else
+          (string-append l " " (rec (- len len-next 1) ls))])])]
+  (rec line-len
+    (sort (set->list str-set) (tag-compare string<?))))
 
 (define (format-the-list ls)
   (foldl
    (λ(ent str)
      (string-append
       "title: " (entry-title ent)
-      "\ntags: " (format-tags (entry-tags ent))
+      "\ntags: " (format-tag-set 30 (entry-tags ent))
       str))
    ""
    (sort ls (λ(e1 e2)
-              (string>? (entry-title e1) (entry-title e2))))))
+              ((tag-compare string>?)
+               (entry-title e1)
+               (entry-title e2))))))
 

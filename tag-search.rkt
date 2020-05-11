@@ -1,6 +1,6 @@
 #lang racket
 
-(require "read-list.rkt")
+(require "read-list.rkt" "tag-compare.rkt")
 
 (define (f-and a b) (and a b))
 (define (f-or a b) (or a b))
@@ -25,16 +25,18 @@
 (define (NOT t/p)
   (compose not (tag?->pred t/p)))
 
-(define (tag-search ls tag/pred)
-  (filter (compose (tag?->pred tag/pred) entry-tags) ls))
+(define (tag-search ls filt)
+  (format-the-list
+   (filter (compose (tag?->pred filt) entry-tags) ls)))
 
-(define all-tags
-  (compose
-   (curryr sort string<?)
-   set->list
-   (curry foldr (λ(ent st)
-                  (set-union st (entry-tags ent)))
-          (set))))
+(define (all-tags ls)
+  ((compose
+    (curryr sort (tag-compare string<?))
+    set->list
+    (curry foldr (λ(ent st)
+                   (set-union st (entry-tags ent)))
+           (make-immutable-tag-set)))
+   ls))
 
 (define st (set "1" "2" "3"))
 
