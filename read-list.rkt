@@ -8,12 +8,7 @@
 
 (define (read-string filename)
   [define in (open-input-file filename)]
-  [define (file->string)
-    [define line (read-line in)]
-    (if (eof-object? line)
-        ""
-        (string-append line "\n" (file->string)))]
-  [define str (file->string)]
+  [define str (port->string in)]
   (close-input-port in)
   str)
 
