@@ -26,19 +26,22 @@
   (compose not (tag?->pred t/p)))
 
 (define (tag-search ls filt)
-  (format-the-list
-   (filter (compose (tag?->pred filt) entry-tags) ls)))
+  (display
+   (format-the-list
+    (filter (compose (tag?->pred filt) entry-tags) ls))))
 
-(define (all-tags ls)
-  ((compose
-    (curryr sort (tag-compare string<?))
-    set->list
-    (curry foldr (λ(ent st)
-                   (set-union st (entry-tags ent)))
-           (make-immutable-tag-set)))
-   ls))
 
-(define st (set "1" "2" "3"))
 
 (define the-list
   (build-the-list))
+
+(define-namespace-anchor a)
+(define ns (namespace-anchor->namespace a))
+
+(define (main)
+  (eval (append '(tag-search the-list)
+                (list (syntax->datum (read-syntax))))
+        ns)
+  (main))
+
+(main)
