@@ -1,10 +1,21 @@
 #lang racket
 
+; functions for reading and formatting the list
+
 (require "tag-compare.rkt")
 
-(provide (struct-out entry) build-the-list format-the-list)
+(provide
+ 
+ ; an entry has a title and a set of tags
+ (struct-out entry)
 
-(define path-to-list "the-list.txt")
+ ; reads from text file into list of entries
+ build-the-list
+
+ ; formats list into nice string
+ format-the-list)
+
+
 
 (define (read-string filename)
   [define in (open-input-file filename)]
@@ -17,18 +28,32 @@
   (display str out)
   (close-output-port out))
 
-(define (trim str)
+(define (clean-split pat str)
+  (filter
+   (λ(s) (not (equal? "" s)))
+   (map trim-whitespace (regexp-split pat str))))
+
+(define (trim-whitespace str)
   (first (regexp-match #px"\\S.*\\S|\\S|$" str)))
+
+; rewrites the given file with lines in order
+(define (sort-file-lines filename)
+  [define str (read-string filename)]
+  [define ordered-ls (sort (clean-split "\n" str)
+                           (tag-compare string<?))]
+  [define formatted
+    (for/fold ([acc ""]) ([title (in-list ordered-ls)])
+      (string-append acc title "\n"))]
+  (write-string formatted filename))
 
 (struct entry (title tags)
   #:transparent)
 
+(define path-to-list "the-list.txt")
+
 (define (build-the-list)
   [define str (read-string path-to-list)]
-  [define (clean-split pat str)
-    (filter
-     (λ(s) (not (equal? "" s)))
-     (map trim (regexp-split pat str)))]
+  
   [define split
     (map (curry clean-split #rx"\n+")
          (clean-split #rx"~+" str))]
@@ -55,7 +80,9 @@
   (rec line-len
     (sort (set->list str-set) (tag-compare string<?))))
 
-(define (format-the-list ls)
+
+(define/contract (format-the-list ls)
+  ((listof entry?) . -> . string)
   (foldl
    (λ(ent str)
      (string-append
@@ -68,10 +95,4 @@
                (entry-title e1)
                (entry-title e2))))))
 
-(define (format-title-list)
-  [define titles-sorted
-    (sort (map entry-title (build-the-list))
-          (tag-compare string<?))]
-  (for/fold ([str ""]) ([title titles-sorted])
-    (string-append str "\n" title)))
 
