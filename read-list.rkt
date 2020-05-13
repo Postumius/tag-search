@@ -68,3 +68,10 @@
                (entry-title e1)
                (entry-title e2))))))
 
+(define (format-title-list)
+  [define titles-sorted
+    (sort (map entry-title (build-the-list))
+          (tag-compare string<?))]
+  (for/fold ([str ""]) ([title titles-sorted])
+    (string-append str "\n" title)))
+
