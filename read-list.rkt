@@ -82,7 +82,7 @@
 
 
 (define/contract (format-the-list ls)
-  ((listof entry?) . -> . string)
+  ((listof entry?) . -> . string?)
   (foldl
    (λ(ent str)
      (string-append
@@ -95,4 +95,6 @@
                (entry-title e1)
                (entry-title e2))))))
 
-
+(define (rewrite-formatted-list)
+  (write-string (format-the-list (build-the-list))
+                "formatted.txt"))

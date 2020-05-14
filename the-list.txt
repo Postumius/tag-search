@@ -1,4 +1,4 @@
-﻿~ABZU
+﻿~ABZÛ
 Relaxing
 Atmospheric
 Underwater
@@ -69,7 +69,7 @@ Co-op
 Family Friendly
 Kickstarter
 Action
-~AI War
+~AI War: Fleet Command
 Strategy
 RTS
 Space
@@ -327,7 +327,7 @@ Choices Matter
 Open World
 Experimental
 Silent Protagonist
-~Assassin's Creed 2
+~Assassin's Creed II
 Action
 Open World
 Parkour
@@ -440,7 +440,7 @@ Online Co-Op
 Magic
 Remake
 Atmospheric
-~Baldur's Gate II
+~Baldur's Gate II: Enhanced Edition
 RPG
 Classic
 Fantasy
@@ -1678,27 +1678,6 @@ Dating Sim
 Funny
 Mature
 Walking Simulator
-~DARK SOULS II: Scholar of the First Sin
-Souls-like
-Dark Fantasy
-RPG
-Difficult
-Action
-Third Person
-Atmospheric
-Action RPG
-Co-op
-Character Customization
-Multiplayer
-Fantasy
-Adventure
-Medieval
-Dark
-Singleplayer
-Lore-Rich
-Story Rich
-PvP
-Remake
 ~DARK SOULS III
 Souls-like
 Dark Fantasy
@@ -3877,27 +3856,6 @@ Difficult
 3D Vision
 Old School
 Atmospheric
-~A Hat in Time
-Cute
-3D Platformer
-Collectathon
-Great Soundtrack
-Female Protagonist
-Adventure
-Indie
-Platformer
-Funny
-Exploration
-Colorful
-Third Person
-Singleplayer
-Open World
-Comedy
-Moddable
-Co-op
-Family Friendly
-Kickstarter
-Action
 ~Hearts of Iron III
 Grand Strategy
 Strategy
@@ -7602,27 +7560,6 @@ Early Access
 Retro
 Games Workshop
 GameMaker
-~Rivals of Aether
-Fighting
-2D Fighter
-Indie
-Multiplayer
-Pixel Graphics
-Local Multiplayer
-Competitive
-Great Soundtrack
-2D
-Platformer
-4 Player Local
-Action
-Arcade
-Singleplayer
-Controller
-Beat 'em up
-Early Access
-Retro
-Games Workshop
-GameMaker
 ~Road Redemption
 Racing
 Action
@@ -8109,7 +8046,7 @@ Arcade
 Cult Classic
 Education
 Puzzle
-~Sid Meier's Civilization IV (With cool mods)
+~Sid Meier's Civilization IV
 Strategy
 Turn-Based Strategy
 Turn-Based
@@ -11455,8 +11392,6 @@ Walking simulator
 Christmas
 Comedy
 First-Person
-
-
 Unity
 ~Micro-Games: Cycles
 Platformer
@@ -11493,3 +11428,639 @@ Lo-fi
 Relaxing
 Sandbox
 Watercolor
+~Shadow of the Tomb Raider
+Adventure
+Action
+Lara Croft
+Female Protagonist
+Singleplayer
+Open World
+Third Person
+Story Rich
+Puzzle
+Action-Adventure
+Stealth
+Exploration
+Survival
+Violent
+Atmospheric
+Shooter
+Gore
+Great Soundtrack
+Dark
+Heist
+~Tales From Off-Peak City Vol. 1
+Indie
+Adventure
+Surreal
+Atmospheric
+Music
+~Mass Effect 3
+RPG
+Sci-fi
+Story Rich
+Action
+Third-Person Shooter
+Space
+Singleplayer
+Great Soundtrack
+Third Person
+Choices Matter
+Character Customization
+Shooter
+Female Protagonist
+Adventure
+Masterpiece
+Open World
+Atmospheric
+Romance
+Real-Time with Pause
+Action RPG
+~Wizardry 8
+RPG
+Party-Based RPG
+Turn-Based Combat
+Classic
+Fantasy
+First-Person
+Adventure
+Dungeon Crawler
+Turn-Based
+CRPG
+Singleplayer
+Exploration
+Old School
+Masterpiece
+Atmospheric
+Sci-fi
+~Subserial Network
+Interactive Fiction
+Visual Novel
+Atmospheric
+Cyberpunk
+Experimental
+~Where the Water Tastes Like Wine: Fireside Chats
+Indie
+Adventure
+RPG
+Story Rich
+Interactive Fiction
+Great Soundtrack
+Atmospheric
+Singleplayer
+Walking Simulator
+Visual Novel
+Narration
+~LEGO Batman 3: Beyond Gotham
+LEGO
+Batman
+Adventure
+Action
+Superhero
+Open World
+Multiplayer
+Funny
+Space
+Local Co-Op
+Comedy
+Co-op
+Family Friendly
+Third Person
+Singleplayer
+Puzzle
+Controller
+Comic Book
+Sandbox
+Masterpiece
+~Pox Nora
+Free to Play
+Strategy
+RPG
+Trading Card Game
+Turn-Based Strategy
+Multiplayer
+Fantasy
+Turn-Based Tactics
+Tactical
+Turn-Based
+Singleplayer
+Action
+~Fortnite
+Multiplayer
+Funny
+Battle Royale
+FPS
+Memes
+Action
+Shooter
+Building
+Survival
+First-Person
+Co-op
+PvP
+Open World
+Massively Multiplayer
+Casual
+Strategy
+Difficult
+Free to Play
+~Apex Legends
+Multiplayer
+Battle Royale
+FPS
+Hero Shooter
+Action
+Shooter
+Survival
+First-Person
+Co-op
+PvP
+Open World
+Massively Multiplayer
+Casual
+Strategy
+Difficult
+Free to Play
+~The Walking Dead: Season Two
+Zombies
+Adventure
+Story Rich
+Episodic
+Point & Click
+Singleplayer
+Masterpiece
+Female Protagonist
+Drama
+Atmospheric
+Horror
+Choices Matter
+Choose Your Own Adventure
+Comic Book
+Emotional
+Mature
+Survival
+Cinematic
+Post-apocalyptic
+Action
+~Project Plus
+Indie
+Fighting
+Action
+Strategy
+Multiplayer
+Platformer
+Free to Play
+2D Fighter
+Local Multiplayer
+Competitive
+Great Soundtrack
+2D
+4 Player Local
+Arcade
+Singleplayer
+Controller
+Beat 'em up
+~EDOPro
+Free to Play
+Card Game
+Strategy
+Anime
+Multiplayer
+Trading Card Game
+Singleplayer
+Turn-Based
+Competitive
+Casual
+RPG
+Action
+Online Co-Op
+Memes
+Adventure
+Simulation
+~Hawken Refugees
+Free to Play
+Mechs
+Multiplayer
+Action
+Shooter
+Robots
+Sci-fi
+Simulation
+FPS
+Massively Multiplayer
+Strategy
+PvP
+Tactical
+First-Person
+War
+Team-Based
+Survival
+Walking Simulator
+Open World
+Singleplayer
+~MechWarrior: Living Legends
+Free to Play
+Mechs
+Multiplayer
+Action
+Shooter
+Robots
+Sci-fi
+Simulation
+FPS
+Massively Multiplayer
+Strategy
+PvP
+Tactical
+First-Person
+War
+Team-Based
+Survival
+Walking Simulator
+Open World
+Singleplayer
+~Forge - Slightly Magic
+Card Battler
+Card Game
+Deckbuilding
+Strategy
+Trading Card Game
+Multiplayer
+Singleplayer
+Fantasy
+Board Game
+Magic
+Co-op
+~Arma II: DayZ Mod
+Zombies
+Survival
+Action
+Multiplayer
+Open World
+Simulation
+Free to Play
+Shooter
+Strategy
+Adventure
+Mod
+FPS
+Walking Simulator
+Massively Multiplayer
+Co-op
+Third-Person Shooter
+Horror
+Sandbox
+RPG
+Moddable
+~NEOTOKYO
+Free to Play
+Multiplayer
+FPS
+Cyberpunk
+Shooter
+Action
+Anime
+Great Soundtrack
+Mod
+Tactical
+Sci-fi
+First-Person
+Team-Based
+Futuristic
+Co-op
+Singleplayer
+Realistic
+Indie
+Masterpiece
+Adventure
+~Realism Invictus
+Strategy
+Turn-Based Strategy
+Turn-Based
+4X
+Historical
+Multiplayer
+Singleplayer
+Mod
+Classic
+Grand Strategy
+Addictive
+Masterpiece
+Replay Value
+Simulation
+Resource Management
+Great Soundtrack
+Economy
+War
+Tactical
+Management
+~Caveman2Cosmos
+Strategy
+Turn-Based Strategy
+Turn-Based
+4X
+Historical
+Multiplayer
+Singleplayer
+Moddable
+Classic
+Grand Strategy
+Addictive
+Masterpiece
+Replay Value
+Simulation
+Resource Management
+Great Soundtrack
+Economy
+War
+Tactical
+Management
+~Fall from Heaven II
+Strategy
+Turn-Based Strategy
+Turn-Based
+4X
+Historical
+Multiplayer
+Singleplayer
+Mod
+Classic
+Grand Strategy
+Addictive
+Masterpiece
+Replay Value
+Simulation
+Resource Management
+Great Soundtrack
+Economy
+War
+Tactical
+Management
+Fantasy
+~Agricola: All Creatures Big and Small
+Indie
+Strategy
+Board Game
+~Ascension: Deckbuilding Game
+Deckbuilding
+Card Battler
+Strategy
+Card Game
+Casual
+Board Game
+Tabletop
+Multiplayer
+~BattleCON: Online
+Free to Play
+Strategy
+Indie
+Card Game
+Early Access
+Fighting
+Board Game
+Multiplayer
+~Carcassonne - Tiles & Tactics
+Strategy
+Casual
+Board Game
+Multiplayer
+Tabletop
+Turn-Based
+Turn-Based Strategy
+Family Friendly
+Card Game
+Addictive
+~Colt Express
+Casual
+Strategy
+Board Game
+~The Elder Scrolls: Legends
+Free to Play
+Card Game
+Trading Card Game
+Multiplayer
+Strategy
+Fantasy
+Singleplayer
+Great Soundtrack
+Board Game
+Story Rich
+Tactical
+Atmospheric
+Dark Fantasy
+Action
+Casual
+Nudity
+Open World
+Turn-Based
+~Le Havre: The Inland Port
+Strategy
+Indie
+Casual
+Board Game
+~The Lord of the Rings: Adventure Card Game
+Strategy
+Adventure
+RPG
+Deckbuilding
+Card Battler
+Card Game
+Early Access
+Fantasy
+Casual
+Board Game
+Co-op
+~Love Letter
+Strategy
+Card Game
+Board Game
+Multiplayer
+Casual
+Tabletop
+~Mysterium: A Psychic Clue Game
+Strategy
+Board Game
+Tabletop
+Multiplayer
+Co-op
+Mystery
+~Pandemic: The Board Game
+Strategy
+Simulation
+Outbreak Sim
+Board Game
+Tabletop
+Medical Sim
+Turn-Based
+Co-op
+Card Game
+Singleplayer
+~Patchwork
+Casual
+Strategy
+Indie
+Board Game
+~Pathfinder Adventures
+RPG
+Strategy
+Card Game
+Board Game
+Fantasy
+Singleplayer
+~Scythe: Digital Edition
+Board Game
+Strategy
+Turn-Based
+Multiplayer
+Mechs
+4X
+Hex Grid
+Alternate History
+Tabletop
+~Sentinels of the Multiverse
+Card Battler
+Card Game
+Strategy
+Indie
+Superhero
+Board Game
+Tabletop
+Multiplayer
+Co-op
+Local Co-Op
+Singleplayer
+Online Co-Op
+Comic Book
+~Small World 2
+Board Game
+Strategy
+Casual
+Indie
+Turn-Based
+Multiplayer
+Singleplayer
+Tabletop
+Fantasy
+Local Multiplayer
+~Splendor
+Casual
+Tabletop
+Strategy
+Board Game
+Card Game
+Multiplayer
+~Star Realms
+Deckbuilding
+Strategy
+Card Battler
+Card Game
+Board Game
+Free to Play
+Asynchronous Multiplayer
+Sci-fi
+Space
+Multiplayer
+Turn-Based
+~Ticket to Ride
+Board Game
+Strategy
+Tabletop
+Casual
+Multiplayer
+Turn-Based
+Indie
+Trains
+Family Friendly
+Singleplayer
+Card Game
+Addictive
+Touch-Friendly
+Turn-Based Tactics
+Local Multiplayer
+2D
+Turn-Based Strategy
+~Twilight Struggle
+Board Game
+Political Sim
+Strategy
+Tabletop
+Simulation
+Cold War
+Turn-Based
+Turn-Based Strategy
+Political
+Multiplayer
+Asynchronous Multiplayer
+Card Game
+~Coup - Mobile Edition
+Strategy
+Casual
+Indie
+Card Game
+Turn-Based
+Board Game
+Political
+~Crank
+Resource Management 
+Story 
+HTML 5 
+Web 
+Self-hosted 
+Micromanagement 
+Work 
+Friendly 
+Space 
+Dystopia
+~Shark Game
+Resource Management
+Idle 
+Growth 
+Offline Progress 
+HTML 5 
+Web 
+Self-hosted 
+Simple 
+Clicker 
+Prestige 
+Micromanagement 
+Work Friendly 
+Humour 
+Other 
+Open Source
+~Cookie Clicker
+Clicker 
+Self-hosted 
+HTML 5 
+Web 
+Idle 
+Growth 
+Animated 
+JavaScript 
+Simple 
+Work Friendly 
+Humour 
+Achievements
+~A Dark Room
+Strategy 
+Resource Management 
+HTML 5 
+Self-hosted 
+Text-based 
+Post-apocalypse 
+Open Source 
+Story 
+Web 
+Mobile
+~Puzzle & Dragons
+Puzzle‎
+RPG
+Tile-matching
+Match 3
+~Dragon Era - RPG Card Slots
+Gambling
+RPG
+~Order & Chaos Duels
+TCG
+PvP
+Multiplayer
+Card
