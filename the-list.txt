@@ -12063,4 +12063,66 @@ RPG
 TCG
 PvP
 Multiplayer
-Card
+Card Game
+~PAC-MAN 256
+Action
+Arcade
+Retro
+Casual
+Multiplayer
+Singleplayer
+Local Multiplayer
+Pixel Graphics
+Local Co-Op
+4 Player Local
+Classic
+Memes
+~Katamari Damacy Reroll
+Casual
+Great Soundtrack
+Action
+Surreal
+Classic
+Colorful
+Singleplayer
+Funny
+Comedy
+Cute
+Puzzle
+Family Friendly
+Remake
+Relaxing
+~Legends of Runeterra
+TCG
+PvP
+Multiplayer
+Card Game
+~Auto Chess
+Strategy
+Auto battler
+Multiplayer
+~Teamfight Tactics
+Strategy
+Auto battler
+Multiplayer
+~League of Legends
+Free to Play
+MOBA
+Multiplayer
+Strategy
+eSports
+Team-Based
+Competitive
+Action
+Online Co-Op
+PvP
+Difficult
+Co-op
+RTS
+Tower Defense
+Fantasy
+RPG
+Character Customization
+Replay Value
+Action RPG
+Simulation

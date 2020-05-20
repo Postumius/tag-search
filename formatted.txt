@@ -270,6 +270,10 @@ tags: Action Adventure Assassin
       Story Rich Third Person 
       Violent 
 
+title: Auto Chess
+tags: Auto battler Multiplayer 
+      Strategy 
+
 title: Awesomenauts
 tags: 2D Action Cartoon Co-op 
       Competitive Controller 
@@ -2553,6 +2557,13 @@ tags: Action Adventure Atmospheric
       Story Rich Third Person 
       Third-Person Shooter Violent 
 
+title: Katamari Damacy Reroll
+tags: Action Casual Classic Colorful 
+      Comedy Cute Family Friendly 
+      Funny Great Soundtrack Puzzle 
+      Relaxing Remake Singleplayer 
+      Surreal 
+
 title: Keep Talking and Nobody Explodes
 tags: Action Asymmetric VR 
       Atmospheric Co-op Difficult 
@@ -2715,6 +2726,16 @@ title: Le Havre: The Inland Port
 tags: Board Game Casual Indie 
       Strategy 
 
+title: League of Legends
+tags: Action Action RPG 
+      Character Customization Co-op 
+      Competitive Difficult eSports 
+      Fantasy Free to Play MOBA 
+      Multiplayer Online Co-Op PvP 
+      Replay Value RPG RTS 
+      Simulation Strategy Team-Based 
+      Tower Defense 
+
 title: Left 4 Dead
 tags: Action Adventure Atmospheric 
       Co-op Competitive 
@@ -2745,6 +2766,9 @@ tags: Action Action-Adventure
       Puzzle Retro Singleplayer 
       Story Rich Third Person 
       Vampire 
+
+title: Legends of Runeterra
+tags: Card Game Multiplayer PvP TCG 
 
 title: LEGO Batman 3: Beyond Gotham
 tags: Action Adventure Batman Co-op 
@@ -3488,7 +3512,7 @@ tags: Action Adventure Cartoony
       Tower Defense 
 
 title: Order & Chaos Duels
-tags: Card Multiplayer PvP TCG 
+tags: Card Game Multiplayer PvP TCG 
 
 title: Order of Battle: World War II
 tags: Asynchronous Multiplayer 
@@ -3549,6 +3573,13 @@ tags: 2.5D 2D Adventure Atmospheric
       Singleplayer Story Rich 
       Supernatural Thriller 
       Walking Simulator 
+
+title: PAC-MAN 256
+tags: 4 Player Local Action Arcade 
+      Casual Classic Local Co-Op 
+      Local Multiplayer Memes 
+      Multiplayer Pixel Graphics 
+      Retro Singleplayer 
 
 title: PAC-MAN Championship Edition DX+
 tags: 2D Action Addictive Arcade 
@@ -5003,6 +5034,10 @@ tags: Action Cartoon Cartoony
       Funny Hero Shooter Multiplayer 
       Online Co-Op Robots Shooter 
       Tactical Team-Based Trading 
+
+title: Teamfight Tactics
+tags: Auto battler Multiplayer 
+      Strategy 
 
 title: TEKKEN 7
 tags: 3D Fighter Action Anime Arcade 
