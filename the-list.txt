@@ -12126,3 +12126,65 @@ Character Customization
 Replay Value
 Action RPG
 Simulation
+~BROFORCE
+America
+Action
+Pixel Graphics
+Co-op
+2D
+Platformer
+Local Co-Op
+Indie
+Multiplayer
+Shooter
+Side Scroller
+Funny
+Retro
+Gore
+Local Multiplayer
+Comedy
+Adventure
+Arcade
+Casual
+Masterpiece
+~Heavy Bullets
+Indie
+Action
+Action Roguelike
+FPS
+Roguelike
+Shooter
+Roguelite
+Singleplayer
+First-Person
+Difficult
+Retro
+Perma Death
+Dungeon Crawler
+Horror
+Psychedelic
+Colorful
+Procedural Generation
+Adventure
+Masterpiece
+~LUFTRAUSERS
+Indie
+Bullet Hell
+Arcade
+Action
+Pixel Graphics
+2D
+Shoot 'Em Up
+Great Soundtrack
+Singleplayer
+Retro
+Shooter
+Fast-Paced
+Addictive
+Flight
+Difficult
+World War II
+Simulation
+Masterpiece
+Roguelike
+Replay Value
