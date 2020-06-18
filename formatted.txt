@@ -191,6 +191,17 @@ tags: Adventure Atmospheric
       Story Rich Turn-Based 
       Turn-Based Combat 
 
+title: ARK: Survival Evolved
+tags: Action Adventure Base Building 
+      Building Co-op Crafting 
+      Dinosaurs Dragons Early Access 
+      First-Person Indie 
+      Massively Multiplayer 
+      Multiplayer Open World 
+      Open World Survival Craft RPG 
+      Sandbox Sci-fi Singleplayer 
+      Survival 
+
 title: Arma 2
 tags: Action Co-op First-Person FPS 
       Military Moddable Multiplayer 
@@ -288,6 +299,18 @@ title: Aztez
 tags: 2D Fighter Action Beat 'em up 
       Character Action Game Fighting 
       Indie Strategy 
+
+title: Baba Is You
+tags: 2D Casual Cute Difficult 
+      Great Soundtrack Indie Logic 
+      Masterpiece Pixel Graphics 
+      Programming 
+      Psychological Horror Puzzle 
+      Singleplayer Sokoban 
+
+title: BADBLOOD
+tags: Casual Indie Local Multiplayer 
+      Sports Stealth 
 
 title: Baldur's Gate
 tags: Adventure Atmospheric 
@@ -546,6 +569,15 @@ tags: 2D 2D Platformer Adventure
       Side Scroller Singleplayer 
       Story Rich Strategy 
       Time Manipulation Time Travel 
+
+title: BROFORCE
+tags: 2D Action Adventure America 
+      Arcade Casual Co-op Comedy 
+      Funny Gore Indie Local Co-Op 
+      Local Multiplayer Masterpiece 
+      Multiplayer Pixel Graphics 
+      Platformer Retro Shooter 
+      Side Scroller 
 
 title: Broken Age
 tags: 2D Adventure Casual Classic 
@@ -1796,6 +1828,11 @@ tags: Action Action Roguelike Indie
       Roguelite RPG 
       Twin Stick Shooter 
 
+title: Flash Point: Fire Rescue
+tags: Board Game Casual Co-op 
+      Colorful Family Friendly Indie 
+      Strategy 
+
 title: Flotilla
 tags: Action Adventure Casual 
       Exploration Funny Indie 
@@ -1960,6 +1997,10 @@ tags: 2.5D 2D Action Adventure
       Local Multiplayer Multiplayer 
       Platformer Side Scroller 
       Singleplayer 
+
+title: Glittermitten Grove
+tags: 2D Memes Simulation 
+      Singleplayer Strategy 
 
 title: Gone Home
 tags: 1990's Adventure Atmospheric 
@@ -2144,6 +2185,16 @@ tags: Alternate History Difficult
       Sandbox Simulation 
       Singleplayer Strategy War 
       Wargame World War II 
+
+title: Heavy Bullets
+tags: Action Action Roguelike 
+      Adventure Colorful Difficult 
+      Dungeon Crawler First-Person 
+      FPS Horror Indie Masterpiece 
+      Perma Death 
+      Procedural Generation 
+      Psychedelic Retro Roguelike 
+      Roguelite Shooter Singleplayer 
 
 title: Hellblade: Senua's Sacrifice
 tags: Action Action-Adventure 
@@ -2870,6 +2921,17 @@ tags: 2D Action Action RPG
       Kickstarter LGBTQ+ RPG 
       Singleplayer Stylized Surreal 
 
+title: LUFTRAUSERS
+tags: 2D Action Addictive Arcade 
+      Bullet Hell Difficult 
+      Fast-Paced Flight 
+      Great Soundtrack Indie 
+      Masterpiece Pixel Graphics 
+      Replay Value Retro Roguelike 
+      Shoot 'Em Up Shooter 
+      Simulation Singleplayer 
+      World War II 
+
 title: Machinarium
 tags: 2D Adventure Atmospheric 
       Beautiful Casual Classic Cute 
@@ -3371,6 +3433,17 @@ tags: 2D 2D Fighter Action Casual
       Platformer 
       Psychological Horror PvP 
       Swordplay Violent 
+
+title: Night in the Woods
+tags: 2D Adventure Atmospheric 
+      Colorful Cute Drama 
+      Exploration Female Protagonist 
+      Funny Great Soundtrack Horror 
+      Indie Kickstarter Mystery 
+      Platformer 
+      Psychological Horror 
+      Side Scroller Singleplayer 
+      Story Rich Walking Simulator 
 
 title: NiGHTS Into Dreams
 tags: 2.5D Action Adventure Arcade 
@@ -4637,6 +4710,18 @@ tags: Action Adventure Atmospheric
       Story Rich Third Person 
       Third-Person Shooter War 
 
+title: Spelunky
+tags: 2D Action Action Roguelike 
+      Addictive Adventure Co-op 
+      Controller Difficult 
+      Great Soundtrack Indie 
+      Local Co-Op Local Multiplayer 
+      Perma Death Platformer 
+      Procedural Generation 
+      Replay Value Roguelike 
+      Roguelite Side Scroller 
+      Singleplayer 
+
 title: Splendor
 tags: Board Game Card Game Casual 
       Multiplayer Strategy Tabletop 
@@ -5301,6 +5386,12 @@ tags: Action Adventure Atmospheric
       Sci-fi Science Shooter 
       Singleplayer Sniper Space 
       Stealth Story Rich 
+
+title: The Space Between
+tags: Adventure Altgame artgame 
+      Atmospheric Dark Experimental 
+      Horror Mystery Retro Surreal 
+      Visual Novel 
 
 title: The Stanley Parable
 tags: Adventure Atmospheric Casual 

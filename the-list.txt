@@ -12188,3 +12188,113 @@ Simulation
 Masterpiece
 Roguelike
 Replay Value
+~Night in the Woods
+Story Rich
+Atmospheric
+Great Soundtrack
+Adventure
+Indie
+Female Protagonist
+Singleplayer
+Cute
+2D
+Colorful
+Mystery
+Exploration
+Funny
+Drama
+Platformer
+Side Scroller
+Psychological Horror
+Walking Simulator
+Horror
+Kickstarter
+~The Space Between
+Adventure
+Visual Novel
+Altgame
+artgame
+Atmospheric
+Dark
+Experimental
+Horror
+Mystery
+Retro
+Surreal
+~Glittermitten Grove
+Simulation
+Strategy
+2D
+Singleplayer
+Memes
+~BADBLOOD
+Indie
+Casual
+Sports
+Local Multiplayer
+Stealth
+~ARK: Survival Evolved 
+Open World Survival Craft
+Survival
+Open World
+Multiplayer
+Dinosaurs
+Crafting
+Building
+Adventure
+Base Building
+Co-op
+Action
+First-Person
+Sandbox
+Massively Multiplayer
+Early Access
+Singleplayer
+RPG
+Dragons
+Sci-fi
+Indie
+~Flash Point: Fire Rescue
+Casual
+Strategy
+Board Game
+Indie
+Family Friendly
+Co-op
+Colorful
+~Baba Is You
+Puzzle
+Indie
+Difficult
+Singleplayer
+Pixel Graphics
+Cute
+Logic
+2D
+Sokoban
+Programming
+Great Soundtrack
+Masterpiece
+Casual
+Psychological Horror
+~Spelunky
+Action Roguelike
+Roguelike
+Platformer
+Indie
+Difficult
+2D
+Local Co-Op
+Replay Value
+Procedural Generation
+Addictive
+Roguelite
+Action
+Perma Death
+Adventure
+Co-op
+Singleplayer
+Controller
+Local Multiplayer
+Great Soundtrack
+Side Scroller
